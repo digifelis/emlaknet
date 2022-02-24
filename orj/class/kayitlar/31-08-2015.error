@@ -1,0 +1,192 @@
+vt   : emlaknet_emlak
+sql  : SELECT uyeler.temiz_ad , uyeler.sirket , sehir.sehiradiUpper , count(ilan_ticari.id) as sayi FROM uyeler , sehir , ilan_ticari WHERE uyeler.il = sehir.plaka and uyeler.uye_tipi='1' group by uyeler.id ORDER BY RAND() LIMIT 0,15
+hata : Query execution was interrupted
+fonk : VT::sor
+satir: 5
+dosya: /backup/home3/emlaknet/public_html/tema8/footer.php
+zaman: 31.08.2015 10:34:24
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 31.08.2015 10:34:26
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 31.08.2015 10:34:26
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 31.08.2015 10:34:28
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 31.08.2015 10:34:28
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 31.08.2015 10:34:30
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 31.08.2015 10:34:30
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 31.08.2015 10:34:32
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 31.08.2015 10:34:33
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 31.08.2015 10:34:35
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 31.08.2015 10:34:35
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 31.08.2015 10:34:37
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 31.08.2015 10:34:37
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 31.08.2015 10:34:39
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 31.08.2015 10:34:39
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 31.08.2015 10:34:41
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 31.08.2015 10:34:41
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 31.08.2015 10:34:43
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 31.08.2015 10:34:43
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 31.08.2015 10:34:46
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 31.08.2015 10:34:46
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 31.08.2015 10:49:37
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 31.08.2015 10:49:40
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 31.08.2015 10:49:42
+

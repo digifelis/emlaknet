@@ -1,0 +1,6 @@
+.balloonstyle {
+	Z-INDEX: 100; BORDER-BOTTOM: black 1px solid; POSITION: absolute; FILTER: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135,Strength=5); BORDER-LEFT: black 1px solid; PADDING-BOTTOM: 5px; BACKGROUND-COLOR: white; PADDING-LEFT: 5px; WIDTH: 200px; PADDING-RIGHT: 5px; FONT: 12px/18px Verdana; VISIBILITY: hidden; BORDER-TOP: black 1px solid; TOP: -500px; BORDER-RIGHT: black 1px solid; PADDING-TOP: 5px; LEFT: 0px
+}
+#arrowhead {
+	Z-INDEX: 99; POSITION: absolute; VISIBILITY: hidden; TOP: -500px; LEFT: 0px
+}

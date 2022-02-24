@@ -1,0 +1,16 @@
+vt   : emlaknet_emlak
+sql  : update ilan_ticari set fiyat= '9500000', `birim`= '2',toplam_metrekare= '37000',kullanilabilir_metrekare= '37000',tapu_durum= '',adres= 'antalya manavgat ilçesi hatipler köyün'de manavgat merkezine 1 km. uzaklýkta alanya antalya yolu manavgat tabelasý giriþinde 37.000 m2. tamamý ticari olan avm için satýlýk arsa',posta_kodu= '',il_ilce= '',aciklama= 'antalya manavgat ilçesi hatipler köyün'de manavgat merkezine 1 km. uzaklýkta alanya antalya yolu manavgat tabelasý giriþinde 37.000 m2. tamamý ticari olan avm için satýlýk arsa',ilan_suresi= '365',satis_tarihi= 'hemen' , kredi='0' , dosya_no='' ,gx='', gy='' ,onay='0' where id= '3773'
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'de manavgat merkezine 1 km. uzaklýkta alanya antalya yolu manavgat tabelasý giri' at line 1
+fonk : VT::sor
+satir: 139
+dosya: /home/emlaknet/public_html/bayi/edit_form3.php
+zaman: 13.06.2013 08:41:15
+
+vt   : emlaknet_emlak
+sql  : select * from uyeler where id > 0 and email = nukhetaltun@hotmail.com order by id desc
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@hotmail.com order by id desc' at line 1
+fonk : VT::sor
+satir: 31
+dosya: /home/emlaknet/public_html/admin/uye.php
+zaman: 13.06.2013 09:50:45
+

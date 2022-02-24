@@ -1,0 +1,27 @@
+vt   : emlaknet_emlak
+sql  : select ilan_tipi_id,
+il,
+ilce,
+koy,
+id,
+kullanim_durumu,
+tapu_durum,
+bulundugu_kat,
+metrekare,
+oda_sayi,
+banyo_sayisi,
+bina_kat_sayisi,
+yapim_yili,
+salon_sayisi,
+yatak_odasi_sayisi,
+bas_tarihi,
+fiyat,
+birim, kullanilabilir_metrekare, ilan_ticari.uye_id,
+toplam_metrekare
+from ilan_ticari where ilan_ticari.id = "5435" limit 1
+hata : MySQL server has gone away
+fonk : VT::sor
+satir: 391
+dosya: /home/emlaknet/public_html/sabit/sonuc.php
+zaman: 17.11.2014 13:53:45
+

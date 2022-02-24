@@ -1,0 +1,8 @@
+vt   : emlaknet_emlak
+sql  : SELECT ilan_ticari.id FROM ilan_ticari, uyeler , ilan_foto,ilan_tipi where ilan_ticari.uye_id = uyeler.id and ilan_ticari.ilan_tipi_id=ilan_tipi.id and ilan_icdonanim.ilan_id = ilan_ticari.id and ilan_tipi_id = "3" and ilan_ticari.fiyat between "0" and "100000000" and ilan_ticari.il= "34" and ilan_ticari.balkon = "1" and ilan_ticari.bahce = "1" and ilan_ticari.kullanim_durumu = "4" and ilan_icdonanim.a1 = "9" and ilan_ticari.onay not in (1,3) group by ilan_ticari.id
+hata : Unknown column 'ilan_icdonanim.ilan_id' in 'where clause'
+fonk : VT::sor
+satir: 298
+dosya: /backup/home3/emlaknet/public_html/sabit/sonuc.php
+zaman: 09.10.2015 18:00:47
+

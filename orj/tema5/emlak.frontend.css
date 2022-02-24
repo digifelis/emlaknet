@@ -1,0 +1,3444 @@
+HTML {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; BACKGROUND: url(http://r3.emlak.net/img/bg.jpg) #fff repeat-x left top; COLOR: black; FONT-SIZE: 12px; PADDING-TOP: 0px
+}
+BODY {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; BACKGROUND: url(http://r3.emlak.net/img/bg.jpg) #fff repeat-x left top; COLOR: black; FONT-SIZE: 12px; PADDING-TOP: 0px
+}
+
+.tumu {
+	width: 1000px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+}
+
+FORM {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+IMG {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+FIELDSET {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+FORM {
+	DISPLAY: inline
+}
+IMG {
+	DISPLAY: block
+}
+UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DT {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+A {
+	TEXT-DECORATION: none
+}
+P {
+	MARGIN: 8px 0px
+}
+DIV {
+	POSITION: relative
+}
+SPAN {
+	POSITION: relative
+}
+INPUT {
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; FONT-SIZE: 12px
+}
+SELECT {
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; FONT-SIZE: 12px
+}
+TEXTAREA {
+	PADDING-BOTTOM: 10px; LINE-HEIGHT: 18px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif; FONT-SIZE: 12px; PADDING-TOP: 10px
+}
+H1 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-TOP: 0px
+}
+H3 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-TOP: 0px
+}
+H4 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-TOP: 0px
+}
+H5 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-TOP: 0px
+}
+H6 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-TOP: 0px
+}
+A.underline {
+	TEXT-DECORATION: none
+}
+A.underline:hover {
+	TEXT-DECORATION: underline
+}
+.oflow {
+	OVERFLOW: hidden
+}
+.title_oflow {
+	WIDTH: 100%; WHITE-SPACE: nowrap; OVERFLOW: hidden
+}
+.detail_topoffers_title {
+	LINE-HEIGHT: 16px; HEIGHT: 34px; OVERFLOW: hidden
+}
+.white {
+	COLOR: white
+}
+.black {
+	COLOR: black
+}
+.grey {
+	COLOR: #aaaaaa
+}
+.red {
+	COLOR: #b50000
+}
+.darkred {
+	COLOR: #bf0000
+}
+.orange {
+	COLOR: #f7931e
+}
+.green {
+	COLOR: #8cc63f
+}
+.darkgreen {
+	COLOR: #156500
+}
+.purple {
+	COLOR: #1f366e
+}
+.bg_white {
+	BACKGROUND-COLOR: #ffffff
+}
+.bg_grey {
+	BACKGROUND-COLOR: #f2f2f2
+}
+.bold {
+	FONT-WEIGHT: bold
+}
+.italic {
+	FONT-STYLE: italic
+}
+.normal {
+	FONT-WEIGHT: normal
+}
+.underline {
+	TEXT-DECORATION: underline
+}
+.nounderline {
+	TEXT-DECORATION: none
+}
+.s9 {
+	FONT-SIZE: 9px
+}
+.s11 {
+	FONT-SIZE: 11px
+}
+.s12 {
+	FONT-SIZE: 12px
+}
+.s14 {
+	FONT-SIZE: 14px
+}
+.s16 {
+	FONT-SIZE: 16px
+}
+.s20 {
+	FONT-SIZE: 20px
+}
+.s24 {
+	FONT-SIZE: 24px
+}
+.s30 {
+	FONT-SIZE: 30px
+}
+.s40 {
+	FONT-SIZE: 40px
+}
+.auto {
+	POSITION: relative; MARGIN: 0px auto
+}
+.left {
+	FLOAT: left
+}
+.right {
+	FLOAT: right
+}
+.text_l {
+	TEXT-ALIGN: left
+}
+.text_r {
+	TEXT-ALIGN: right
+}
+.text_c {
+	TEXT-ALIGN: center
+}
+.clear {
+	CLEAR: both; FONT-SIZE: 0.1em
+}
+.clear_l {
+	CLEAR: left
+}
+.clear_r {
+	CLEAR: right
+}
+.arrowed_black {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; BACKGROUND: url(http://r3.emlak.net/img/base_arrow_black.gif) no-repeat left center; PADDING-TOP: 0px
+}
+.bordered {
+	BORDER-BOTTOM: #cacaca 1px solid; BORDER-LEFT: #cacaca 1px solid; BORDER-TOP: #cacaca 1px solid; BORDER-RIGHT: #cacaca 1px solid
+}
+.bordered_right {
+	BORDER-RIGHT: #cacaca 1px solid
+}
+.bordered_dot_bottom {
+	BORDER-BOTTOM: #cacaca 1px dotted
+}
+.clearline {
+	BACKGROUND: #cacaca; HEIGHT: 1px; CLEAR: both; FONT-SIZE: 0.1em
+}
+.line_dotted {
+	BACKGROUND: url(http://r3.emlak.net/img/base_line_dotted_grey.gif) repeat-x left center
+}
+.line_dotted_top {
+	BACKGROUND: url(http://r3.emlak.net/img/base_line_dotted_grey.gif) repeat-x left top
+}
+.line_dotted_end {
+	BACKGROUND: url(http://r3.emlak.net/img/base_line_dotted_grey.gif) repeat-x left bottom
+}
+.w10 {
+	WIDTH: 10px
+}
+.w20 {
+	WIDTH: 20px
+}
+.w30 {
+	WIDTH: 30px
+}
+.w40 {
+	WIDTH: 40px
+}
+.w50 {
+	WIDTH: 50px
+}
+.w55 {
+	WIDTH: 55px
+}
+.w60 {
+	WIDTH: 60px
+}
+.w70 {
+	WIDTH: 70px
+}
+.w75 {
+	WIDTH: 75px
+}
+.w80 {
+	WIDTH: 80px
+}
+.w90 {
+	WIDTH: 90px
+}
+.w100 {
+	WIDTH: 100px
+}
+.w110 {
+	WIDTH: 110px
+}
+.w120 {
+	WIDTH: 120px
+}
+.w130 {
+	WIDTH: 130px
+}
+.w132 {
+	WIDTH: 132px
+}
+.w138 {
+	WIDTH: 136px
+}
+.w140 {
+	WIDTH: 140px
+}
+.w145 {
+	WIDTH: 145px
+}
+.w150 {
+	WIDTH: 150px
+}
+.w155 {
+	WIDTH: 155px
+}
+.w160 {
+	WIDTH: 160px
+}
+.w165 {
+	WIDTH: 165px
+}
+.w170 {
+	WIDTH: 170px
+}
+.w175 {
+	WIDTH: 175px
+}
+.w180 {
+	WIDTH: 180px
+}
+.w184 {
+	WIDTH: 184px
+}
+.w185 {
+	WIDTH: 185px
+}
+.w190 {
+	WIDTH: 190px
+}
+.w200 {
+	WIDTH: 200px
+}
+.w210 {
+	WIDTH: 210px
+}
+.w220 {
+	WIDTH: 220px
+}
+.w230 {
+	WIDTH: 230px
+}
+.w240 {
+	WIDTH: 240px
+}
+.w250 {
+	WIDTH: 250px
+}
+.w260 {
+	WIDTH: 260px
+}
+.w270 {
+	WIDTH: 270px
+}
+.w280 {
+	WIDTH: 280px
+}
+.w290 {
+	WIDTH: 290px
+}
+.w300 {
+	WIDTH: 300px
+}
+.w310 {
+	WIDTH: 310px
+}
+.w320 {
+	WIDTH: 320px
+}
+.w330 {
+	WIDTH: 330px
+}
+.w340 {
+	WIDTH: 340px
+}
+.w350 {
+	WIDTH: 350px
+}
+.w360 {
+	WIDTH: 360px
+}
+.w365 {
+	WIDTH: 365px
+}
+.w380 {
+	WIDTH: 380px
+}
+.w390 {
+	WIDTH: 390px
+}
+.w400 {
+	WIDTH: 400px
+}
+.w405 {
+	WIDTH: 405px
+}
+.w410 {
+	WIDTH: 410px
+}
+.w420 {
+	WIDTH: 420px
+}
+.w430 {
+	WIDTH: 430px
+}
+.w435 {
+	WIDTH: 435px
+}
+.w440 {
+	WIDTH: 440px
+}
+.w445 {
+	WIDTH: 445px
+}
+.w450 {
+	WIDTH: 450px
+}
+.w460 {
+	WIDTH: 460px
+}
+.w470 {
+	WIDTH: 470px
+}
+.w475 {
+	WIDTH: 475px
+}
+.w485 {
+	WIDTH: 485px
+}
+.w480 {
+	WIDTH: 480px
+}
+.w490 {
+	WIDTH: 490px
+}
+.w500 {
+	WIDTH: 500px
+}
+.w510 {
+	WIDTH: 510px
+}
+.w520 {
+	WIDTH: 520px
+}
+.w530 {
+	WIDTH: 530px
+}
+.w540 {
+	WIDTH: 540px
+}
+.w550 {
+	WIDTH: 550px
+}
+.w560 {
+	WIDTH: 560px
+}
+.w570 {
+	WIDTH: 570px
+}
+.w575 {
+	WIDTH: 575px
+}
+.w580 {
+	WIDTH: 580px
+}
+.w590 {
+	WIDTH: 590px
+}
+.w600 {
+	WIDTH: 600px
+}
+.w620 {
+	WIDTH: 620px
+}
+.w630 {
+	WIDTH: 630px
+}
+.w640 {
+	WIDTH: 640px
+}
+.w660 {
+	WIDTH: 660px
+}
+.w680 {
+	WIDTH: 680px
+}
+.w700 {
+	WIDTH: 700px
+}
+.w710 {
+	WIDTH: 710px
+}
+.w720 {
+	WIDTH: 720px
+}
+.w730 {
+	WIDTH: 730px
+}
+.w750 {
+	WIDTH: 750px
+}
+.w760 {
+	WIDTH: 760px
+}
+.w770 {
+	WIDTH: 770px
+}
+.w800 {
+	WIDTH: 800px
+}
+.w810 {
+	WIDTH: 810px
+}
+.w820 {
+	WIDTH: 820px
+}
+.w830 {
+	WIDTH: 830px
+}
+.w960 {
+	WIDTH: 960px
+}
+.w980 {
+	WIDTH: 980px
+}
+.h3 {
+	LINE-HEIGHT: 0px; HEIGHT: 3px; FONT-SIZE: 0.1em
+}
+.h5 {
+	LINE-HEIGHT: 0px; HEIGHT: 5px; FONT-SIZE: 0.1em
+}
+.h6 {
+	LINE-HEIGHT: 0px; HEIGHT: 6px; FONT-SIZE: 0.1em
+}
+.h10 {
+	LINE-HEIGHT: 0px; HEIGHT: 10px; FONT-SIZE: 0.1em
+}
+.h11 {
+	LINE-HEIGHT: 0px; HEIGHT: 11px; FONT-SIZE: 0.1em
+}
+.h20 {
+	LINE-HEIGHT: 0px; HEIGHT: 20px; FONT-SIZE: 0.1em
+}
+.h22 {
+	LINE-HEIGHT: 0px; HEIGHT: 22px; FONT-SIZE: 0.1em
+}
+.h26 {
+	LINE-HEIGHT: 0px; HEIGHT: 26px; FONT-SIZE: 0.1em
+}
+.h30 {
+	LINE-HEIGHT: 0px; HEIGHT: 30px; FONT-SIZE: 0.1em
+}
+.h35 {
+	LINE-HEIGHT: 0px; HEIGHT: 35px; FONT-SIZE: 0.1em
+}
+.h80 {
+	LINE-HEIGHT: 0px; HEIGHT: 80px; FONT-SIZE: 0.1em
+}
+.h470 {
+	LINE-HEIGHT: 0px; MIN-HEIGHT: 470px; FONT-SIZE: 0.1em
+}
+.lh16 {
+	LINE-HEIGHT: 16px
+}
+.lh18 {
+	LINE-HEIGHT: 18px
+}
+.lh20 {
+	LINE-HEIGHT: 20px
+}
+.lh23 {
+	LINE-HEIGHT: 23px
+}
+.lh24 {
+	LINE-HEIGHT: 24px
+}
+.lh26 {
+	LINE-HEIGHT: 26px
+}
+.lh28 {
+	LINE-HEIGHT: 28px
+}
+.lh30 {
+	LINE-HEIGHT: 30px
+}
+.lh32 {
+	LINE-HEIGHT: 32px
+}
+.lh40 {
+	LINE-HEIGHT: 40px
+}
+.m_l_5 {
+	MARGIN-LEFT: 5px
+}
+.m_l_10 {
+	MARGIN-LEFT: 10px
+}
+.m_l_15 {
+	MARGIN-LEFT: 15px
+}
+.m_l_20 {
+	MARGIN-LEFT: 20px
+}
+.m_l_100 {
+	MARGIN-LEFT: 100px
+}
+.m_r_3 {
+	MARGIN-RIGHT: 3px
+}
+.m_r_5 {
+	MARGIN-RIGHT: 5px
+}
+.m_r_8 {
+	MARGIN-RIGHT: 8px
+}
+.m_r_10 {
+	MARGIN-RIGHT: 10px
+}
+.m_r_15 {
+	MARGIN-RIGHT: 15px
+}
+.m_r_30 {
+	MARGIN-RIGHT: 30px
+}
+.m_r_20 {
+	MARGIN-RIGHT: 20px
+}
+.m_r_50 {
+	MARGIN-RIGHT: 50px
+}
+.m_r_100 {
+	MARGIN-RIGHT: 100px
+}
+.m_t_3 {
+	MARGIN-TOP: 3px
+}
+.m_t_5 {
+	MARGIN-TOP: 5px
+}
+.m_t_10 {
+	MARGIN-TOP: 10px
+}
+.m_t_20 {
+	MARGIN-TOP: 20px
+}
+.m_rb_10 {
+	MARGIN: 0px 10px 10px 0px
+}
+.m_b_5 {
+	MARGIN-BOTTOM: 5px
+}
+.m_b_10 {
+	MARGIN-BOTTOM: 10px
+}
+.m_b_20 {
+	MARGIN-BOTTOM: 20px
+}
+.m_l_5_r_10 {
+	MARGIN: 0px 10px 0px 5px
+}
+.m_lr_20 {
+	MARGIN: 0px 20px 0px 10px
+}
+.p_r_5 {
+	PADDING-RIGHT: 5px
+}
+.p_r_10 {
+	PADDING-RIGHT: 10px
+}
+.p_r_20 {
+	PADDING-RIGHT: 15px
+}
+.p_l_10 {
+	PADDING-LEFT: 10px
+}
+.p_lr_10 {
+	PADDING-LEFT: 10px; PADDING-RIGHT: 10px
+}
+.p_t_5 {
+	PADDING-TOP: 5px
+}
+.p_t_10 {
+	PADDING-TOP: 10px
+}
+.p10 {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px
+}
+.p20 {
+	PADDING-BOTTOM: 20px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; PADDING-TOP: 20px
+}
+.input_h26_white {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: block; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) repeat-x left -100px; HEIGHT: 20px; PADDING-TOP: 3px
+}
+.input_h26_white .lend {
+	POSITION: absolute; WIDTH: 5px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) #fff no-repeat left -126px; HEIGHT: 26px; FONT-SIZE: 0.1em; TOP: 0px; LEFT: 0px
+}
+.input_h26_white .rend {
+	POSITION: absolute; WIDTH: 5px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) #fff no-repeat right -126px; HEIGHT: 26px; FONT-SIZE: 0.1em; RIGHT: 0px; TOP: 0px
+}
+.input_h26_white INPUT {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 22px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.input_h26_white SELECT {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 2px 0px 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: white; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.input_h26 {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: block; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) repeat-x left -152px; HEIGHT: 20px; PADDING-TOP: 3px
+}
+.input_h26 .lend {
+	POSITION: absolute; WIDTH: 5px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) #fff no-repeat left -178px; HEIGHT: 26px; FONT-SIZE: 0.1em; TOP: 0px; LEFT: 0px
+}
+.input_h26 .rend {
+	POSITION: absolute; WIDTH: 5px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) #fff no-repeat right -178px; HEIGHT: 26px; FONT-SIZE: 0.1em; RIGHT: 0px; TOP: 0px
+}
+.input_h26 INPUT {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 22px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.input_h26 SELECT {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 2px 0px 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.input_h26_error {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: block; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) repeat-x left -204px; HEIGHT: 20px; PADDING-TOP: 3px
+}
+.input_h26_error .lend {
+	POSITION: absolute; WIDTH: 5px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) #fff no-repeat left -230px; HEIGHT: 26px; FONT-SIZE: 0.1em; TOP: 0px; LEFT: 0px
+}
+.input_h26_error .rend {
+	POSITION: absolute; WIDTH: 5px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) #fff no-repeat right -230px; HEIGHT: 26px; FONT-SIZE: 0.1em; RIGHT: 0px; TOP: 0px
+}
+.input_h26_error INPUT {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 22px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.input_h26_error SELECT {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 2px 0px 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.input_h32 {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: block; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) repeat-x left -300px; HEIGHT: 26px; PADDING-TOP: 3px
+}
+.input_h32 .lend {
+	POSITION: absolute; WIDTH: 5px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) #fff no-repeat left -332px; HEIGHT: 32px; FONT-SIZE: 0.1em; TOP: 0px; LEFT: 0px
+}
+.input_h32 .rend {
+	POSITION: absolute; WIDTH: 5px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) #fff no-repeat right -332px; HEIGHT: 32px; FONT-SIZE: 0.1em; RIGHT: 0px; TOP: 0px
+}
+.input_h32 INPUT {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px; MARGIN: 3px 0px 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 22px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.input_h32 SELECT {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 3px 0px 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.input_h26_green {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: block; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) repeat-x left -720px; HEIGHT: 20px; PADDING-TOP: 3px
+}
+.input_h26_green .lend {
+	POSITION: absolute; WIDTH: 5px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) #fff no-repeat left -746px; HEIGHT: 26px; FONT-SIZE: 0.1em; TOP: 0px; LEFT: 0px
+}
+.input_h26_green .rend {
+	POSITION: absolute; WIDTH: 5px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) #fff no-repeat right -746px; HEIGHT: 26px; FONT-SIZE: 0.1em; RIGHT: 0px; TOP: 0px
+}
+.input_h26_green INPUT {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: #dde8da; HEIGHT: 22px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.input_h26_green SELECT {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 2px 0px 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: #dde8da; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.error_label {
+	COLOR: #bf0000
+}
+.alert_info {
+	LINE-HEIGHT: 20px; TEXT-INDENT: 20px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/icon_alert.gif) #fff no-repeat left center; COLOR: #082b33; FONT-SIZE: 11px
+}
+.alert_error {
+	BORDER-BOTTOM: #b00000 1px solid; BORDER-LEFT: #b00000 1px solid; PADDING-BOTTOM: 5px; TEXT-INDENT: 25px; MARGIN: 0px 0px 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/icon_alert.gif) #f0e3e3 no-repeat 10px center; COLOR: #bf0000; FONT-SIZE: 11px; BORDER-TOP: #b00000 1px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #b00000 1px solid; PADDING-TOP: 5px
+}
+.alert_info A {
+	COLOR: #000; FONT-WEIGHT: bold
+}
+.alert_warning A {
+	COLOR: #000; FONT-WEIGHT: bold
+}
+.alert_error A {
+	COLOR: #000; FONT-WEIGHT: bold
+}
+.alert_success A {
+	COLOR: #000; FONT-WEIGHT: bold
+}
+.titlebar_simple_top {
+	HEIGHT: 5px; FONT-SIZE: 0.1em
+}
+.titlebar_simple_top .top {
+	MARGIN: 0px 5px 0px 0px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) repeat-x left -420px; HEIGHT: 5px
+}
+.titlebar_simple_top .end {
+	POSITION: absolute; WIDTH: 10px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) no-repeat right -420px; HEIGHT: 5px; RIGHT: 0px; TOP: 0px
+}
+.titlebar_simple_end {
+	HEIGHT: 5px; FONT-SIZE: 0.1em
+}
+.titlebar_simple_end .top {
+	MARGIN: 0px 5px 0px 0px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) repeat-x left -425px; HEIGHT: 5px
+}
+.titlebar_simple_end .end {
+	POSITION: absolute; WIDTH: 10px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) no-repeat right -425px; HEIGHT: 5px; RIGHT: 0px; TOP: 0px
+}
+.titlebar_simple_content {
+	BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 9px; PADDING-RIGHT: 9px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) repeat-x left -400px; HEIGHT: 20px; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.titlebar_simple_content .title {
+	TEXT-ALIGN: left; LINE-HEIGHT: 20px; FLOAT: left; HEIGHT: 20px; COLOR: #222; FONT-WEIGHT: bold
+}
+.titlebar_simple_content .more {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) no-repeat left -430px; FLOAT: right; HEIGHT: 20px; COLOR: #000000; PADDING-TOP: 0px
+}
+.titlebar_simple_content .more:hover {
+	BACKGROUND-POSITION: left -450px; TEXT-DECORATION: underline
+}
+.titlebar_colored {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 0px
+}
+.titlebar_colored .mid {
+	LINE-HEIGHT: 30px; WIDTH: 100%; BACKGROUND: url(http://r3.emlak.net//img/sprite_boxes-bars.png) no-repeat left -650px; HEIGHT: 30px; FONT-SIZE: 16px; FONT-WEIGHT: bold
+}
+.titlebar_colored .lend {
+	POSITION: absolute; WIDTH: 10px; BACKGROUND: url(http://r3.emlak.net//img/sprite_boxes-bars.png) no-repeat left -680px; HEIGHT: 30px; TOP: 0px; LEFT: 0px
+}
+.titlebar_colored .rend {
+	POSITION: absolute; WIDTH: 10px; BACKGROUND: url(http://r3.emlak.net//img/sprite_boxes-bars.png) no-repeat right -680px; HEIGHT: 30px; RIGHT: 0px; TOP: 0px
+}
+.boxbar_black_top {
+	HEIGHT: 5px; FONT-SIZE: 0.1em
+}
+.boxbar_black_top .top {
+	MARGIN: 0px 5px 0px 0px; BACKGROUND: url(http://r3.emlak.net/img/boxbar_black.png) repeat-x left -25px; HEIGHT: 5px
+}
+.boxbar_black_top .end {
+	POSITION: absolute; WIDTH: 10px; BACKGROUND: url(http://r3.emlak.net/img/boxbar_black.png) no-repeat right -25px; HEIGHT: 5px; RIGHT: 0px; TOP: 0px
+}
+.boxbar_black_content {
+	BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 3px; LINE-HEIGHT: 20px; PADDING-LEFT: 9px; PADDING-RIGHT: 9px; BACKGROUND: url(http://r3.emlak.net/img/boxbar_black.png) repeat-x left 0px; HEIGHT: 20px; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.boxbar_black_content .title {
+	TEXT-ALIGN: left; LINE-HEIGHT: 20px; FLOAT: left; HEIGHT: 20px; COLOR: #fff; FONT-WEIGHT: bold
+}
+.boxbar_black_content .close {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 22px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/filterentry_close_large.png) no-repeat left 0px; FLOAT: right; HEIGHT: 20px; COLOR: #fff; PADDING-TOP: 0px
+}
+.boxbar_black_content .close:hover {
+	BACKGROUND-POSITION: left -20px; TEXT-DECORATION: underline
+}
+.results_chosentrader {
+	BORDER-BOTTOM: #cacaca 1px solid; BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 9px; BACKGROUND-COLOR: #f6f0e3; PADDING-LEFT: 9px; WIDTH: 710px; PADDING-RIGHT: 9px; BORDER-TOP: #cacaca 1px solid; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 9px
+}
+.tabs_outerbox {
+	BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) no-repeat right -500px; FLOAT: left
+}
+.tabs_outerbox .more {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; MARGIN: 5px 10px 0px 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) no-repeat left -430px; FLOAT: right; HEIGHT: 20px; COLOR: #000000; PADDING-TOP: 0px
+}
+.tabs_outerbox .more:hover {
+	BACKGROUND-POSITION: left -450px; TEXT-DECORATION: underline
+}
+.tabs {
+	FLOAT: left
+}
+.tabs LI {
+	FLOAT: left
+}
+.tabs A {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; MARGIN: 0px 1px 0px 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FLOAT: left; HEIGHT: 30px; PADDING-TOP: 0px
+}
+.tab_l A {
+	BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) no-repeat left -560px; COLOR: #222
+}
+.tab_l A:hover {
+	BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) no-repeat left -530px; COLOR: #fff
+}
+.tab_l .active {
+	BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) no-repeat left -530px; COLOR: #fff
+}
+.tab_m A {
+	BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) no-repeat right -560px; COLOR: #222
+}
+.tab_m A:hover {
+	BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) no-repeat right -530px; COLOR: #fff
+}
+.tab_m .active {
+	BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) no-repeat right -530px; COLOR: #fff
+}
+.boxtop_white_rounded {
+	LINE-HEIGHT: 0.1em; HEIGHT: 10px; FONT-SIZE: 0.1em
+}
+.boxtop_white_rounded .top {
+	MARGIN: 0px 10px 0px 0px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) repeat-x left 0px; HEIGHT: 10px
+}
+.boxtop_white_rounded .end {
+	POSITION: absolute; WIDTH: 10px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) no-repeat right 0px; HEIGHT: 10px; RIGHT: 0px; TOP: 0px
+}
+.boxend_white_rounded {
+	LINE-HEIGHT: 0.1em; HEIGHT: 10px; FONT-SIZE: 0.1em
+}
+.boxend_white_rounded .top {
+	MARGIN: 0px 10px 0px 0px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) repeat-x left -10px; HEIGHT: 10px
+}
+.boxend_white_rounded .end {
+	POSITION: absolute; WIDTH: 10px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) no-repeat right -10px; HEIGHT: 10px; RIGHT: 0px; TOP: 0px
+}
+.box_white_content {
+	BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 4px; BACKGROUND-COLOR: #ffffff; PADDING-LEFT: 9px; PADDING-RIGHT: 9px; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 4px
+}
+.box_white_content_largepad {
+	BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 9px; BACKGROUND-COLOR: #ffffff; PADDING-LEFT: 19px; PADDING-RIGHT: 19px; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 9px
+}
+.box_white_content_nopad {
+	BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.box_content_gradient {
+	BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 9px; PADDING-LEFT: 19px; PADDING-RIGHT: 19px; BACKGROUND: url(http://r3.emlak.net/img/base_bg_gradient.png) #fff repeat-x left top; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 9px
+}
+.box_content_2cols {
+	BACKGROUND: url(http://r3.emlak.net/img/base_dot_grey.gif) repeat-y center top
+}
+.boxtop_white_rounded_rend .top {
+	MARGIN: 0px 10px 0px 0px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) repeat-x left 0px; HEIGHT: 10px
+}
+.boxtop_white_rounded .end {
+	POSITION: absolute; WIDTH: 10px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) no-repeat right 0px; HEIGHT: 10px; RIGHT: 0px; TOP: 0px
+}
+.boxtop_grey_rounded {
+	LINE-HEIGHT: 0.1em; HEIGHT: 10px; FONT-SIZE: 0.1em
+}
+.boxtop_grey_rounded .top {
+	MARGIN: 0px 10px 0px 0px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) repeat-x left -20px; HEIGHT: 10px
+}
+.boxtop_grey_rounded .end {
+	POSITION: absolute; WIDTH: 10px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) no-repeat right -20px; HEIGHT: 10px; RIGHT: 0px; TOP: 0px
+}
+.boxend_grey_rounded {
+	LINE-HEIGHT: 0.1em; HEIGHT: 10px; FONT-SIZE: 0.1em
+}
+.boxend_grey_rounded .top {
+	MARGIN: 0px 10px 0px 0px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) repeat-x left -30px; HEIGHT: 10px
+}
+.boxend_grey_rounded .end {
+	POSITION: absolute; WIDTH: 10px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) no-repeat right -30px; HEIGHT: 10px; RIGHT: 0px; TOP: 0px
+}
+.box_grey_content {
+	BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 4px; BACKGROUND-COLOR: #f6f6f6; PADDING-LEFT: 9px; PADDING-RIGHT: 9px; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 4px
+}
+.box_grey_content_slimpad {
+	BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #f6f6f6; PADDING-LEFT: 9px; PADDING-RIGHT: 9px; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.boxtop_green_rounded {
+	LINE-HEIGHT: 0.1em; HEIGHT: 10px; FONT-SIZE: 0.1em
+}
+.boxtop_green_rounded .top {
+	MARGIN: 0px 10px 0px 0px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) repeat-x left -40px; HEIGHT: 10px
+}
+.boxtop_green_rounded .end {
+	POSITION: absolute; WIDTH: 10px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) no-repeat right -40px; HEIGHT: 10px; RIGHT: 0px; TOP: 0px
+}
+.boxend_green_rounded {
+	LINE-HEIGHT: 0.1em; HEIGHT: 10px; FONT-SIZE: 0.1em
+}
+.boxend_green_rounded .top {
+	MARGIN: 0px 10px 0px 0px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) repeat-x left -50px; HEIGHT: 10px
+}
+.boxend_green_rounded .end {
+	POSITION: absolute; WIDTH: 10px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) no-repeat right -50px; HEIGHT: 10px; RIGHT: 0px; TOP: 0px
+}
+.box_green_content {
+	BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 4px; BACKGROUND-COLOR: #e8f0e6; PADDING-LEFT: 9px; PADDING-RIGHT: 9px; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 4px
+}
+.li_left LI {
+	FLOAT: left
+}
+.li_w130 LI {
+	WIDTH: 130px; WHITE-SPACE: nowrap; OVERFLOW: hidden
+}
+.li_w210 LI {
+	WIDTH: 210px; WHITE-SPACE: nowrap; OVERFLOW: hidden
+}
+.li_m_r_10 LI {
+	MARGIN: 0px 10px 0px 0px
+}
+.li_m_r_20 LI {
+	MARGIN: 0px 20px 0px 0px
+}
+.list_simple LI {
+	POSITION: relative; PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; BACKGROUND: url(http://r3.emlak.net/img/base_arrow_black.gif) no-repeat 2px center; PADDING-TOP: 0px
+}
+.list_simple A {
+	COLOR: #000
+}
+.list_simple A:hover {
+	TEXT-DECORATION: underline
+}
+.list_dotted_arrowed LI {
+	BORDER-BOTTOM: #cacaca 1px dotted; POSITION: relative; PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 12px; PADDING-RIGHT: 0px; BACKGROUND: url(http://r3.emlak.net/img/base_arrow_black.gif) no-repeat 3px 7px; PADDING-TOP: 0px
+}
+.list_dotted_arrowed LI.active {
+	BACKGROUND-COLOR: #e3f2df; FONT-WEIGHT: bold
+}
+.list_dotted_arrowed A {
+	COLOR: #000
+}
+.list_dotted_arrowed A:hover {
+	TEXT-DECORATION: underline
+}
+.list_arrowed_overflow LI {
+	POSITION: relative; PADDING-BOTTOM: 0px; MARGIN: 0px 10px 0px 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; BACKGROUND: url(http://r3.emlak.net/img/base_arrow_black.gif) no-repeat left center; FLOAT: left; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.list_arrowed_overflow A {
+	LINE-HEIGHT: 20px; WHITE-SPACE: nowrap; COLOR: #000000
+}
+.list_arrowed_overflow A:hover {
+	TEXT-DECORATION: underline
+}
+.list_checkbox_dotted {
+	BORDER-BOTTOM: #cacaca 1px dotted; PADDING-BOTTOM: 1px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.list_checkbox_dotted INPUT {
+	MARGIN: 4px 3px 0px 0px
+}
+.list_special LI {
+	BORDER-BOTTOM: #cacaca 1px dotted; PADDING-BOTTOM: 2px; LINE-HEIGHT: 18px; MARGIN: 0px 5px; PADDING-LEFT: 2px; WIDTH: 152px; PADDING-RIGHT: 2px; FLOAT: left; HEIGHT: 36px; OVERFLOW: hidden; PADDING-TOP: 2px
+}
+.list_special LI:hover {
+	BACKGROUND-COLOR: #e3f2df
+}
+.list_special .title {
+	WHITE-SPACE: nowrap; OVERFLOW: hidden; FONT-WEIGHT: bold
+}
+.list_special .title:hover {
+	TEXT-DECORATION: underline
+}
+.list_special .region {
+	WHITE-SPACE: nowrap; OVERFLOW: hidden
+}
+.list_check LI {
+	BORDER-BOTTOM: #cacaca 1px dotted; POSITION: relative; PADDING-BOTTOM: 2px; LINE-HEIGHT: 16px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(http://r3.emlak.net/img/base_check.gif) no-repeat left center; PADDING-TOP: 2px
+}
+.list_check_nodot LI {
+	POSITION: relative; PADDING-BOTTOM: 2px; LINE-HEIGHT: 18px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(http://r3.emlak.net/img/base_check.gif) no-repeat left center; PADDING-TOP: 2px
+}
+.button_50x26 {
+	BORDER-BOTTOM: 0px; TEXT-ALIGN: center; BORDER-LEFT: 0px; LINE-HEIGHT: 26px; WIDTH: 50px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_buttons.png) no-repeat -100px top; HEIGHT: 26px; COLOR: #542000; FONT-SIZE: 14px; BORDER-TOP: 0px; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: 0px; text-shadow: #ffda5a 1px 1px 1px
+}
+.button_50x26:hover {
+	BACKGROUND-POSITION: -100px -26px; COLOR: #fff; text-shadow: #333 1px 1px 1px
+}
+.button_100x26 {
+	BORDER-BOTTOM: 0px; TEXT-ALIGN: center; BORDER-LEFT: 0px; LINE-HEIGHT: 26px; WIDTH: 100px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_buttons.png) no-repeat left top; HEIGHT: 26px; COLOR: #542000; FONT-SIZE: 14px; BORDER-TOP: 0px; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: 0px; text-shadow: #ffda5a 1px 1px 1px
+}
+.button_100x26:hover {
+	BACKGROUND-POSITION: left -26px; COLOR: #fff; text-shadow: #333 1px 1px 1px
+}
+.button_100x36 {
+	BORDER-BOTTOM: 0px; TEXT-ALIGN: center; BORDER-LEFT: 0px; LINE-HEIGHT: 36px; WIDTH: 100px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_buttons.png) no-repeat left -100px; HEIGHT: 36px; COLOR: #542000; FONT-SIZE: 14px; BORDER-TOP: 0px; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: 0px; text-shadow: #ffda5a 1px 1px 1px
+}
+.button_100x36:hover {
+	BACKGROUND-POSITION: left -136px; COLOR: #fff; text-shadow: #333 1px 1px 1px
+}
+.button_goregister {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 14px; PADDING-LEFT: 70px; PADDING-RIGHT: 10px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_buttons.png) no-repeat left -500px; HEIGHT: 37px; COLOR: #000; CURSOR: pointer; PADDING-TOP: 6px
+}
+.button_goregister:hover {
+	BACKGROUND-POSITION: left -543px; COLOR: #fff
+}
+.button_goregister SPAN {
+	MARGIN: 0px; DISPLAY: block
+}
+.button_refresh {
+	BORDER-BOTTOM: 0px; TEXT-ALIGN: center; BORDER-LEFT: 0px; LINE-HEIGHT: 32px; TEXT-INDENT: 15px; MARGIN: 0px auto; WIDTH: 180px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_buttons.png) no-repeat left -200px; HEIGHT: 32px; COLOR: #542000; FONT-SIZE: 12px; BORDER-TOP: 0px; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: 0px; text-shadow: #ffda5a 1px 1px 1px
+}
+.button_refresh:hover {
+	BACKGROUND-POSITION: left -232px; COLOR: #fff; text-shadow: #333 1px 1px 1px
+}
+.button_equip_inside {
+	BORDER-BOTTOM: 0px; TEXT-ALIGN: center; BORDER-LEFT: 0px; LINE-HEIGHT: 32px; TEXT-INDENT: 15px; MARGIN: 0px auto; WIDTH: 180px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_buttons.png) no-repeat left -300px; HEIGHT: 32px; COLOR: #37425e; FONT-SIZE: 12px; BORDER-TOP: 0px; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: 0px; text-shadow: #d2d8e4 1px 1px 1px
+}
+.button_equip_inside:hover {
+	BACKGROUND-POSITION: left -332px; COLOR: #fff; text-shadow: #000 1px 1px 1px
+}
+.button_equip_outside {
+	BORDER-BOTTOM: 0px; TEXT-ALIGN: center; BORDER-LEFT: 0px; LINE-HEIGHT: 32px; TEXT-INDENT: 15px; MARGIN: 0px auto; WIDTH: 180px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_buttons.png) no-repeat left -364px; HEIGHT: 32px; COLOR: #37425e; FONT-SIZE: 12px; BORDER-TOP: 0px; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: 0px; text-shadow: #d2d8e4 1px 1px 1px
+}
+.button_equip_outside:hover {
+	BACKGROUND-POSITION: left -396px; COLOR: #fff; text-shadow: #000 1px 1px 1px
+}
+.button_equip_envi {
+	BORDER-BOTTOM: 0px; TEXT-ALIGN: center; BORDER-LEFT: 0px; LINE-HEIGHT: 32px; TEXT-INDENT: 15px; MARGIN: 0px auto; WIDTH: 180px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_buttons.png) no-repeat left -428px; HEIGHT: 32px; COLOR: #37425e; FONT-SIZE: 12px; BORDER-TOP: 0px; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: 0px; text-shadow: #d2d8e4 1px 1px 1px
+}
+.button_equip_envi:hover {
+	BACKGROUND-POSITION: left -460px; COLOR: #fff; text-shadow: #000 1px 1px 1px
+}
+.button_200x26_alt {
+	BORDER-BOTTOM: 0px; TEXT-ALIGN: center; BORDER-LEFT: 0px; LINE-HEIGHT: 26px; MARGIN: 0px auto; WIDTH: 200px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_buttons.png) no-repeat left -600px; HEIGHT: 26px; COLOR: #37425e; FONT-SIZE: 12px; BORDER-TOP: 0px; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: 0px; text-shadow: #d2d8e4 1px 1px 1px
+}
+.button_200x26_alt:hover {
+	BACKGROUND-POSITION: left -626px; COLOR: #fff; text-shadow: #000 1px 1px 1px
+}
+.button_150x26 {
+	BORDER-BOTTOM: 0px; TEXT-ALIGN: center; BORDER-LEFT: 0px; LINE-HEIGHT: 26px; MARGIN: 0px auto; WIDTH: 150px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_buttons.png) no-repeat left -600px; HEIGHT: 26px; COLOR: #37425e; FONT-SIZE: 12px; BORDER-TOP: 0px; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: 0px; text-shadow: #d2d8e4 1px 1px 1px
+}
+.button_150x26:hover {
+	BACKGROUND-POSITION: left -626px; COLOR: #fff; text-shadow: #000 1px 1px 1px
+}
+.button_150x26_alt {
+	BORDER-BOTTOM: 0px; TEXT-ALIGN: center; BORDER-LEFT: 0px; LINE-HEIGHT: 26px; MARGIN: 0px auto; WIDTH: 150px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_buttons.png) no-repeat left -660px; HEIGHT: 26px; COLOR: #37425e; FONT-SIZE: 12px; BORDER-TOP: 0px; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: 0px; text-shadow: #d2d8e4 1px 1px 1px
+}
+.button_150x26_alt:hover {
+	BACKGROUND-POSITION: left -686px; COLOR: #fff; text-shadow: #000 1px 1px 1px
+}
+.tipsy {
+	FILTER: alpha(opacity=100); PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BACKGROUND: url(http://r3.emlak.net/img/base_tipsy.gif) no-repeat; FONT-SIZE: 11px; PADDING-TOP: 5px; opacity: 1.0
+}
+.tipsy-inner {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 4px; BACKGROUND-COLOR: #cc1f27; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; MAX-WIDTH: 200px; COLOR: white; PADDING-TOP: 5px
+}
+.tipsy-inner {
+	-moz-border-radius: 3px; -webkit-border-radius: 3px
+}
+.tipsy-north {
+	BACKGROUND-POSITION: center top
+}
+.tipsy-south {
+	BACKGROUND-POSITION: center bottom
+}
+.tipsy-east {
+	BACKGROUND-POSITION: right center
+}
+.tipsy-west {
+	BACKGROUND-POSITION: left center
+}
+.image_showdetail_small {
+	POSITION: relative; WIDTH: 80px; DISPLAY: block; HEIGHT: 60px; CURSOR: pointer
+}
+.image_showdetail_small IMG {
+	WIDTH: 80px; DISPLAY: block; HEIGHT: 60px
+}
+.image_showdetail_small .detailbanner {
+	Z-INDEX: 6111; POSITION: absolute; WIDTH: 80px; DISPLAY: block; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) no-repeat 100000px 100000px; HEIGHT: 60px; TOP: 0px; LEFT: 0px
+}
+.image_showdetail_small:hover .detailbanner {
+	BACKGROUND-POSITION: -600px -400px
+}
+.image_showdetail {
+	POSITION: relative; WIDTH: 120px; DISPLAY: block; HEIGHT: 90px; CURSOR: pointer
+}
+.image_showdetail IMG {
+	WIDTH: 120px; DISPLAY: block; HEIGHT: 90px
+}
+.image_showdetail .detailbanner {
+	Z-INDEX: 6111; POSITION: absolute; WIDTH: 120px; DISPLAY: block; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) no-repeat 100000px 100000px; HEIGHT: 90px; TOP: 0px; LEFT: 0px
+}
+.image_showdetail:hover .detailbanner {
+	BACKGROUND-POSITION: -700px -400px
+}
+.image_shadow_300 {
+	WIDTH: 300px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) no-repeat -250px -400px; HEIGHT: 10px
+}
+.image_shadow_120 {
+	WIDTH: 120px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) no-repeat -250px -420px; HEIGHT: 10px
+}
+.image_shadow_80 {
+	WIDTH: 80px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) no-repeat -250px -440px; HEIGHT: 10px
+}
+.flag_vip_entry_xl {
+	POSITION: absolute; WIDTH: 46px; DISPLAY: block; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) no-repeat right -300px; HEIGHT: 132px; RIGHT: 5px; TOP: -10px
+}
+.flag_premium {
+	POSITION: absolute; WIDTH: 134px; DISPLAY: block; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) no-repeat -700px -300px; HEIGHT: 48px; TOP: -28px; LEFT: -11px
+}
+.flag_premium_vitrin {
+	POSITION: absolute; WIDTH: 134px; DISPLAY: block; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) no-repeat -700px -300px; HEIGHT: 48px; TOP: 5px; LEFT: -5px
+}
+.anythingSlider_small {
+	WIDTH: 720px; HEIGHT: 90px
+}
+.anythingSlider_small .wrapper {
+	WIDTH: 680px; HEIGHT: 90px; OVERFLOW: auto; LEFT: 30px
+}
+.anythingSlider_small UL {
+	POSITION: relative; LIST-STYLE-TYPE: none; MARGIN: 0px; WIDTH: 32700px; LIST-STYLE-IMAGE: none; TOP: 0px; LEFT: 0px
+}
+.anythingSlider_small LI {
+	WIDTH: 720px; FLOAT: left
+}
+.anythingSlider_small .arrow {
+	POSITION: absolute; TEXT-INDENT: -9999px; WIDTH: 20px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_slider.png) no-repeat; HEIGHT: 90px; CURSOR: pointer; TOP: 0px
+}
+.anythingSlider_small .forward {
+	BACKGROUND-POSITION: left top; RIGHT: 0px
+}
+.anythingSlider_small .forward:hover {
+	BACKGROUND-POSITION: -20px top
+}
+.anythingSlider_small .back {
+	BACKGROUND-POSITION: -40px top; LEFT: 0px
+}
+.anythingSlider_small .back:hover {
+	BACKGROUND-POSITION: -60px top
+}
+.slideritem_small {
+	MARGIN: 0px 6px; WIDTH: 120px; FLOAT: left
+}
+.anythingSlider_large {
+	WIDTH: 720px; HEIGHT: 160px; OVERFLOW: hidden
+}
+.anythingSlider_large .wrapper {
+	MARGIN: 0px; WIDTH: 660px; HEIGHT: 160px; OVERFLOW: hidden; TOP: 0px; LEFT: 30px
+}
+.anythingSlider_large UL {
+	POSITION: relative; WIDTH: 32700px
+}
+.anythingSlider_large LI {
+	WIDTH: 720px; DISPLAY: block; FLOAT: left; HEIGHT: 150px
+}
+.anythingSlider_large .arrow {
+	POSITION: absolute; TEXT-INDENT: -9999px; WIDTH: 20px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_slider.png) no-repeat; HEIGHT: 160px; CURSOR: pointer; TOP: 0px
+}
+.anythingSlider_large .forward {
+	BACKGROUND-POSITION: left -100px; RIGHT: 0px
+}
+.anythingSlider_large .forward:hover {
+	BACKGROUND-POSITION: -20px -100px
+}
+.anythingSlider_large .back {
+	BACKGROUND-POSITION: -40px -100px; LEFT: 0px
+}
+.anythingSlider_large .back:hover {
+	BACKGROUND-POSITION: -60px -100px
+}
+.slideritem_large {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: 16px; MARGIN: 0px 10px 0px 0px; PADDING-LEFT: 0px; WIDTH: 157px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 160px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.slideritem_large A:hover {
+	TEXT-DECORATION: underline
+}
+.slideritem_large .title {
+	MARGIN: 5px auto 0px; WIDTH: 130px; OVERFLOW: hidden
+}
+.slideritem_large .price {
+	TEXT-ALIGN: center; MARGIN: 0px auto; WIDTH: 130px; OVERFLOW: hidden
+}
+#bodymark {
+	BACKGROUND: url(http://r3.emlak.net/img/base_bodymark.gif) repeat-y 95% top
+}
+#header_inner {
+	Z-INDEX: 8400; PADDING-BOTTOM: 10px; MARGIN: 0px auto; PADDING-LEFT: 0px; WIDTH: 980px; PADDING-RIGHT: 0px; HEIGHT: 160px; PADDING-TOP: 0px
+}
+#header_inner_fixed {
+	Z-INDEX: 8400; POSITION: fixed; PADDING-BOTTOM: 10px; MARGIN: 0px auto; PADDING-LEFT: 0px; WIDTH: 980px; PADDING-RIGHT: 0px; HEIGHT: 160px; PADDING-TOP: 0px
+}
+#logo {
+	POSITION: absolute; WIDTH: 276px; DISPLAY: block; BACKGROUND: url(http://emlaknetturkiye.com/tema5/header_logo.png) no-repeat left top; HEIGHT: 91px; TOP: 15px; LEFT: 0px
+}
+#header_araba {
+	POSITION: absolute; WIDTH: 113px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/header_araba.png); HEIGHT: 79px; TOP: 20px; LEFT: 290px
+}
+#header_welcometext {
+	POSITION: absolute; RIGHT: 0px; TOP: 90px
+}
+#header_sociallinks {
+	POSITION: absolute; TOP: 90px; LEFT: 420px
+}
+.header_social_facebook {
+	MARGIN-TOP: 2px; WIDTH: 16px; DISPLAY: block; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) no-repeat -200px -400px; HEIGHT: 16px
+}
+.header_social_twitter {
+	MARGIN-TOP: 2px; WIDTH: 16px; DISPLAY: block; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) no-repeat -200px -416px; HEIGHT: 16px
+}
+.header_social_google {
+	MARGIN-TOP: 2px; WIDTH: 16px; DISPLAY: block; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) no-repeat -200px -432px; HEIGHT: 16px
+}
+.header_quicksearch_category {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_header_quicksearch.png) repeat-x left 0px; HEIGHT: 20px; PADDING-TOP: 3px
+}
+.header_quicksearch_category .lend {
+	POSITION: absolute; WIDTH: 5px; BACKGROUND: url(http://r3.emlak.net/img/sprite_header_quicksearch.png) #fff no-repeat left -52px; HEIGHT: 26px; TOP: 0px; LEFT: 0px
+}
+.header_quicksearch_category .rend {
+	POSITION: absolute; WIDTH: 5px; BACKGROUND: url(http://r3.emlak.net/img/sprite_header_quicksearch.png) #fff no-repeat right -52px; HEIGHT: 26px; RIGHT: 0px; TOP: 0px
+}
+.header_quicksearch_category INPUT {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 22px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.header_quicksearch_category SELECT {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 2px 0px 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.header_quicksearch_input {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 30px; PADDING-RIGHT: 5px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_header_quicksearch.png) repeat-x left 0px; HEIGHT: 20px; PADDING-TOP: 3px
+}
+.header_quicksearch_input .lend {
+	POSITION: absolute; WIDTH: 30px; BACKGROUND: url(http://r3.emlak.net/img/sprite_header_quicksearch.png) #fff no-repeat left -26px; HEIGHT: 26px; TOP: 0px; LEFT: 0px
+}
+.header_quicksearch_input .rend {
+	POSITION: absolute; WIDTH: 5px; BACKGROUND: url(http://r3.emlak.net/img/sprite_header_quicksearch.png) #fff no-repeat right -26px; HEIGHT: 26px; RIGHT: 0px; TOP: 0px
+}
+.header_quicksearch_input INPUT {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 22px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.header_quicksearch_input SELECT {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 2px 0px 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+#navibar {
+	Z-INDEX: 9410; POSITION: absolute; RIGHT: 0px; TOP: 0px
+}
+LI.navibar_section {
+	Z-INDEX: 9997; POSITION: relative; TEXT-ALIGN: center; MARGIN: 0px; WIDTH: 140px; FLOAT: left
+}
+LI.navibar_section .submenu {
+	Z-INDEX: 9999; BORDER-BOTTOM: #565656 5px solid; TEXT-ALIGN: left; BORDER-LEFT: #565656 5px solid; PADDING-BOTTOM: 10px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: none; FONT-SIZE: 12px; BORDER-TOP: #565656 5px solid; BORDER-RIGHT: #565656 5px solid; PADDING-TOP: 15px; -moz-border-radius: 0 0 3px 3px; -webkit-border-radius: 0 0 3px 3px; border-radius: 0 0 3px 3px; -moz-box-shadow: 2px 2px 2px #333; -webkit-box-shadow: 2px 2px 2px #333; box-shadow: 2px 2px 2px #333
+}
+LI.navibar_section .submenu_2col {
+	WIDTH: 310px
+}
+LI.navibar_section .submenu_3col {
+	WIDTH: 470px
+}
+LI.navibar_section .submenu_left {
+	POSITION: absolute; TOP: 75px; LEFT: 0px
+}
+LI.navibar_section .submenu_left_arrow {
+	POSITION: absolute; WIDTH: 32px; BACKGROUND: url(http://r3.emlak.net/img/header_pop_arrow.png); HEIGHT: 17px; TOP: -5px; LEFT: 5px
+}
+LI.navibar_section .submenu_right {
+	POSITION: absolute; RIGHT: 0px; TOP: 75px
+}
+LI.navibar_section .submenu_right_arrow {
+	POSITION: absolute; WIDTH: 32px; BACKGROUND: url(http://r3.emlak.net/img/header_pop_arrow.png); HEIGHT: 17px; RIGHT: 5px; TOP: -5px
+}
+LI.navibar_section A.type {
+	BORDER-LEFT: #999 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 4px; PADDING-RIGHT: 0px; DISPLAY: block; MARGIN-BOTTOM: 1px; COLOR: #000; PADDING-TOP: 0px
+}
+LI.navibar_section A.type:hover {
+	BORDER-LEFT: #f67f00 5px solid; BACKGROUND-COLOR: #e8f0e6; COLOR: #333
+}
+#navibar A.living {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; WHITE-SPACE: nowrap; BACKGROUND: url(http://r3.emlak.net/img/sprite_header-navicons-140.png) no-repeat; HEIGHT: 20px; COLOR: black; MARGIN-LEFT: -1px; FONT-SIZE: 14px; PADDING-TOP: 55px
+}
+#navibar A.living_active {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; WHITE-SPACE: nowrap; BACKGROUND: url(http://r3.emlak.net/img/sprite_header-navicons-140.png) no-repeat; HEIGHT: 20px; COLOR: black; MARGIN-LEFT: -1px; FONT-SIZE: 14px; PADDING-TOP: 55px
+}
+#navibar A.industry {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; WHITE-SPACE: nowrap; BACKGROUND: url(http://r3.emlak.net/img/sprite_header-navicons-140.png) no-repeat; HEIGHT: 20px; COLOR: black; MARGIN-LEFT: -1px; FONT-SIZE: 14px; PADDING-TOP: 55px
+}
+#navibar A.industry_active {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; WHITE-SPACE: nowrap; BACKGROUND: url(http://r3.emlak.net/img/sprite_header-navicons-140.png) no-repeat; HEIGHT: 20px; COLOR: black; MARGIN-LEFT: -1px; FONT-SIZE: 14px; PADDING-TOP: 55px
+}
+#navibar A.land {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; WHITE-SPACE: nowrap; BACKGROUND: url(http://r3.emlak.net/img/sprite_header-navicons-140.png) no-repeat; HEIGHT: 20px; COLOR: black; MARGIN-LEFT: -1px; FONT-SIZE: 14px; PADDING-TOP: 55px
+}
+#navibar A.land_active {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; WHITE-SPACE: nowrap; BACKGROUND: url(http://r3.emlak.net/img/sprite_header-navicons-140.png) no-repeat; HEIGHT: 20px; COLOR: black; MARGIN-LEFT: -1px; FONT-SIZE: 14px; PADDING-TOP: 55px
+}
+#navibar A.projects {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; WHITE-SPACE: nowrap; BACKGROUND: url(http://r3.emlak.net/img/sprite_header-navicons-140.png) no-repeat; HEIGHT: 20px; COLOR: black; MARGIN-LEFT: -1px; FONT-SIZE: 14px; PADDING-TOP: 55px
+}
+#navibar A.projects_active {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; WHITE-SPACE: nowrap; BACKGROUND: url(http://r3.emlak.net/img/sprite_header-navicons-140.png) no-repeat; HEIGHT: 20px; COLOR: black; MARGIN-LEFT: -1px; FONT-SIZE: 14px; PADDING-TOP: 55px
+}
+#navibar A.holiday {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; WHITE-SPACE: nowrap; BACKGROUND: url(http://r3.emlak.net/img/sprite_header-navicons-140.png) no-repeat; HEIGHT: 20px; COLOR: black; MARGIN-LEFT: -1px; FONT-SIZE: 14px; PADDING-TOP: 55px
+}
+#navibar A.holiday_active {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; WHITE-SPACE: nowrap; BACKGROUND: url(http://r3.emlak.net/img/sprite_header-navicons-140.png) no-repeat; HEIGHT: 20px; COLOR: black; MARGIN-LEFT: -1px; FONT-SIZE: 14px; PADDING-TOP: 55px
+}
+#navibar A.bank {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; WHITE-SPACE: nowrap; BACKGROUND: url(http://r3.emlak.net/img/sprite_header-navicons-140.png) no-repeat; HEIGHT: 20px; COLOR: black; MARGIN-LEFT: -1px; FONT-SIZE: 14px; PADDING-TOP: 55px
+}
+#navibar A.bank_active {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; WHITE-SPACE: nowrap; BACKGROUND: url(http://r3.emlak.net/img/sprite_header-navicons-140.png) no-repeat; HEIGHT: 20px; COLOR: black; MARGIN-LEFT: -1px; FONT-SIZE: 14px; PADDING-TOP: 55px
+}
+#navibar A.insert {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; WHITE-SPACE: nowrap; BACKGROUND: url(http://r3.emlak.net/img/sprite_header-navicons-140.png) no-repeat; HEIGHT: 20px; COLOR: black; MARGIN-LEFT: -1px; FONT-SIZE: 14px; PADDING-TOP: 55px
+}
+#navibar A.insert_active {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; WHITE-SPACE: nowrap; BACKGROUND: url(http://r3.emlak.net/img/sprite_header-navicons-140.png) no-repeat; HEIGHT: 20px; COLOR: black; MARGIN-LEFT: -1px; FONT-SIZE: 14px; PADDING-TOP: 55px
+}
+#navibar A.living {
+	BACKGROUND-POSITION: center top
+}
+#navibar A.living:hover {
+	BACKGROUND-POSITION: center -100px
+}
+#navibar A.living_active {
+	BACKGROUND-POSITION: center -100px; COLOR: #156500
+}
+#navibar A.industry {
+	BACKGROUND-POSITION: center -200px
+}
+#navibar A.industry:hover {
+	BACKGROUND-POSITION: center -300px
+}
+#navibar A.industry_active {
+	BACKGROUND-POSITION: center -300px; COLOR: #156500
+}
+#navibar A.land {
+	BACKGROUND-POSITION: center -400px
+}
+#navibar A.land:hover {
+	BACKGROUND-POSITION: center -500px
+}
+#navibar A.land_active {
+	BACKGROUND-POSITION: center -500px; COLOR: #156500
+}
+#navibar A.projects {
+	BACKGROUND-POSITION: center -600px
+}
+#navibar A.projects:hover {
+	BACKGROUND-POSITION: center -700px
+}
+#navibar A.projects_active {
+	BACKGROUND-POSITION: center -700px; COLOR: #156500
+}
+#navibar A.holiday {
+	BACKGROUND-POSITION: center -800px
+}
+#navibar A.holiday:hover {
+	BACKGROUND-POSITION: center -900px
+}
+#navibar A.holiday_active {
+	BACKGROUND-POSITION: center -900px; COLOR: #156500
+}
+#navibar A.insert {
+	BACKGROUND-POSITION: center -1000px
+}
+#navibar A.insert:hover {
+	BACKGROUND-POSITION: center -1100px
+}
+#navibar A.insert_active {
+	BACKGROUND-POSITION: center -1100px; COLOR: #156500
+}
+#subnav_bar {
+	Z-INDEX: 7566; POSITION: absolute; LINE-HEIGHT: 36px; WIDTH: 980px; BOTTOM: 10px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) no-repeat left top; HEIGHT: 36px
+}
+#subnav_bar_content {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 2px; WIDTH: 978px; PADDING-RIGHT: 0px; HEIGHT: 36px; PADDING-TOP: 0px
+}
+#navigation {
+	POSITION: relative; TOP: 0px
+}
+#navigation LI {
+	FLOAT: left
+}
+#navigation LI.hover {
+	POSITION: relative
+}
+#navigation LI:hover {
+	POSITION: relative
+}
+#navigation A {
+	DISPLAY: block
+}
+#navigation A:hover {
+	TEXT-DECORATION: none
+}
+#navigation UL {
+	BORDER-BOTTOM: #4f9d1b 3px solid; POSITION: absolute; VISIBILITY: hidden; TOP: 100%; LEFT: -1px
+}
+#navigation UL LI {
+	FLOAT: none
+}
+#navigation UL LI A {
+	WIDTH: 140px; DISPLAY: inline-block
+}
+#navigation UL UL {
+	MARGIN-LEFT: 0px; TOP: -1px; LEFT: 100%
+}
+#navigation LI:hover > UL {
+	VISIBILITY: visible
+}
+#navigation UL {
+	WIDTH: 160px
+}
+#navigation A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 0px
+}
+#navigation LI.lvl_1 {
+	BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) repeat-x
+}
+#navigation LI.lvl_1_active {
+	BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) repeat-x
+}
+#navigation LI.lvl_2 {
+	BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) repeat-x
+}
+#navigation LI.lvl_3 {
+	BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) repeat-x
+}
+#navigation LI.lvl_1 {
+	LINE-HEIGHT: 36px; BACKGROUND-POSITION: left 10000px; BORDER-RIGHT: #cacaca 1px solid
+}
+#navigation LI.lvl_1 A.link_lvl_1 {
+	COLOR: #000
+}
+#navigation LI.lvl_1:hover {
+	BACKGROUND-POSITION: left -50px
+}
+#navigation LI.lvl_1:hover A.link_lvl_1 {
+	COLOR: #000
+}
+#navigation LI.lvl_1_active {
+	LINE-HEIGHT: 36px; BACKGROUND-POSITION: left -86px; BORDER-RIGHT: #cacaca 1px solid
+}
+#navigation LI.lvl_1_active A.link_lvl_1 {
+	COLOR: #000
+}
+#navigation LI.lvl_1_active:hover {
+	BACKGROUND-POSITION: left -50px
+}
+#navigation LI.lvl_1_active:hover A.link_lvl_1 {
+	COLOR: #000
+}
+#navigation LI.lvl_2 {
+	BORDER-BOTTOM: #cacaca 1px solid; BORDER-LEFT: #cacaca 1px solid; LINE-HEIGHT: 30px; BACKGROUND-POSITION: left -122px; BORDER-TOP: medium none; BORDER-RIGHT: #cacaca 1px solid
+}
+#navigation LI.lvl_2 A.link_lvl_2 {
+	COLOR: #333
+}
+#navigation LI.lvl_2:hover {
+	BACKGROUND-POSITION: left -152px
+}
+#navigation LI.lvl_2:hover A.link_lvl_2 {
+	COLOR: #333
+}
+#navigation UL UL {
+	BORDER-LEFT: #cacaca 1px solid; BORDER-TOP: #cacaca 1px solid
+}
+#navigation LI.lvl_3 {
+	BORDER-BOTTOM: #cacaca 1px solid; LINE-HEIGHT: 30px; BACKGROUND-POSITION: left -122px; BORDER-RIGHT: #cacaca 1px solid
+}
+#navigation LI.lvl_3 A.link_lvl_3 {
+	COLOR: #333
+}
+#navigation LI.lvl_3:hover {
+	BACKGROUND-POSITION: left -152px
+}
+#navigation LI.lvl_3:hover A.link_lvl_3 {
+	COLOR: #333
+}
+.tab_simple LI {
+	FLOAT: left
+}
+.tab_simple A {
+	TEXT-ALIGN: center; LINE-HEIGHT: 30px; MARGIN: 10px 0px 0px; WIDTH: 125px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) no-repeat -125px -610px; FLOAT: left; HEIGHT: 30px; COLOR: #222; FONT-SIZE: 14px
+}
+.tab_simple A:hover {
+	BACKGROUND-POSITION: -250px -610px; COLOR: #222
+}
+.tab_simple .active {
+	LINE-HEIGHT: 40px; MARGIN: 0px; BACKGROUND-POSITION: left -600px; HEIGHT: 40px; COLOR: #fff; FONT-WEIGHT: bold
+}
+.tab_simple .active:hover {
+	BACKGROUND-POSITION: left -600px; COLOR: #fff
+}
+.tab_simple_large LI {
+	FLOAT: left
+}
+.tab_simple_large A {
+	TEXT-ALIGN: center; LINE-HEIGHT: 30px; MARGIN: 10px 0px 0px; WIDTH: 170px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) no-repeat -570px -610px; FLOAT: left; HEIGHT: 30px; COLOR: #222; FONT-SIZE: 14px
+}
+.tab_simple_large A:hover {
+	BACKGROUND-POSITION: -740px -610px; COLOR: #222
+}
+.tab_simple_large .active {
+	LINE-HEIGHT: 40px; MARGIN: 0px; BACKGROUND-POSITION: -400px -600px; HEIGHT: 40px; COLOR: #fff; FONT-WEIGHT: bold
+}
+.tab_simple_large .active:hover {
+	BACKGROUND-POSITION: -400px -600px; COLOR: #fff
+}
+.tabs_simple_outerbox {
+	BORDER-BOTTOM: #4f9d1b 2px solid; WIDTH: 100%; DISPLAY: block; FLOAT: left
+}
+.tabs_simple_outerbox .more {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; MARGIN: 15px 5px 0px 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) no-repeat left -430px; FLOAT: right; HEIGHT: 20px; COLOR: #000000; PADDING-TOP: 0px
+}
+.tabs_simple_outerbox .more:hover {
+	BACKGROUND-POSITION: left -450px; TEXT-DECORATION: underline
+}
+#content {
+	POSITION: relative; PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-LEFT: 0px; WIDTH: 980px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#content_fixed {
+	POSITION: relative; PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-LEFT: 0px; WIDTH: 980px; PADDING-RIGHT: 0px; PADDING-TOP: 170px
+}
+#historybar {
+	BORDER-BOTTOM: #cacaca 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; PADDING-LEFT: 0px; WIDTH: 970px; PADDING-RIGHT: 10px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) no-repeat left -200px; HEIGHT: 30px; PADDING-TOP: 0px
+}
+#historybar .his_back {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 25px; PADDING-RIGHT: 10px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) no-repeat left -230px; FLOAT: left; COLOR: #fff; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+#historybar .his_link {
+	PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 20px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) no-repeat right -260px; FLOAT: left; COLOR: #000; PADDING-TOP: 0px
+}
+#historybar .his_save {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 25px; PADDING-RIGHT: 0px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) no-repeat left -290px; FLOAT: right; COLOR: #000; PADDING-TOP: 0px
+}
+#historybar .his_id {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 25px; PADDING-RIGHT: 0px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) no-repeat left -320px; FLOAT: right; COLOR: #000; PADDING-TOP: 0px
+}
+#historybar .his_save:hover {
+	TEXT-DECORATION: underline
+}
+#historybar .his_link:hover {
+	TEXT-DECORATION: underline
+}
+#historybar .his_id:hover {
+	TEXT-DECORATION: underline
+}
+.index_searchbox_largeinput {
+	BORDER-BOTTOM: #339933 1px solid; BORDER-LEFT: #339933 1px solid; PADDING-BOTTOM: 5px; LINE-HEIGHT: 24px; PADDING-LEFT: 5px; WIDTH: 275px; PADDING-RIGHT: 5px; FLOAT: left; HEIGHT: 24px; FONT-SIZE: 15px; BORDER-TOP: #339933 1px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #339933 1px solid; PADDING-TOP: 5px
+}
+.index_searchbox_sections {
+	BORDER-BOTTOM: #cacaca 1px solid; MARGIN: 14px 0px 0px -1px; WIDTH: 40px; FLOAT: left
+}
+.index_searchbox_sections A {
+	BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: #cacaca 1px solid; LINE-HEIGHT: 40px; WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/index_searchbox_sections.png) no-repeat; HEIGHT: 40px; COLOR: #fff; BORDER-TOP: #cacaca 1px solid; BORDER-RIGHT: medium none
+}
+.index_searchbox_sections .living {
+	BACKGROUND-POSITION: left top
+}
+.index_searchbox_sections .living:hover {
+	BACKGROUND-POSITION: -40px top
+}
+.index_searchbox_sections .living_active {
+	BACKGROUND-POSITION: -40px top
+}
+.index_searchbox_sections .industry {
+	BACKGROUND-POSITION: left -40px
+}
+.index_searchbox_sections .industry:hover {
+	BACKGROUND-POSITION: -40px -40px
+}
+.index_searchbox_sections .industry_active {
+	BACKGROUND-POSITION: -40px -40px
+}
+.index_searchbox_sections .land {
+	BACKGROUND-POSITION: left -80px
+}
+.index_searchbox_sections .land:hover {
+	BACKGROUND-POSITION: -40px -80px
+}
+.index_searchbox_sections .land_active {
+	BACKGROUND-POSITION: -40px -80px
+}
+.index_searchbox_sections .projects {
+	BACKGROUND-POSITION: left -120px
+}
+.index_searchbox_sections .projects:hover {
+	BACKGROUND-POSITION: -40px -120px
+}
+.index_searchbox_sections .projects_active {
+	BACKGROUND-POSITION: -40px -120px
+}
+.index_searchbox_sections .holiday {
+	BACKGROUND-POSITION: left -160px
+}
+.index_searchbox_sections .holiday:hover {
+	BACKGROUND-POSITION: -40px -160px
+}
+.index_searchbox_sections .holiday_active {
+	BACKGROUND-POSITION: -40px -160px
+}
+.index_searchbox_sections .search {
+	BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: #cacaca 1px solid; LINE-HEIGHT: 40px; WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/index_searchbox_sections.png) no-repeat left -200px; HEIGHT: 40px; COLOR: #fff; BORDER-TOP: #cacaca 1px solid; BORDER-RIGHT: medium none
+}
+.index_searchbox_areacol {
+	PADDING-BOTTOM: 0px; MARGIN: 0px 10px 0px 0px; PADDING-LEFT: 9px; WIDTH: 160px; PADDING-RIGHT: 9px; BACKGROUND: url(http://r3.emlak.net/img/base_bg_gradient.png) repeat-x left center; FLOAT: left; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.topofferbox_item LI {
+	PADDING-BOTTOM: 0px; MARGIN: 0px 0px 10px; PADDING-LEFT: 10px; WIDTH: 120px; PADDING-RIGHT: 10px; FLOAT: left; PADDING-TOP: 0px
+}
+.topofferbox_item .title {
+	LINE-HEIGHT: 20px; WIDTH: 120px; WHITE-SPACE: nowrap; HEIGHT: 20px; OVERFLOW: hidden
+}
+.index_offerlist LI {
+	BORDER-BOTTOM: #cacaca 1px dotted; PADDING-BOTTOM: 2px; LINE-HEIGHT: 20px; PADDING-LEFT: 0px; WIDTH: 230px; PADDING-RIGHT: 0px; PADDING-TOP: 2px
+}
+.index_offerlist LI:hover {
+	BACKGROUND-COLOR: #e3f2df
+}
+.index_offerlist .title {
+	WIDTH: 180px; WHITE-SPACE: nowrap; OVERFLOW: hidden
+}
+.index_offerlist A {
+	DISPLAY: block; COLOR: #156500; FONT-WEIGHT: bold
+}
+.index_offerlist A:hover {
+	TEXT-DECORATION: underline
+}
+.index_offerlist .date {
+	LINE-HEIGHT: 14px; COLOR: #aaaaaa; FONT-SIZE: 11px
+}
+.index_offerlist .longtitle {
+	WIDTH: 220px; WHITE-SPACE: nowrap; OVERFLOW: hidden
+}
+#index_traderbox_living {
+	BORDER-BOTTOM: #cacaca 1px solid; BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 9px; PADDING-LEFT: 9px; WIDTH: 700px; PADDING-RIGHT: 9px; BACKGROUND: url(http://r3.emlak.net/img/index_traderbox_bg_living.jpg) #fff no-repeat left center; BORDER-TOP: medium none; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 9px
+}
+#index_keywords {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#index_keywords A {
+	LINE-HEIGHT: 22px; MARGIN: 0px 20px 0px 0px
+}
+.noresults_message {
+	BORDER-BOTTOM: #cacaca 1px solid; BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 9px; PADDING-LEFT: 60px; PADDING-RIGHT: 9px; BACKGROUND: url(http://r3.emlak.net/img/base_icon_note.png) #fefdc9 no-repeat 10px center; BORDER-TOP: #cacaca 1px solid; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 9px
+}
+.noresults_methods {
+	BORDER-BOTTOM: #cacaca 1px solid; BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 9px; PADDING-LEFT: 9px; PADDING-RIGHT: 9px; BACKGROUND: url(http://r3.emlak.net/img/base_bg_gradient.png) #fff repeat-x left top; BORDER-TOP: #cacaca 1px solid; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 9px
+}
+.noresults_filtertitle {
+	LINE-HEIGHT: 30px; PADDING-LEFT: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat left -660px; HEIGHT: 30px
+}
+.noresults_searchtitle {
+	LINE-HEIGHT: 30px; PADDING-LEFT: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat left -710px; HEIGHT: 30px
+}
+#results_leftside {
+	WIDTH: 220px; FLOAT: left
+}
+.results_leftside_regionbox {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; WIDTH: 200px; PADDING-RIGHT: 10px; BACKGROUND: #f0f2df; PADDING-TOP: 0px
+}
+.results_leftside_regionbox_end {
+	WIDTH: 220px; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat -250px -400px; HEIGHT: 20px
+}
+.results_leftside_settingsbox {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; WIDTH: 200px; PADDING-RIGHT: 10px; BACKGROUND: #f2f2f2; PADDING-TOP: 10px
+}
+.results_leftside_settingsbox_end {
+	WIDTH: 220px; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat -250px -450px; HEIGHT: 10px
+}
+.results_leftside_filterbox {
+	PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-LEFT: 0px; WIDTH: 200px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+.results_leftside_filterbox SPAN {
+	MARGIN: 0px 0px 5px; DISPLAY: block; FONT-WEIGHT: bold
+}
+.results_leftside_scrollbox {
+	BORDER-BOTTOM: #cacaca 1px solid; BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 9px; OVERFLOW-Y: scroll; BACKGROUND-COLOR: white; PADDING-LEFT: 9px; PADDING-RIGHT: 9px; HEIGHT: 100px; BORDER-TOP: #cacaca 1px solid; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 9px
+}
+.results_leftside_scrollbox A {
+	BORDER-BOTTOM: #cacaca 1px dotted; LINE-HEIGHT: 17px; TEXT-INDENT: 3px; DISPLAY: block; COLOR: black
+}
+.results_leftside_scrollbox A:hover {
+	BACKGROUND-COLOR: #f2f2f2
+}
+.results_leftside_scrollbox .active {
+	TEXT-INDENT: 12px; BACKGROUND: url(http://r3.emlak.net/img/base_arrow_black.gif) #f2f2f2 no-repeat 3px center; COLOR: #bf0000; FONT-WEIGHT: bold
+}
+.results_leftside_filter_close {
+	DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat right -100px; HEIGHT: 20px; COLOR: #000; FONT-WEIGHT: bold
+}
+.results_leftside_filter_close:hover {
+	BACKGROUND-POSITION: right -120px
+}
+#results_content {
+	BORDER-BOTTOM: #cacaca 1px solid; POSITION: relative; BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 9px; PADDING-LEFT: 0px; WIDTH: 978px; PADDING-RIGHT: 0px; BACKGROUND: url(http://r3.emlak.net/img/base_dot_grey.gif) #fff repeat-y 220px top; BORDER-TOP: medium none; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+#results_contentbox {
+	POSITION: relative; WIDTH: 757px; FLOAT: right
+}
+#results_contentbox_inner {
+	POSITION: relative; MARGIN: 0px auto; WIDTH: 730px
+}
+#results_keywordbox {
+	PADDING-BOTTOM: 7px; PADDING-LEFT: 40px; PADDING-RIGHT: 5px; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat left -200px; HEIGHT: 26px; BORDER-TOP: #cacaca 1px dotted; PADDING-TOP: 7px
+}
+.results_sectionbox {
+	BACKGROUND-COLOR: #f2f2f2; FLOAT: left
+}
+.results_section_living {
+	LINE-HEIGHT: 40px; MARGIN: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 40px
+}
+.results_section_industry {
+	LINE-HEIGHT: 40px; MARGIN: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 40px
+}
+.results_section_land {
+	LINE-HEIGHT: 40px; MARGIN: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 40px
+}
+.results_section_projects {
+	LINE-HEIGHT: 40px; MARGIN: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 40px
+}
+.results_section_holiday {
+	LINE-HEIGHT: 40px; MARGIN: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 40px
+}
+.results_section_living:hover {
+	LINE-HEIGHT: 40px; MARGIN: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 40px
+}
+.results_section_living_active {
+	LINE-HEIGHT: 40px; MARGIN: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 40px
+}
+.results_section_industry:hover {
+	LINE-HEIGHT: 40px; MARGIN: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 40px
+}
+.results_section_industry_active {
+	LINE-HEIGHT: 40px; MARGIN: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 40px
+}
+.results_section_land:hover {
+	LINE-HEIGHT: 40px; MARGIN: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 40px
+}
+.results_section_land_active {
+	LINE-HEIGHT: 40px; MARGIN: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 40px
+}
+.results_section_projects:hover {
+	LINE-HEIGHT: 40px; MARGIN: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 40px
+}
+.results_section_projects_active {
+	LINE-HEIGHT: 40px; MARGIN: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 40px
+}
+.results_section_holiday:hover {
+	LINE-HEIGHT: 40px; MARGIN: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 40px
+}
+.results_section_holiday_active {
+	LINE-HEIGHT: 40px; MARGIN: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 40px
+}
+.results_section_living {
+	WIDTH: 74px; BACKGROUND-POSITION: -250px -300px
+}
+.results_section_living:hover {
+	WIDTH: 74px; BACKGROUND-POSITION: -250px -350px
+}
+.results_section_living_active {
+	WIDTH: 74px; BACKGROUND-POSITION: -250px -350px
+}
+.results_section_industry {
+	WIDTH: 73px; BACKGROUND-POSITION: -330px -300px
+}
+.results_section_industry:hover {
+	WIDTH: 73px; BACKGROUND-POSITION: -330px -350px
+}
+.results_section_industry_active {
+	WIDTH: 73px; BACKGROUND-POSITION: -330px -350px
+}
+.results_section_land {
+	WIDTH: 73px; BACKGROUND-POSITION: -410px -300px
+}
+.results_section_land:hover {
+	WIDTH: 73px; BACKGROUND-POSITION: -410px -350px
+}
+.results_section_land_active {
+	WIDTH: 73px; BACKGROUND-POSITION: -410px -350px
+}
+.results_traderhead_headbar {
+	PADDING-BOTTOM: 2px; LINE-HEIGHT: 28px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) #fff no-repeat left -620px; HEIGHT: 28px; COLOR: #fff; PADDING-TOP: 2px
+}
+.results_traderhead_headbar .filterdel {
+	POSITION: relative; PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px; MARGIN: 2px 3px 0px 0px; PADDING-LEFT: 26px; PADDING-RIGHT: 10px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) #f0f2df no-repeat left -100px; FLOAT: right; COLOR: #000; FONT-SIZE: 12px; PADDING-TOP: 0px
+}
+.results_traderhead_headbar .filterdel:hover {
+	BACKGROUND-COLOR: #efbcbc; BACKGROUND-POSITION: left -124px; COLOR: #8b0000
+}
+.results_traderhead_contentbox {
+	PADDING-BOTTOM: 9px; PADDING-LEFT: 9px; PADDING-RIGHT: 9px; BACKGROUND: #f6f0e3; PADDING-TOP: 9px
+}
+.results_specpartner_box {
+	BORDER-BOTTOM: #cacaca 1px solid; MARGIN-TOP: 5px; BORDER-TOP: #cacaca 1px solid
+}
+.results_specpartner_box_premium {
+	BORDER-BOTTOM: #cacaca 1px solid; MARGIN-TOP: 5px; BORDER-TOP: #cacaca 1px solid
+}
+.results_specpartner_box IMG {
+	BORDER-BOTTOM: #cacaca 1px solid; POSITION: absolute; BORDER-LEFT: #cacaca 1px solid; BORDER-TOP: #cacaca 1px solid; BORDER-RIGHT: #cacaca 1px solid; TOP: -40px; LEFT: 5px
+}
+.results_specpartner_box_premium IMG {
+	BORDER-BOTTOM: #cacaca 1px solid; POSITION: absolute; BORDER-LEFT: #cacaca 1px solid; BORDER-TOP: #cacaca 1px solid; BORDER-RIGHT: #cacaca 1px solid; TOP: -40px; LEFT: 5px
+}
+.results_specpartner_box .text {
+	PADDING-BOTTOM: 5px; LINE-HEIGHT: 12px; PADDING-LEFT: 70px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+.results_specpartner_box_premium .text {
+	PADDING-BOTTOM: 5px; LINE-HEIGHT: 12px; PADDING-LEFT: 70px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+.results_specpartner_box .text_nopad {
+	PADDING-BOTTOM: 5px; LINE-HEIGHT: 12px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+.results_specpartner_box_premium .text_nopad {
+	PADDING-BOTTOM: 5px; LINE-HEIGHT: 12px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+.results_specpartner_box {
+	BACKGROUND-COLOR: #f0f2df
+}
+.results_specpartner_box_premium {
+	BACKGROUND-COLOR: #fff
+}
+#filterinfos {
+	BORDER-BOTTOM: #cacaca 1px dotted; PADDING-BOTTOM: 5px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: #cacaca 1px dotted; PADDING-TOP: 5px
+}
+.filterentry {
+	BORDER-BOTTOM: #aaa 1px solid; POSITION: relative; BORDER-LEFT: #aaa 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 24px; MARGIN: 2px 5px 2px 0px; PADDING-LEFT: 26px; PADDING-RIGHT: 10px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) #fff no-repeat left -100px; FLOAT: left; COLOR: #000; FONT-SIZE: 12px; BORDER-TOP: #aaa 1px solid; BORDER-RIGHT: #aaa 1px solid; PADDING-TOP: 0px
+}
+.filterentry:hover {
+	BORDER-BOTTOM: #8b0000 1px solid; BORDER-LEFT: #8b0000 1px solid; BACKGROUND-COLOR: #f0f2df; BACKGROUND-POSITION: left -124px; COLOR: #000000; BORDER-TOP: #8b0000 1px solid; BORDER-RIGHT: #8b0000 1px solid
+}
+.results_viewbutton_normal {
+	WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.results_viewbutton_normal_active {
+	WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.results_viewbutton_basic {
+	WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.results_viewbutton_basic_active {
+	WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.results_viewbutton_pics {
+	WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.results_viewbutton_pics_active {
+	WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.results_viewbutton_list {
+	WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.results_viewbutton_list_active {
+	WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.results_viewbutton_new {
+	WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.results_viewbutton_new_active {
+	WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.results_viewbutton_user_all {
+	WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.results_viewbutton_user_all_active {
+	WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.results_viewbutton_user_private {
+	WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.results_viewbutton_user_private_active {
+	WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.results_viewbutton_user_commerce {
+	WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.results_viewbutton_user_commerce_active {
+	WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.results_viewbutton_user_brig {
+	WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.results_viewbutton_user_brig_active {
+	WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.results_viewbutton_user_engi {
+	WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.results_viewbutton_user_engi_active {
+	WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.results_viewbutton_withpic {
+	WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.results_viewbutton_withpic_active {
+	WIDTH: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.results_viewbutton_normal {
+	BACKGROUND-POSITION: left top
+}
+.results_viewbutton_normal:hover {
+	BACKGROUND-POSITION: left -30px
+}
+.results_viewbutton_normal_active {
+	BACKGROUND-POSITION: left -30px
+}
+.results_viewbutton_basic {
+	BACKGROUND-POSITION: -40px top
+}
+.results_viewbutton_basic:hover {
+	BACKGROUND-POSITION: -40px -30px
+}
+.results_viewbutton_basic_active {
+	BACKGROUND-POSITION: -40px -30px
+}
+.results_viewbutton_pics {
+	BACKGROUND-POSITION: -80px top
+}
+.results_viewbutton_pics:hover {
+	BACKGROUND-POSITION: -80px -30px
+}
+.results_viewbutton_pics_active {
+	BACKGROUND-POSITION: -80px -30px
+}
+.results_viewbutton_list {
+	BACKGROUND-POSITION: -120px top
+}
+.results_viewbutton_list:hover {
+	BACKGROUND-POSITION: -120px -30px
+}
+.results_viewbutton_list_active {
+	BACKGROUND-POSITION: -120px -30px
+}
+.results_viewbutton_new {
+	BACKGROUND-POSITION: -160px top
+}
+.results_viewbutton_new:hover {
+	BACKGROUND-POSITION: -160px -30px
+}
+.results_viewbutton_new_active {
+	BACKGROUND-POSITION: -160px -30px
+}
+.results_viewbutton_user_all {
+	BACKGROUND-POSITION: -200px top
+}
+.results_viewbutton_user_all:hover {
+	BACKGROUND-POSITION: -200px -30px
+}
+.results_viewbutton_user_all_active {
+	BACKGROUND-POSITION: -200px -30px
+}
+.results_viewbutton_user_private {
+	BACKGROUND-POSITION: -240px top
+}
+.results_viewbutton_user_private:hover {
+	BACKGROUND-POSITION: -240px -30px
+}
+.results_viewbutton_user_private_active {
+	BACKGROUND-POSITION: -240px -30px
+}
+.results_viewbutton_user_commerce {
+	BACKGROUND-POSITION: -280px top
+}
+.results_viewbutton_user_commerce:hover {
+	BACKGROUND-POSITION: -280px -30px
+}
+.results_viewbutton_user_commerce_active {
+	BACKGROUND-POSITION: -280px -30px
+}
+.results_viewbutton_user_brig {
+	BACKGROUND-POSITION: -320px top
+}
+.results_viewbutton_user_brig:hover {
+	BACKGROUND-POSITION: -320px -30px
+}
+.results_viewbutton_user_brig_active {
+	BACKGROUND-POSITION: -320px -30px
+}
+.results_viewbutton_user_engi {
+	BACKGROUND-POSITION: -360px top
+}
+.results_viewbutton_user_engi:hover {
+	BACKGROUND-POSITION: -360px -30px
+}
+.results_viewbutton_user_engi_active {
+	BACKGROUND-POSITION: -360px -30px
+}
+.results_viewbutton_withpic {
+	BACKGROUND-POSITION: -400px top
+}
+.results_viewbutton_withpic:hover {
+	BACKGROUND-POSITION: -400px -30px
+}
+.results_viewbutton_withpic_active {
+	BACKGROUND-POSITION: -400px -30px
+}
+.results_filter_2col {
+	WIDTH: 200px
+}
+.results_filter_2col LI {
+	BORDER-BOTTOM: #cacaca 1px dotted; LINE-HEIGHT: 20px; WIDTH: 100px; DISPLAY: block; FLOAT: left; HEIGHT: 20px; COLOR: #000000
+}
+.results_filter_2col A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; WIDTH: 60px; PADDING-RIGHT: 20px; DISPLAY: block; WHITE-SPACE: nowrap; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat left -300px; COLOR: #000; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.results_filter_2col .inactive {
+	BACKGROUND-POSITION: left -300px
+}
+.results_filter_2col .inactive:hover {
+	BACKGROUND-POSITION: left -320px
+}
+.results_filter_2col .active {
+	BACKGROUND-POSITION: left -340px; FONT-WEIGHT: bold
+}
+.results_filter_2col .active:hover {
+	BACKGROUND-POSITION: left -360px
+}
+.results_filter {
+	WIDTH: 200px
+}
+.results_filter LI {
+	BORDER-BOTTOM: #cacaca 1px dotted; LINE-HEIGHT: 20px; WIDTH: 200px; DISPLAY: block; HEIGHT: 20px; COLOR: #000000
+}
+.results_filter LI:hover {
+	BACKGROUND: #e8f0e6
+}
+.results_filter A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; WIDTH: 160px; PADDING-RIGHT: 20px; DISPLAY: block; WHITE-SPACE: nowrap; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat left top; COLOR: #000; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.results_filter .inactive {
+	BACKGROUND-POSITION: left -380px
+}
+.results_filter .inactive:hover {
+	BACKGROUND-POSITION: left -400px
+}
+.results_filter .active {
+	BACKGROUND-POSITION: left -420px; FONT-WEIGHT: bold
+}
+.results_filter .active:hover {
+	BACKGROUND-POSITION: left -440px
+}
+.sj_site {
+	LINE-HEIGHT: 20px; MARGIN: 0px 3px; FLOAT: left; COLOR: #000
+}
+.sj_site_active {
+	LINE-HEIGHT: 20px; MARGIN: 0px 3px; FLOAT: left; COLOR: #000
+}
+.sj_site_active {
+	COLOR: red; FONT-WEIGHT: bold
+}
+.sj_site:hover {
+	TEXT-DECORATION: underline
+}
+.sj_site_active:hover {
+	TEXT-DECORATION: underline
+}
+.sj {
+	LINE-HEIGHT: 26px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat; COLOR: #000; FONT-SIZE: 12px
+}
+.sj:hover {
+	TEXT-DECORATION: underline
+}
+.sj_back {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 32px; PADDING-RIGHT: 0px; BACKGROUND-POSITION: left -500px; FLOAT: left; PADDING-TOP: 0px
+}
+.sj_back:hover {
+	BACKGROUND-POSITION: left -526px
+}
+.sj_start {
+	PADDING-BOTTOM: 0px; MARGIN: 0px 20px 0px 0px; PADDING-LEFT: 32px; PADDING-RIGHT: 0px; BACKGROUND-POSITION: left -552px; FLOAT: left; PADDING-TOP: 0px
+}
+.sj_start:hover {
+	BACKGROUND-POSITION: left -578px
+}
+.sj_forward {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 32px; BACKGROUND-POSITION: right -500px; FLOAT: right; PADDING-TOP: 0px
+}
+.sj_forward:hover {
+	BACKGROUND-POSITION: right -526px
+}
+.sj_end {
+	PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 32px; BACKGROUND-POSITION: right -552px; FLOAT: right; PADDING-TOP: 0px
+}
+.sj_end:hover {
+	BACKGROUND-POSITION: right -578px
+}
+#results_configpop {
+	PADDING-BOTTOM: 20px; MARGIN: 0px auto; PADDING-LEFT: 20px; WIDTH: 900px; PADDING-RIGHT: 20px; PADDING-TOP: 20px
+}
+#results_configpop .config_entry {
+	BORDER-BOTTOM: #cacaca 1px dotted; LINE-HEIGHT: 24px; WIDTH: 150px; FLOAT: left
+}
+.results_view_normal {
+	WIDTH: 100%
+}
+.results_view_normal LI {
+	BORDER-BOTTOM: #cacaca 1px dotted; POSITION: relative; WIDTH: 730px; DISPLAY: block; FLOAT: left; CLEAR: both
+}
+.results_view_base LI.youritem {
+	BORDER-BOTTOM: #cacaca 1px dotted
+}
+.results_view_normal A.entrylink {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: block; HEIGHT: 45px; COLOR: #000; PADDING-TOP: 5px
+}
+.results_view_normal .entry_premium {
+	DISPLAY: block
+}
+.results_view_normal .entry {
+	DISPLAY: block
+}
+.results_view_normal .entry_premium {
+	BACKGROUND-COLOR: #e7eaf1
+}
+.results_view_normal .entry_premium:hover {
+	BACKGROUND-COLOR: #f2f2f2
+}
+.results_view_normal .entry {
+	BACKGROUND-COLOR: #fff
+}
+.results_view_normal .entry:hover {
+	BACKGROUND-COLOR: #f2f2f2
+}
+.results_view_normal .picture {
+	POSITION: relative; DISPLAY: block; HEIGHT: 45px
+}
+.results_view_normal .title {
+	POSITION: relative; PADDING-BOTTOM: 10px; DISPLAY: block; PADDING-TOP: 10px
+}
+.results_view_normal .size {
+	POSITION: relative; PADDING-BOTTOM: 10px; DISPLAY: block; PADDING-TOP: 10px
+}
+.results_view_normal .rooms {
+	POSITION: relative; PADDING-BOTTOM: 10px; DISPLAY: block; PADDING-TOP: 10px
+}
+.results_view_normal .region {
+	POSITION: relative; PADDING-BOTTOM: 10px; DISPLAY: block; PADDING-TOP: 10px
+}
+.results_view_normal .price {
+	POSITION: relative; PADDING-BOTTOM: 10px; DISPLAY: block; PADDING-TOP: 10px
+}
+.results_view_normal .picture {
+	WIDTH: 60px; FLOAT: left
+}
+.results_view_normal .title {
+	PADDING-LEFT: 10px; WIDTH: 280px; PADDING-RIGHT: 10px; FLOAT: left; OVERFLOW: hidden; FONT-WEIGHT: bold
+}
+.results_view_normal .size {
+	TEXT-ALIGN: center; WIDTH: 70px; FLOAT: left
+}
+.results_view_normal .rooms {
+	TEXT-ALIGN: center; WIDTH: 80px; FLOAT: left
+}
+.results_view_normal .region {
+	TEXT-ALIGN: center; PADDING-LEFT: 10px; WIDTH: 120px; FLOAT: left
+}
+.results_view_normal .price {
+	TEXT-ALIGN: right; WIDTH: 80px; FLOAT: right; COLOR: #bf0000; FONT-WEIGHT: bold
+}
+.results_view_base LI.entry {
+	Z-INDEX: 500; BORDER-BOTTOM: #cacaca 1px dotted; PADDING-BOTTOM: 10px; LINE-HEIGHT: 20px; PADDING-LEFT: 10px; WIDTH: 710px; PADDING-RIGHT: 10px; FLOAT: left; PADDING-TOP: 10px
+}
+.results_view_base LI.entry_premium {
+	Z-INDEX: 500; BORDER-BOTTOM: #cacaca 1px dotted; PADDING-BOTTOM: 10px; LINE-HEIGHT: 20px; PADDING-LEFT: 10px; WIDTH: 710px; PADDING-RIGHT: 10px; FLOAT: left; PADDING-TOP: 10px
+}
+.results_view_base LI.entry_premium {
+	BACKGROUND-COLOR: #e7eaf1
+}
+.results_view_base LI.youritem {
+	BORDER-BOTTOM: #cacaca 1px dotted
+}
+.results_view_base .title {
+	LINE-HEIGHT: 20px; WIDTH: 430px; WHITE-SPACE: nowrap; FLOAT: left; HEIGHT: 20px; OVERFLOW: hidden
+}
+.results_view_base .yourplace {
+	BACKGROUND-COLOR: #f6f6f6
+}
+.results_view_base .properties {
+	WIDTH: 270px; FLOAT: right
+}
+.results_view_base .properties DT {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; MARGIN: 0px 0px 0px 10px; PADDING-LEFT: 20px; WIDTH: 100px; PADDING-RIGHT: 0px; WHITE-SPACE: nowrap; BACKGROUND: url(http://r3.emlak.net/img/base_check.gif) no-repeat left center; FLOAT: left; HEIGHT: 20px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.results_view_base .properties DT.image {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; MARGIN: 0px 0px 0px 10px; PADDING-LEFT: 0px; WIDTH: 120px; PADDING-RIGHT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: left; HEIGHT: 20px; PADDING-TOP: 0px
+}
+.area_baseview {
+	DISPLAY: block; CLEAR: both
+}
+.area_baseview A {
+	COLOR: #000; FONT-WEIGHT: bold
+}
+.area_baseview A:hover {
+	TEXT-DECORATION: underline
+}
+.results_view_pic LI {
+	BORDER-BOTTOM: #cacaca 1px dotted; BORDER-LEFT: #cacaca 1px dotted; PADDING-BOTTOM: 9px; MARGIN: 10px 5px 0px; PADDING-LEFT: 9px; WIDTH: 152px; PADDING-RIGHT: 9px; FLOAT: left; BORDER-TOP: #cacaca 1px dotted; BORDER-RIGHT: #cacaca 1px dotted; PADDING-TOP: 9px
+}
+.results_view_pic .entry_premium {
+	BACKGROUND-COLOR: #e7eaf1
+}
+.results_view_pic .title {
+	TEXT-ALIGN: center; LINE-HEIGHT: 14px; MARGIN: 0px 0px 5px; HEIGHT: 28px; OVERFLOW: hidden
+}
+.area_picview {
+	TEXT-ALIGN: center; LINE-HEIGHT: 18px; DISPLAY: block; WHITE-SPACE: nowrap; HEIGHT: 18px; CLEAR: both; FONT-SIZE: 9px; OVERFLOW: hidden
+}
+.area_picview A {
+	COLOR: #000; FONT-WEIGHT: bold
+}
+.area_picview A:hover {
+	TEXT-DECORATION: underline
+}
+.results_view_list {
+	POSITION: relative; WIDTH: 100%
+}
+.results_view_list LI {
+	BORDER-BOTTOM: #cacaca 1px dotted; PADDING-BOTTOM: 3px; LINE-HEIGHT: 22px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; PADDING-TOP: 3px
+}
+.results_view_list .entry_premium {
+	BACKGROUND-COLOR: #e7eaf1
+}
+.results_view_list .entry {
+	BACKGROUND-COLOR: #fff
+}
+.results_view_list .picture {
+	MARGIN: 0px 5px 0px 0px; WIDTH: 20px; WHITE-SPACE: nowrap; FLOAT: left; OVERFLOW: hidden
+}
+.results_view_list .title {
+	MARGIN: 0px 10px 0px 0px; WIDTH: 270px; WHITE-SPACE: nowrap; FLOAT: left; OVERFLOW: hidden
+}
+.area_listview {
+	MARGIN: 0px 10px 0px 0px; WIDTH: 180px; WHITE-SPACE: nowrap; FLOAT: left; OVERFLOW: hidden
+}
+.area_listview A {
+	COLOR: #000
+}
+.area_listview A:hover {
+	TEXT-DECORATION: underline
+}
+.results_view_list .rooms {
+	TEXT-ALIGN: center; MARGIN: 0px 10px 0px 0px; WIDTH: 40px; FLOAT: left
+}
+.results_view_list .size {
+	TEXT-ALIGN: center; WIDTH: 80px; FLOAT: left
+}
+.results_view_list .price {
+	TEXT-ALIGN: right; WIDTH: 90px; FLOAT: right
+}
+.results_view_list_picph_no {
+	WIDTH: 20px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat -400px top; HEIGHT: 20px
+}
+.results_view_list_picph_yes {
+	WIDTH: 20px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_results.png) no-repeat -400px -20px; HEIGHT: 20px
+}
+.results_premiumfade {
+	Z-INDEX: 2000; POSITION: relative
+}
+.results_premiumfade IMG {
+	DISPLAY: none
+}
+.results_specpartner_partnerimg {
+	Z-INDEX: 5111
+}
+.anythingSlider_results {
+	WIDTH: 720px
+}
+.anythingSlider_results UL {
+	POSITION: relative; LIST-STYLE-TYPE: none; MARGIN: 0px; WIDTH: 32700px; LIST-STYLE-IMAGE: none; TOP: 0px; LEFT: 0px
+}
+.anythingSlider_results LI {
+	WIDTH: 720px; FLOAT: left
+}
+.anythingSlider_results .arrow {
+	Z-INDEX: 8765; POSITION: absolute; TEXT-INDENT: -9999px; WIDTH: 20px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_slider.png) no-repeat; HEIGHT: 60px; CURSOR: pointer; TOP: 10px
+}
+.anythingSlider_results .forward {
+	BACKGROUND-POSITION: left -260px; RIGHT: 0px
+}
+.anythingSlider_results .forward:hover {
+	BACKGROUND-POSITION: -20px -260px
+}
+.anythingSlider_results .back {
+	BACKGROUND-POSITION: -40px -260px; LEFT: 0px
+}
+.anythingSlider_results .back:hover {
+	BACKGROUND-POSITION: -60px -260px
+}
+#customSlider_outerbox {
+	Z-INDEX: 5644; POSITION: relative; PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; WIDTH: 730px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 60px; PADDING-TOP: 10px
+}
+#customSlider_innerbox {
+	POSITION: absolute; PADDING-BOTTOM: 0px; PADDING-LEFT: 1px; WIDTH: 690px; PADDING-RIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 0px; LEFT: 35px
+}
+#customSlider_elements {
+	POSITION: relative; LIST-STYLE-TYPE: none; MARGIN: 0px; WIDTH: 32700px; LIST-STYLE-IMAGE: none; TOP: 0px; LEFT: 0px
+}
+#customSlider_elements LI {
+	WIDTH: 690px; FLOAT: left
+}
+.customSlider_elementbox {
+	Z-INDEX: 3500; POSITION: relative; BORDER-LEFT: #cacaca 1px solid; BACKGROUND-COLOR: #fff; WIDTH: 130px; FLOAT: left; MARGIN-LEFT: -1px; BORDER-RIGHT: #cacaca 1px solid
+}
+.customSlider_elementbox A {
+	POSITION: relative
+}
+.customSlider_elementbox .item_picture {
+	Z-INDEX: 4299; POSITION: relative; WIDTH: 80px; HEIGHT: 60px; TOP: 0px; LEFT: 25px
+}
+.customSlider_elementbox .premium_flag_container {
+	Z-INDEX: 7299; POSITION: absolute; WIDTH: 100px; DISPLAY: block; HEIGHT: 32px; TOP: 0px; LEFT: 0px
+}
+.customSlider_elementbox .premium_flag {
+	Z-INDEX: 4400; POSITION: relative; WIDTH: 70px; DISPLAY: block; HEIGHT: 25px; TOP: 5px; LEFT: 20px
+}
+.customSlider_detailbox {
+	BORDER-BOTTOM: #4f9d1b 3px solid; PADDING-BOTTOM: 5px; BACKGROUND-COLOR: white; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: none; PADDING-TOP: 5px
+}
+.customSlider_detailbox .title {
+	LINE-HEIGHT: 16px; WIDTH: 100%; DISPLAY: block; HEIGHT: 32px; COLOR: #000; OVERFLOW: hidden
+}
+.customSlider_detailbox .price {
+	TEXT-ALIGN: right; WIDTH: 100%; DISPLAY: block; WHITE-SPACE: nowrap; COLOR: #bf0000; OVERFLOW: hidden; FONT-WEIGHT: bold
+}
+#detail_overview_left {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 800px; PADDING-RIGHT: 15px; FLOAT: left; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.detail_imgbox {
+	BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #f6f6f6; PADDING-LEFT: 9px; WIDTH: 300px; PADDING-RIGHT: 9px; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.detail_imgbox IMG {
+	MARGIN: 0px auto; WIDTH: 300px; HEIGHT: 225px
+}
+.detail_thumb {
+	MARGIN: 0px 15px; WIDTH: 80px; FLOAT: left
+}
+.detail_thumb_more {
+	WIDTH: 20px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_detail.png) no-repeat -250px -100px; FLOAT: right; HEIGHT: 60px
+}
+#detail_flag_premium {
+	Z-INDEX: 6111; POSITION: absolute; WIDTH: 153px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_detail.png) no-repeat left -300px; HEIGHT: 155px; CURSOR: pointer; TOP: -5px; LEFT: 5px
+}
+#detail_navigation {
+	MARGIN: 5px 0px 1px; FLOAT: left
+}
+#detail_navigation LI {
+	MARGIN: 0px 2px 0px 0px; FLOAT: left
+}
+#detail_navigation A {
+	TEXT-ALIGN: center; WIDTH: 130px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_detail.png) no-repeat left top; FLOAT: left; FONT-SIZE: 14px
+}
+#detail_navigation A.active {
+	LINE-HEIGHT: 40px; BACKGROUND-POSITION: left 0px; HEIGHT: 40px; COLOR: #ffffff; FONT-WEIGHT: bold
+}
+#detail_navigation A.inactive {
+	LINE-HEIGHT: 30px; MARGIN: 10px 0px 0px; BACKGROUND-POSITION: -130px -10px; HEIGHT: 30px; COLOR: #222
+}
+#detail_navigation A.inactive:hover {
+	BACKGROUND-POSITION: left 0px; COLOR: #fff
+}
+#detail_navigation_space {
+	HEIGHT: 10px; CLEAR: both; BORDER-TOP: #cacaca 1px solid
+}
+.detail_properties_white {
+	LINE-HEIGHT: 26px; BACKGROUND-COLOR: #ffffff; MARGIN: 0px 2px; WIDTH: 230px; FLOAT: left; HEIGHT: 26px; BORDER-TOP: #cacaca 1px dotted
+}
+.detail_properties_grey {
+	LINE-HEIGHT: 26px; BACKGROUND-COLOR: #f6f6f6; MARGIN: 0px 2px; WIDTH: 230px; FLOAT: left; HEIGHT: 26px; BORDER-TOP: #cacaca 1px dotted
+}
+.detail_properties_white LABEL {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px; MARGIN: 0px 0px 0px 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+.detail_properties_grey LABEL {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px; MARGIN: 0px 0px 0px 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+.detail_properties_white .text {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px; MARGIN: 0px 3px 0px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: right; PADDING-TOP: 0px
+}
+.detail_properties_grey .text {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px; MARGIN: 0px 3px 0px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: right; PADDING-TOP: 0px
+}
+.detail_configlist {
+	FLOAT: left
+}
+.detail_configlist LI {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; MARGIN: 0px 10px 0px 0px; PADDING-LEFT: 18px; WIDTH: 122px; PADDING-RIGHT: 0px; BACKGROUND: url(http://r3.emlak.net/img/base_check.gif) no-repeat left center; FLOAT: left; HEIGHT: 20px; COLOR: #000000; PADDING-TOP: 0px
+}
+.detail_properties_outerbox {
+	BACKGROUND: url(http://r3.emlak.net/img/base_dot_hori_grey.gif) repeat-y center top
+}
+.detail_properties {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px; BACKGROUND-COLOR: #ffffff; MARGIN: 0px 10px; PADDING-LEFT: 0px; WIDTH: 214px; PADDING-RIGHT: 1px; FLOAT: left; HEIGHT: 26px; BORDER-TOP: #cacaca 1px dotted; PADDING-TOP: 0px
+}
+.detail_properties LABEL {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px; MARGIN: 0px 0px 0px 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+.detail_properties .text {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px; MARGIN: 0px 3px 0px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: right; PADDING-TOP: 0px
+}
+.detail_contact_trader_white {
+	BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 18px; PADDING-LEFT: 9px; WIDTH: 300px; PADDING-RIGHT: 9px; BACKGROUND: #fff; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.detail_contact_trader_white .infos {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 5px; WIDTH: 290px; PADDING-RIGHT: 5px; CLEAR: both; BORDER-TOP: #cacaca 1px dotted; PADDING-TOP: 0px
+}
+.detail_contact_trader_white .caption {
+	WIDTH: 90px; DISPLAY: block; FLOAT: left; FONT-WEIGHT: bold
+}
+.detail_contact_trader_white .caption-content {
+	WIDTH: 200px; DISPLAY: block; FLOAT: right
+}
+.detail_contact_trader {
+	BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 18px; PADDING-LEFT: 9px; WIDTH: 300px; PADDING-RIGHT: 9px; BACKGROUND: #e8f0e6; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.detail_contact_trader .infos {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 5px; WIDTH: 290px; PADDING-RIGHT: 5px; CLEAR: both; BORDER-TOP: #cacaca 1px dotted; PADDING-TOP: 0px
+}
+.detail_contact_trader .caption {
+	WIDTH: 90px; DISPLAY: block; FLOAT: left; FONT-WEIGHT: bold
+}
+.detail_contact_trader .caption-content {
+	WIDTH: 200px; DISPLAY: block; FLOAT: right
+}
+.detail_contact_trader_partner {
+	BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 9px; LINE-HEIGHT: 18px; PADDING-LEFT: 9px; WIDTH: 300px; PADDING-RIGHT: 9px; BACKGROUND: #e8f0e6; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.detail_contact_trader_partner .infos {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 5px; WIDTH: 290px; PADDING-RIGHT: 5px; CLEAR: both; BORDER-TOP: #cacaca 1px dotted; PADDING-TOP: 0px
+}
+.detail_contact_trader_partner .caption {
+	WIDTH: 90px; DISPLAY: block; FLOAT: left; FONT-WEIGHT: bold
+}
+.detail_contact_trader_partner .caption-content {
+	WIDTH: 200px; DISPLAY: block; FLOAT: right
+}
+.detail_contact_trader_partner_withpic {
+	BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 9px; LINE-HEIGHT: 18px; PADDING-LEFT: 9px; WIDTH: 300px; PADDING-RIGHT: 9px; BACKGROUND: #e8f0e6; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.detail_contact_trader_partner_withpic .caption {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; BORDER-TOP: #cacaca 1px dotted; FONT-WEIGHT: bold; PADDING-TOP: 2px
+}
+.detail_contact_trader_partner_withpic .caption-content {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.detail_contact_trader_bottom {
+	BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 9px; WIDTH: 300px; PADDING-RIGHT: 9px; BACKGROUND: #fff; BORDER-TOP: #cacaca 1px dotted; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 9px
+}
+.detail_contact_private {
+	BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 18px; PADDING-LEFT: 9px; WIDTH: 300px; PADDING-RIGHT: 9px; BACKGROUND: #e8f0e6; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.detail_contact_private .infos {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; CLEAR: both; BORDER-TOP: #cacaca 1px dotted; PADDING-TOP: 0px
+}
+.detail_contact_private .caption {
+	WIDTH: 50px; DISPLAY: block; FLOAT: left; FONT-WEIGHT: bold
+}
+.detail_contact_private .caption-content {
+	WIDTH: 140px; DISPLAY: block; FLOAT: right
+}
+.detail_contactbox_ph {
+	WIDTH: 80px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_detail.png) no-repeat left -100px; FLOAT: left; HEIGHT: 80px
+}
+.results_view_pic LI.youritem {
+	BORDER-BOTTOM: #cacaca 1px dotted; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 730px; PADDING-RIGHT: 0px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 10px
+}
+.detail_crossselling {
+	BORDER-BOTTOM: #cacaca 1px solid; BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 9px; OVERFLOW-Y: scroll; BACKGROUND-COLOR: #f2f2f2; PADDING-LEFT: 9px; WIDTH: 300px; PADDING-RIGHT: 9px; BORDER-TOP: #cacaca 1px solid; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 9px
+}
+.detail_crossselling_logo {
+	WIDTH: 117px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_detail.png) no-repeat -100px -100px; HEIGHT: 20px
+}
+.results_view_list LI.youritem {
+	BORDER-BOTTOM: #cacaca 1px dotted; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 730px; PADDING-RIGHT: 0px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+.detail_actionbar {
+	MARGIN: 20px 0px 0px; FLOAT: right
+}
+.detail_actionbar .remember {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; MARGIN: 0px 0px 0px 7px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_detail.png) no-repeat; FLOAT: left; HEIGHT: 20px; COLOR: #222; FONT-SIZE: 11px; PADDING-TOP: 0px
+}
+.detail_actionbar .print {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; MARGIN: 0px 0px 0px 7px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_detail.png) no-repeat; FLOAT: left; HEIGHT: 20px; COLOR: #222; FONT-SIZE: 11px; PADDING-TOP: 0px
+}
+.detail_actionbar .report {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; MARGIN: 0px 0px 0px 7px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_detail.png) no-repeat; FLOAT: left; HEIGHT: 20px; COLOR: #222; FONT-SIZE: 11px; PADDING-TOP: 0px
+}
+.detail_actionbar .remember {
+	BACKGROUND-POSITION: left -200px
+}
+.detail_actionbar .print {
+	BACKGROUND-POSITION: left -220px
+}
+.detail_actionbar .report {
+	BACKGROUND-POSITION: left -240px
+}
+.detail_actionbar .remember:hover {
+	COLOR: #000; TEXT-DECORATION: underline
+}
+.detail_actionbar .print:hover {
+	COLOR: #000; TEXT-DECORATION: underline
+}
+.detail_actionbar .report:hover {
+	COLOR: #000; TEXT-DECORATION: underline
+}
+.detail_images_previewbox {
+	POSITION: relative; MARGIN: 10px 10px 10px 0px; WIDTH: 120px; FLOAT: left; HEIGHT: 90px
+}
+.detail_images_previewbox IMG {
+	MARGIN: 0px; DISPLAY: block
+}
+#detail_inactive {
+	POSITION: absolute; WIDTH: 100%; DISPLAY: block; HEIGHT: 100%; TOP: 0px; LEFT: 0px
+}
+.detail_list_moreoffers_text LI {
+	BORDER-BOTTOM: #cacaca 1px solid; POSITION: relative; PADDING-BOTTOM: 4px; PADDING-LEFT: 5px; WIDTH: 225px; PADDING-RIGHT: 10px; FLOAT: left; PADDING-TOP: 4px
+}
+.detail_list_moreoffers_text LI:hover {
+	BACKGROUND-COLOR: #e8f0e6
+}
+.detail_list_moreoffers_text A {
+	DISPLAY: block; CURSOR: pointer
+}
+.detail_list_moreoffers_text SPAN {
+	DISPLAY: block; CURSOR: pointer
+}
+.detail_list_moreoffers_pic LI {
+	BORDER-BOTTOM: #cacaca 1px solid; POSITION: relative; PADDING-BOTTOM: 4px; PADDING-LEFT: 5px; WIDTH: 251px; PADDING-RIGHT: 10px; FLOAT: left; PADDING-TOP: 4px
+}
+.detail_list_moreoffers_pic LI:hover {
+	BACKGROUND-COLOR: #e8f0e6
+}
+.detail_list_moreoffers_pic A {
+	DISPLAY: block; CURSOR: pointer
+}
+.detail_list_moreoffers_pic SPAN {
+	DISPLAY: block; CURSOR: pointer
+}
+#fancybox-loading {
+	Z-INDEX: 9104; POSITION: fixed; MARGIN-TOP: -20px; WIDTH: 40px; DISPLAY: none; HEIGHT: 40px; MARGIN-LEFT: -20px; OVERFLOW: hidden; CURSOR: pointer; TOP: 50%; LEFT: 50%
+}
+#fancybox-loading DIV {
+	BACKGROUND-IMAGE: url(http://r3.emlak.net/img/fancybox/fancybox.png); POSITION: absolute; WIDTH: 40px; HEIGHT: 480px; TOP: 0px; LEFT: 0px
+}
+#fancybox-overlay {
+	Z-INDEX: 9100; POSITION: absolute; WIDTH: 100%; DISPLAY: none; TOP: 0px; LEFT: 0px
+}
+#fancybox-tmp {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: none; OVERFLOW: auto; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+#fancybox-wrap {
+	Z-INDEX: 9101; POSITION: absolute; PADDING-BOTTOM: 20px; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; PADDING-LEFT: 20px; OUTLINE-WIDTH: medium; PADDING-RIGHT: 20px; DISPLAY: none; PADDING-TOP: 20px; TOP: 0px; LEFT: 0px
+}
+#fancybox-outer {
+	POSITION: relative; WIDTH: 100%; BACKGROUND: #fff; HEIGHT: 100%
+}
+#fancybox-content {
+	Z-INDEX: 9102; BORDER-BOTTOM: #fff 0px solid; POSITION: relative; BORDER-LEFT: #fff 0px solid; PADDING-BOTTOM: 0px; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; PADDING-LEFT: 0px; OUTLINE-WIDTH: medium; WIDTH: 0px; PADDING-RIGHT: 0px; HEIGHT: 0px; OVERFLOW: hidden; BORDER-TOP: #fff 0px solid; BORDER-RIGHT: #fff 0px solid; PADDING-TOP: 0px
+}
+#fancybox-hide-sel-frame {
+	Z-INDEX: 9101; POSITION: absolute; WIDTH: 100%; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 100%; TOP: 0px; LEFT: 0px
+}
+#fancybox-close {
+	Z-INDEX: 9103; POSITION: absolute; WIDTH: 30px; DISPLAY: none; BACKGROUND: url(http://r3.emlak.net/img/fancybox/fancybox.png) -40px 0px; HEIGHT: 30px; CURSOR: pointer; RIGHT: -15px; TOP: -15px
+}
+#fancybox-error {
+	PADDING-BOTTOM: 14px; MARGIN: 0px; PADDING-LEFT: 14px; PADDING-RIGHT: 14px; FONT: 12px/20px Arial; COLOR: #444; PADDING-TOP: 14px
+}
+#fancybox-img {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; LINE-HEIGHT: 0; MARGIN: 0px; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; PADDING-LEFT: 0px; OUTLINE-WIDTH: medium; WIDTH: 100%; PADDING-RIGHT: 0px; HEIGHT: 100%; VERTICAL-ALIGN: top; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+#fancybox-frame {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 100%; DISPLAY: block; HEIGHT: 100%; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+#fancybox-left {
+	Z-INDEX: 9102; POSITION: absolute; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; WIDTH: 35%; BOTTOM: 0px; DISPLAY: none; BACKGROUND: url(http://r3.emlak.net/img/fancybox/blank.gif); HEIGHT: 100%; CURSOR: pointer
+}
+#fancybox-right {
+	Z-INDEX: 9102; POSITION: absolute; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; WIDTH: 35%; BOTTOM: 0px; DISPLAY: none; BACKGROUND: url(http://r3.emlak.net/img/fancybox/blank.gif); HEIGHT: 100%; CURSOR: pointer
+}
+#fancybox-left {
+	LEFT: 0px
+}
+#fancybox-right {
+	RIGHT: 0px
+}
+#fancybox-left-ico {
+	Z-INDEX: 9102; POSITION: absolute; MARGIN-TOP: -15px; WIDTH: 30px; DISPLAY: block; HEIGHT: 30px; CURSOR: pointer; TOP: 50%; LEFT: -9999px
+}
+#fancybox-right-ico {
+	Z-INDEX: 9102; POSITION: absolute; MARGIN-TOP: -15px; WIDTH: 30px; DISPLAY: block; HEIGHT: 30px; CURSOR: pointer; TOP: 50%; LEFT: -9999px
+}
+#fancybox-left-ico {
+	BACKGROUND-IMAGE: url(http://r3.emlak.net/img/fancybox/fancybox.png); BACKGROUND-POSITION: -40px -30px
+}
+#fancybox-right-ico {
+	BACKGROUND-IMAGE: url(http://r3.emlak.net/img/fancybox/fancybox.png); BACKGROUND-POSITION: -40px -60px
+}
+#fancybox-left:hover {
+	VISIBILITY: visible
+}
+#fancybox-right:hover {
+	VISIBILITY: visible
+}
+#fancybox-left:hover SPAN {
+	LEFT: 20px
+}
+#fancybox-right:hover SPAN {
+	RIGHT: 20px; LEFT: auto
+}
+.fancybox-bg {
+	Z-INDEX: 9001; BORDER-BOTTOM: 0px; POSITION: absolute; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 20px; PADDING-RIGHT: 0px; HEIGHT: 20px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+#fancybox-bg-n {
+	BACKGROUND-IMAGE: url(http://r3.emlak.net/img/fancybox/fancybox-x.png); WIDTH: 100%; TOP: -20px; LEFT: 0px
+}
+#fancybox-bg-ne {
+	BACKGROUND-IMAGE: url(http://r3.emlak.net/img/fancybox/fancybox.png); BACKGROUND-POSITION: -40px -162px; RIGHT: -20px; TOP: -20px
+}
+#fancybox-bg-e {
+	BACKGROUND-IMAGE: url(http://r3.emlak.net/img/fancybox/fancybox-y.png); BACKGROUND-POSITION: -20px 0px; HEIGHT: 100%; RIGHT: -20px; TOP: 0px
+}
+#fancybox-bg-se {
+	BACKGROUND-IMAGE: url(http://r3.emlak.net/img/fancybox/fancybox.png); BOTTOM: -20px; BACKGROUND-POSITION: -40px -182px; RIGHT: -20px
+}
+#fancybox-bg-s {
+	BACKGROUND-IMAGE: url(http://r3.emlak.net/img/fancybox/fancybox-x.png); WIDTH: 100%; BOTTOM: -20px; BACKGROUND-POSITION: 0px -20px; LEFT: 0px
+}
+#fancybox-bg-sw {
+	BACKGROUND-IMAGE: url(http://r3.emlak.net/img/fancybox/fancybox.png); BOTTOM: -20px; BACKGROUND-POSITION: -40px -142px; LEFT: -20px
+}
+#fancybox-bg-w {
+	BACKGROUND-IMAGE: url(http://r3.emlak.net/img/fancybox/fancybox-y.png); HEIGHT: 100%; TOP: 0px; LEFT: -20px
+}
+#fancybox-bg-nw {
+	BACKGROUND-IMAGE: url(http://r3.emlak.net/img/fancybox/fancybox.png); BACKGROUND-POSITION: -40px -122px; TOP: -20px; LEFT: -20px
+}
+#fancybox-title {
+	Z-INDEX: 9102; FONT-FAMILY: Helvetica; FONT-SIZE: 12px
+}
+.fancybox-title-inside {
+	POSITION: relative; TEXT-ALIGN: center; PADDING-BOTTOM: 10px; BACKGROUND: #fff; COLOR: #333
+}
+.fancybox-title-outside {
+	COLOR: #fff; PADDING-TOP: 10px
+}
+.fancybox-title-over {
+	POSITION: absolute; TEXT-ALIGN: left; BOTTOM: 0px; COLOR: #fff; LEFT: 0px
+}
+#fancybox-title-over {
+	BACKGROUND-IMAGE: url(http://r3.emlak.net/img/fancybox/fancy_title_over.png); PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: block; PADDING-TOP: 10px
+}
+.fancybox-title-float {
+	POSITION: absolute; BOTTOM: -20px; HEIGHT: 32px; LEFT: 0px
+}
+#fancybox-title-float-wrap {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: auto; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+#fancybox-title-float-wrap TD {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WHITE-SPACE: nowrap; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+#fancybox-title-float-left {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 0px; BACKGROUND: url(http://r3.emlak.net/img/fancybox/fancybox.png) no-repeat -40px -90px; PADDING-TOP: 0px
+}
+#fancybox-title-float-main {
+	PADDING-BOTTOM: 3px; LINE-HEIGHT: 29px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: url(http://r3.emlak.net/img/fancybox/fancybox-x.png) 0px -40px; COLOR: #fff; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+#fancybox-title-float-right {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 0px; BACKGROUND: url(http://r3.emlak.net/img/fancybox/fancybox.png) no-repeat -55px -90px; PADDING-TOP: 0px
+}
+.fancybox-ie6 #fancybox-close {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://r3.emlak.net/img/fancybox//fancy_close.png', sizingMethod='scale'); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.fancybox-ie6 #fancybox-left-ico {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://r3.emlak.net/img/fancybox//fancy_nav_left.png', sizingMethod='scale'); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.fancybox-ie6 #fancybox-right-ico {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://r3.emlak.net/img/fancybox//fancy_nav_right.png', sizingMethod='scale'); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.fancybox-ie6 #fancybox-title-over {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://r3.emlak.net/img/fancybox//fancy_title_over.png', sizingMethod='scale'); ZOOM: 1; BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.fancybox-ie6 #fancybox-title-float-left {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://r3.emlak.net/img/fancybox//fancy_title_left.png', sizingMethod='scale'); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.fancybox-ie6 #fancybox-title-float-main {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://r3.emlak.net/img/fancybox//fancy_title_main.png', sizingMethod='scale'); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.fancybox-ie6 #fancybox-title-float-right {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://r3.emlak.net/img/fancybox//fancy_title_right.png', sizingMethod='scale'); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.fancybox-ie6 #fancybox-bg-w {
+	
+}
+.fancybox-ie6 #fancybox-bg-e {
+	
+}
+.fancybox-ie6 #fancybox-left {
+	
+}
+.fancybox-ie6 #fancybox-right {
+	
+}
+#fancybox-hide-sel-frame {
+	
+}
+.fancybox-ie6#fancybox-loading {
+	POSITION: absolute; MARGIN-TOP: 0px
+}
+.fancybox-ie6#fancybox-loading DIV {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://r3.emlak.net/img/fancybox//fancy_loading.png', sizingMethod='scale'); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.fancybox-ie .fancybox-bg {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.fancybox-ie #fancybox-bg-n {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://r3.emlak.net/img/fancybox//fancy_shadow_n.png', sizingMethod='scale')
+}
+.fancybox-ie #fancybox-bg-ne {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://r3.emlak.net/img/fancybox//fancy_shadow_ne.png', sizingMethod='scale')
+}
+.fancybox-ie #fancybox-bg-e {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://r3.emlak.net/img/fancybox//fancy_shadow_e.png', sizingMethod='scale')
+}
+.fancybox-ie #fancybox-bg-se {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://r3.emlak.net/img/fancybox//fancy_shadow_se.png', sizingMethod='scale')
+}
+.fancybox-ie #fancybox-bg-s {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://r3.emlak.net/img/fancybox//fancy_shadow_s.png', sizingMethod='scale')
+}
+.fancybox-ie #fancybox-bg-sw {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://r3.emlak.net/img/fancybox//fancy_shadow_sw.png', sizingMethod='scale')
+}
+.fancybox-ie #fancybox-bg-w {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://r3.emlak.net/img/fancybox//fancy_shadow_w.png', sizingMethod='scale')
+}
+.fancybox-ie #fancybox-bg-nw {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://r3.emlak.net/img/fancybox//fancy_shadow_nw.png', sizingMethod='scale')
+}
+.ac_results {
+	Z-INDEX: 99999; BORDER-BOTTOM: black 1px solid; BORDER-LEFT: black 1px solid; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: white; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; OVERFLOW: hidden; BORDER-TOP: black 1px solid; BORDER-RIGHT: black 1px solid; PADDING-TOP: 0px
+}
+.ac_results UL {
+	LIST-STYLE: none none outside; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.ac_results LI {
+	PADDING-BOTTOM: 2px; LINE-HEIGHT: 16px; MARGIN: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: block; FONT: menu; FONT-SIZE: 12px; OVERFLOW: hidden; CURSOR: default; PADDING-TOP: 2px
+}
+.ac_loading {
+	BACKGROUND: url(http://r3.emlak.net/img/spinner.gif) white no-repeat right center
+}
+.ac_odd {
+	BACKGROUND-COLOR: #eee
+}
+.ac_over {
+	BACKGROUND-COLOR: #0a246a; COLOR: white
+}
+.anythingSlider_slim {
+	WIDTH: 440px; HEIGHT: 90px
+}
+.anythingSlider_slim .wrapper {
+	WIDTH: 400px; HEIGHT: 90px; OVERFLOW: hidden; LEFT: 25px
+}
+.anythingSlider_slim UL {
+	POSITION: relative; LIST-STYLE-TYPE: none; MARGIN: 0px; WIDTH: 32700px; LIST-STYLE-IMAGE: none; TOP: 0px; LEFT: 0px
+}
+.anythingSlider_slim LI {
+	WIDTH: 440px; FLOAT: left
+}
+.anythingSlider_slim .arrow {
+	POSITION: absolute; TEXT-INDENT: -9999px; WIDTH: 20px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_slider.png) no-repeat; HEIGHT: 90px; CURSOR: pointer; TOP: 0px
+}
+.anythingSlider_slim .forward {
+	BACKGROUND-POSITION: left top; RIGHT: 0px
+}
+.anythingSlider_slim .forward:hover {
+	BACKGROUND-POSITION: -20px top
+}
+.anythingSlider_slim .back {
+	BACKGROUND-POSITION: -40px top; LEFT: 0px
+}
+.anythingSlider_slim .back:hover {
+	BACKGROUND-POSITION: -60px top
+}
+.slideritem_slim {
+	MARGIN: 0px 5px; WIDTH: 120px; FLOAT: left
+}
+.overview_headlinebox {
+	BORDER-BOTTOM: #cacaca 1px solid; LINE-HEIGHT: 40px; BACKGROUND-COLOR: #fff; HEIGHT: 40px; BORDER-TOP: #cacaca 1px solid
+}
+.overview_headlinebox_section {
+	LINE-HEIGHT: 40px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_subsites.png) no-repeat; FLOAT: left; HEIGHT: 40px; COLOR: #000
+}
+.overview_headlinebox .living {
+	WIDTH: 40px; BORDER-RIGHT: #cacaca 1px solid
+}
+.overview_headlinebox .industry {
+	WIDTH: 40px; BORDER-RIGHT: #cacaca 1px solid
+}
+.overview_headlinebox .land {
+	WIDTH: 40px; BORDER-RIGHT: #cacaca 1px solid
+}
+.overview_headlinebox .projects {
+	WIDTH: 40px; BORDER-RIGHT: #cacaca 1px solid
+}
+.overview_headlinebox .holidays {
+	WIDTH: 40px; BORDER-RIGHT: #cacaca 1px solid
+}
+.overview_headlinebox .living {
+	BACKGROUND-POSITION: left top
+}
+.overview_headlinebox .industry {
+	BACKGROUND-POSITION: left -80px
+}
+.overview_headlinebox .land {
+	BACKGROUND-POSITION: left -160px
+}
+.overview_headlinebox .projects {
+	BACKGROUND-POSITION: left -240px
+}
+.overview_headlinebox .holidays {
+	BACKGROUND-POSITION: left -320px
+}
+.overview_headlinebox .living_active {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 46px; PADDING-RIGHT: 10px; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.overview_headlinebox .industry_active {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 46px; PADDING-RIGHT: 10px; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.overview_headlinebox .land_active {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 46px; PADDING-RIGHT: 10px; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.overview_headlinebox .projects_active {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 46px; PADDING-RIGHT: 10px; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.overview_headlinebox .holidays_active {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 46px; PADDING-RIGHT: 10px; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.overview_headlinebox .living:hover {
+	BACKGROUND-POSITION: left -40px
+}
+.overview_headlinebox .living_active {
+	BACKGROUND-POSITION: left -40px
+}
+.overview_headlinebox .industry:hover {
+	BACKGROUND-POSITION: left -120px
+}
+.overview_headlinebox .industry_active {
+	BACKGROUND-POSITION: left -120px
+}
+.overview_headlinebox .land:hover {
+	BACKGROUND-POSITION: left -200px
+}
+.overview_headlinebox .land_active {
+	BACKGROUND-POSITION: left -200px
+}
+.overview_headlinebox .projects:hover {
+	BACKGROUND-POSITION: left -280px
+}
+.overview_headlinebox .projects_active {
+	BACKGROUND-POSITION: left -280px
+}
+.overview_headlinebox .holidays:hover {
+	BACKGROUND-POSITION: left -360px
+}
+.overview_headlinebox .holidays_active {
+	BACKGROUND-POSITION: left -360px
+}
+.overview_titlebar {
+	LINE-HEIGHT: 30px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) no-repeat right -500px; HEIGHT: 30px
+}
+.overview_titlebar .title {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_boxes-bars.png) #fff no-repeat left -530px; FLOAT: left; HEIGHT: 30px; COLOR: #fff; FONT-SIZE: 14px; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+.overview_titlebar .insideform {
+	MARGIN: 2px 2px 0px 0px; FLOAT: right
+}
+.overview_search_options .entry {
+	LINE-HEIGHT: 20px; MARGIN: 0px 6px; WIDTH: 160px; FLOAT: left
+}
+.overview_search_options .entry INPUT {
+	MARGIN: 0px 3px 0px 0px
+}
+.overview_search_living {
+	BORDER-BOTTOM: #cacaca 1px solid; PADDING-BOTTOM: 10px; PADDING-LEFT: 280px; PADDING-RIGHT: 10px; BACKGROUND: url(http://r3.emlak.net/img/overview_boxbg_living.jpg) #f2f2f2 no-repeat left center; HEIGHT: 130px; PADDING-TOP: 10px
+}
+.overview_search_industry {
+	BORDER-BOTTOM: #cacaca 1px solid; PADDING-BOTTOM: 10px; PADDING-LEFT: 280px; PADDING-RIGHT: 10px; BACKGROUND: url(http://r3.emlak.net/img/overview_boxbg_industry.jpg) #f2f2f2 no-repeat left center; HEIGHT: 130px; PADDING-TOP: 10px
+}
+.overview_search_land {
+	BORDER-BOTTOM: #cacaca 1px solid; PADDING-BOTTOM: 10px; PADDING-LEFT: 280px; PADDING-RIGHT: 10px; BACKGROUND: url(http://r3.emlak.net/img/overview_boxbg_land.jpg) #f2f2f2 no-repeat left center; HEIGHT: 130px; PADDING-TOP: 10px
+}
+.overview_search_category {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 18px; PADDING-LEFT: 10px; WIDTH: 120px; PADDING-RIGHT: 10px; DISPLAY: block; WHITE-SPACE: nowrap; BACKGROUND: url(http://r3.emlak.net/img/base_arrow_black.gif) no-repeat 2px center; FLOAT: left; COLOR: #000; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.overview_search_category:hover {
+	BACKGROUND-COLOR: #fff; TEXT-DECORATION: underline
+}
+.overview_search_areacol {
+	PADDING-BOTTOM: 0px; MARGIN: 0px 15px 0px 0px; PADDING-LEFT: 14px; WIDTH: 160px; PADDING-RIGHT: 14px; BACKGROUND: url(http://r3.emlak.net/img/base_bg_gradient.png) repeat-x left center; FLOAT: left; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.overview_regions_category_box {
+	BORDER-BOTTOM: #cacaca 1px solid; PADDING-BOTTOM: 10px; PADDING-LEFT: 280px; PADDING-RIGHT: 10px; BACKGROUND: url(http://r3.emlak.net/img/overview_boxbg_regions.jpg) #f2f2f2 no-repeat left center; HEIGHT: 130px; PADDING-TOP: 10px
+}
+.overview_regions_category {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 18px; PADDING-LEFT: 10px; WIDTH: 120px; PADDING-RIGHT: 10px; DISPLAY: block; WHITE-SPACE: nowrap; BACKGROUND: url(http://r3.emlak.net/img/base_arrow_black.gif) no-repeat 2px center; FLOAT: left; COLOR: #000; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.overview_regions_category:hover {
+	BACKGROUND-COLOR: #fff; TEXT-DECORATION: underline
+}
+.overview_regions_row {
+	BORDER-BOTTOM: #cacaca 1px solid; BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 7px; MARGIN: 10px 5px; PADDING-LEFT: 0px; WIDTH: 163px; PADDING-RIGHT: 0px; DISPLAY: inline-block; FLOAT: left; BORDER-TOP: #cacaca 1px solid; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.overview_regions_row LI {
+	WIDTH: 100%; FLOAT: left
+}
+.overview_regions_lvl_1 {
+	BORDER-BOTTOM: #cacaca 1px dotted; PADDING-BOTTOM: 0px; LINE-HEIGHT: 24px; MARGIN: 0px; PADDING-LEFT: 5px; WIDTH: 153px; PADDING-RIGHT: 5px; DISPLAY: block; BACKGROUND: #f0f2df; COLOR: #000; FONT-SIZE: 14px; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+.overview_regions_lvl_1:hover {
+	BACKGROUND-COLOR: #e7eaf1
+}
+.overview_regions_lvl_2 {
+	BORDER-BOTTOM: #f2f2f2 1px dotted; PADDING-BOTTOM: 0px; LINE-HEIGHT: 24px; PADDING-LEFT: 5px; WIDTH: 143px; PADDING-RIGHT: 15px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/base_arrow_black.gif) #fff no-repeat 150px -10000px; COLOR: #000; PADDING-TOP: 0px
+}
+.overview_regions_lvl_2:hover {
+	BACKGROUND-COLOR: #f2f2f2; BACKGROUND-POSITION: 150px center
+}
+.overview_regions_showall {
+	BORDER-BOTTOM: 0px; TEXT-ALIGN: center; BORDER-LEFT: 0px; LINE-HEIGHT: 25px; TEXT-INDENT: -15px; MARGIN: 3px 0px 0px; WIDTH: 161px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_subsites.png) no-repeat left -400px; HEIGHT: 24px; COLOR: #542000; FONT-SIZE: 12px; BORDER-TOP: 0px; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: 0px; text-shadow: #ffda5a 1px 1px 1px
+}
+.overview_regions_showall:hover {
+	BACKGROUND-POSITION: left -424px; COLOR: #fff; text-shadow: #333 1px 1px 1px
+}
+.overview_categories_category_box {
+	BORDER-BOTTOM: #cacaca 1px solid; PADDING-BOTTOM: 10px; PADDING-LEFT: 280px; PADDING-RIGHT: 10px; BACKGROUND: url(http://r3.emlak.net/img/overview_boxbg_category.jpg) #f2f2f2 no-repeat left center; HEIGHT: 130px; PADDING-TOP: 10px
+}
+.overview_categories_category {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 18px; PADDING-LEFT: 10px; WIDTH: 120px; PADDING-RIGHT: 10px; DISPLAY: block; WHITE-SPACE: nowrap; BACKGROUND: url(http://r3.emlak.net/img/base_arrow_black.gif) no-repeat 2px center; FLOAT: left; COLOR: #000; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.overview_categories_category:hover {
+	BACKGROUND-COLOR: #fff; TEXT-DECORATION: underline
+}
+.overview_categories_row {
+	BORDER-BOTTOM: #cacaca 1px solid; BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 7px; MARGIN: 10px 5px; PADDING-LEFT: 0px; WIDTH: 220px; PADDING-RIGHT: 0px; DISPLAY: inline-block; FLOAT: left; BORDER-TOP: #cacaca 1px solid; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.overview_categories_row LI {
+	WIDTH: 100%; FLOAT: left
+}
+.overview_categories_lvl_1 {
+	BORDER-BOTTOM: #cacaca 1px dotted; PADDING-BOTTOM: 0px; LINE-HEIGHT: 24px; MARGIN: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: block; BACKGROUND: #f0f2df; COLOR: #000; FONT-SIZE: 14px; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+.overview_categories_lvl_1:hover {
+	BACKGROUND-COLOR: #e7eaf1
+}
+.overview_categories_lvl_2 {
+	BORDER-BOTTOM: #f2f2f2 1px dotted; PADDING-BOTTOM: 0px; LINE-HEIGHT: 24px; PADDING-LEFT: 5px; PADDING-RIGHT: 15px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/base_arrow_black.gif) #fff no-repeat 210px -10000px; COLOR: #000; PADDING-TOP: 0px
+}
+.overview_categories_lvl_2:hover {
+	BACKGROUND-COLOR: #f2f2f2; BACKGROUND-POSITION: 210px center
+}
+.overview_fastsearch_outerbox {
+	BORDER-BOTTOM: #cacaca 1px solid; BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 978px; PADDING-RIGHT: 0px; BACKGROUND: url(http://r3.emlak.net/img/base_dot_grey.gif) #fff repeat-y 200px top; BORDER-TOP: medium none; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+#overview_fastsearch_menu_outerbox {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 200px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 0px
+}
+.overview_fastsearch_menu_living {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; PADDING-LEFT: 40px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_subsites.png) no-repeat; FONT-SIZE: 14px; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+.overview_fastsearch_menu_industry {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; PADDING-LEFT: 40px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_subsites.png) no-repeat; FONT-SIZE: 14px; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+.overview_fastsearch_menu_land {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; PADDING-LEFT: 40px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_subsites.png) no-repeat; FONT-SIZE: 14px; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+.overview_fastsearch_menu_projects {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; PADDING-LEFT: 40px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_subsites.png) no-repeat; FONT-SIZE: 14px; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+.overview_fastsearch_menu_holiday {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; PADDING-LEFT: 40px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_subsites.png) no-repeat; FONT-SIZE: 14px; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+.overview_fastsearch_menu_living {
+	BACKGROUND-POSITION: left -600px
+}
+.overview_fastsearch_menu_industry {
+	BACKGROUND-POSITION: left -630px
+}
+.overview_fastsearch_menu_land {
+	BACKGROUND-POSITION: left -660px
+}
+.overview_fastsearch_menu_projects {
+	BACKGROUND-POSITION: left -690px
+}
+.overview_fastsearch_menu_holiday {
+	BACKGROUND-POSITION: left -720px
+}
+.overview_fastsearch_menu LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; FLOAT: left; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+.overview_fastsearch_menu A {
+	BORDER-BOTTOM: #fff 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px; PADDING-LEFT: 10px; WIDTH: 175px; PADDING-RIGHT: 15px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/base_arrow_black.gif) #f0f0ec no-repeat 190px -10000px; COLOR: #000; PADDING-TOP: 0px
+}
+.overview_fastsearch_menu A.active {
+	BACKGROUND-COLOR: #fff; BACKGROUND-POSITION: 190px center
+}
+.overview_fastsearch_menu A:hover {
+	BACKGROUND-COLOR: #fff; BACKGROUND-POSITION: 190px center
+}
+.overview_fastsearch_menu A.active {
+	COLOR: #bf0000; FONT-WEIGHT: bold
+}
+#overview_fastsearch_content_outerbox {
+	WIDTH: 777px; FLOAT: right
+}
+.overview_fastsearch_col_4 {
+	WIDTH: 773px; FLOAT: left
+}
+.overview_fastsearch_col_3 {
+	WIDTH: 579px; FLOAT: left
+}
+.overview_fastsearch_col_2 {
+	WIDTH: 386px; FLOAT: left
+}
+.overview_fastsearch_col_1 {
+	WIDTH: 193px; FLOAT: left
+}
+.overview_fastsearch_legend_space {
+	LINE-HEIGHT: 30px; WIDTH: 164px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_subsites.png) no-repeat; FLOAT: left; HEIGHT: 30px; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.overview_fastsearch_legend {
+	LINE-HEIGHT: 30px; WIDTH: 164px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_subsites.png) no-repeat; FLOAT: left; HEIGHT: 30px; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.overview_fastsearch_legend_active {
+	LINE-HEIGHT: 30px; WIDTH: 164px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_subsites.png) no-repeat; FLOAT: left; HEIGHT: 30px; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.overview_fastsearch_legend_space {
+	WIDTH: 194px; BACKGROUND-POSITION: left -500px
+}
+.overview_fastsearch_legend {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 30px; PADDING-RIGHT: 0px; BACKGROUND-POSITION: left -530px; COLOR: #666; PADDING-TOP: 0px
+}
+.overview_fastsearch_legend_active {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 30px; PADDING-RIGHT: 0px; BACKGROUND-POSITION: left -560px; COLOR: #fff; PADDING-TOP: 0px
+}
+.overview_fastsearch_items LI {
+	BORDER-BOTTOM: #cacaca 1px dotted; BORDER-LEFT: #cacaca 1px dotted; PADDING-BOTTOM: 5px; MARGIN: 4px 3px 4px 5px; PADDING-LEFT: 5px; WIDTH: 173px; PADDING-RIGHT: 5px; FLOAT: left; BORDER-TOP: #cacaca 1px dotted; BORDER-RIGHT: #cacaca 1px dotted; PADDING-TOP: 5px
+}
+.overview_fastsearch_items .title {
+	TEXT-ALIGN: center; LINE-HEIGHT: 16px; HEIGHT: 32px; OVERFLOW: hidden
+}
+.overview_fastsearch_areas {
+	WIDTH: 193px; FLOAT: left; BORDER-RIGHT: #cacaca 1px solid
+}
+.overview_fastsearch_areas LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; FLOAT: left; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+.overview_fastsearch_areas A {
+	BORDER-BOTTOM: #f2f2f2 1px solid; BORDER-LEFT: #cacaca 3px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px; PADDING-LEFT: 10px; WIDTH: 165px; PADDING-RIGHT: 15px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/base_arrow_black.gif) #fff no-repeat 183px -10000px; COLOR: #000; PADDING-TOP: 0px
+}
+.overview_fastsearch_areas A.active {
+	BACKGROUND-COLOR: #f2f2f2; BACKGROUND-POSITION: 183px center
+}
+.overview_fastsearch_areas A:hover {
+	BACKGROUND-COLOR: #f2f2f2; BACKGROUND-POSITION: 183px center
+}
+.overview_fastsearch_areas A.active {
+	BORDER-LEFT: #245b00 3px solid; COLOR: #bf0000; FONT-WEIGHT: bold
+}
+.overview_fastsearch_areas A:hover {
+	BORDER-LEFT: #ef9800 3px solid
+}
+.overview_fastsearch_allresults {
+	BORDER-BOTTOM: 0px; TEXT-ALIGN: center; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; MARGIN: 0px auto; PADDING-LEFT: 20px; WIDTH: 120px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_subsites.png) no-repeat left -448px; HEIGHT: 30px; COLOR: #542000; FONT-SIZE: 12px; BORDER-TOP: 0px; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: 0px; PADDING-TOP: 0px; text-shadow: #ffda5a 1px 1px 1px
+}
+.overview_trader_category_box {
+	BORDER-BOTTOM: #cacaca 1px solid; PADDING-BOTTOM: 10px; PADDING-LEFT: 270px; PADDING-RIGHT: 10px; BACKGROUND: url(http://r3.emlak.net/img/overview_boxbg_trader.jpg) #f2f2f2 no-repeat left center; HEIGHT: 130px; PADDING-TOP: 10px
+}
+.overview_trader_category {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 18px; PADDING-LEFT: 10px; WIDTH: 190px; PADDING-RIGHT: 10px; DISPLAY: block; WHITE-SPACE: nowrap; BACKGROUND: url(http://r3.emlak.net/img/base_arrow_black.gif) no-repeat 2px center; FLOAT: left; COLOR: #000; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.overview_trader_category:hover {
+	BACKGROUND-COLOR: #fff; TEXT-DECORATION: underline
+}
+.overview_trader_listentries LI {
+	PADDING-BOTTOM: 1px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 220px; PADDING-RIGHT: 10px; FLOAT: left; LIST-STYLE-IMAGE: none; PADDING-TOP: 1px
+}
+.overview_trader_listentries .title {
+	LINE-HEIGHT: 20px; DISPLAY: block; WHITE-SPACE: nowrap; HEIGHT: 20px
+}
+.overview_trader_listentries .area {
+	LINE-HEIGHT: 20px; DISPLAY: block; WHITE-SPACE: nowrap; HEIGHT: 20px
+}
+.overview_trader_listentries .title {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; WHITE-SPACE: nowrap; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.overview_trader_listentries .area {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 0px
+}
+.overview_trader_listentries A {
+	BORDER-BOTTOM: #cacaca 1px dotted; BORDER-LEFT: #cacaca 3px solid; DISPLAY: block; COLOR: #000
+}
+.overview_trader_listentries A:hover {
+	BORDER-LEFT: #ef9800 3px solid; BACKGROUND-COLOR: #f2f2f2
+}
+.overview_regions_listentries LI {
+	BORDER-LEFT: #cacaca 3px solid; LIST-STYLE-TYPE: none; MARGIN: 1px 10px 1px 0px; WIDTH: 217px; FLOAT: left; LIST-STYLE-IMAGE: none
+}
+.overview_regions_listentries LI:hover {
+	BORDER-LEFT: #ef9800 3px solid; BACKGROUND-COLOR: #f2f2f2
+}
+.overview_regions_listentries SPAN.title {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: block; WHITE-SPACE: nowrap; HEIGHT: 20px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.overview_regions_listentries SPAN.title A {
+	DISPLAY: block
+}
+.overview_regions_listentries SPAN.title A:hover {
+	TEXT-DECORATION: underline
+}
+.overview_regions_listentries SPAN.subsections {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: block; WHITE-SPACE: nowrap; HEIGHT: 20px; COLOR: #ccc; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.overview_regions_listentries A.section {
+	LINE-HEIGHT: 20px; WHITE-SPACE: nowrap; HEIGHT: 20px
+}
+.overview_regions_listentries A.section:hover {
+	TEXT-DECORATION: underline
+}
+.overview_items LI {
+	MARGIN: 0px 0px 10px 10px; WIDTH: 175px; FLOAT: right
+}
+.overview_items .title {
+	TEXT-ALIGN: center; LINE-HEIGHT: 16px; HEIGHT: 32px; OVERFLOW: hidden
+}
+.overview_area {
+	TEXT-ALIGN: center; LINE-HEIGHT: 18px; DISPLAY: block; WHITE-SPACE: nowrap; HEIGHT: 18px; CLEAR: both; FONT-SIZE: 11px; OVERFLOW: hidden
+}
+.overview_area A {
+	COLOR: #000; FONT-WEIGHT: bold
+}
+.overview_area A:hover {
+	TEXT-DECORATION: underline
+}
+.subsite_mm LI {
+	BORDER-BOTTOM: #cacaca 1px dotted; LINE-HEIGHT: 20px; WIDTH: 180px
+}
+.subsite_mm_2nd LI {
+	BORDER-BOTTOM: #cacaca 1px dotted; LINE-HEIGHT: 20px; WIDTH: 180px
+}
+.subsite_mm A {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 23px; WIDTH: 157px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/subsite_mm.png) no-repeat; COLOR: #000; FONT-SIZE: 12px; PADDING-TOP: 0px
+}
+.subsite_mm_2nd A {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 23px; WIDTH: 157px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/subsite_mm.png) no-repeat; COLOR: #000; FONT-SIZE: 12px; PADDING-TOP: 0px
+}
+.subsite_mm .inactive {
+	BACKGROUND-POSITION: left top
+}
+.subsite_mm .inactive:hover {
+	BACKGROUND-POSITION: left -60px
+}
+.subsite_mm .active {
+	BACKGROUND-COLOR: #e8f0e6; BACKGROUND-POSITION: left -120px; FONT-WEIGHT: bold
+}
+.cats_list A {
+	LINE-HEIGHT: 20px; COLOR: #000000; CURSOR: pointer
+}
+.cats_list .lvl_2 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 8px; PADDING-RIGHT: 0px; BACKGROUND: url(http://r3.emlak.net/img/base_arrow_black.gif) no-repeat left 6px; FONT-SIZE: 12px; BORDER-TOP: #cacaca 1px dotted; FONT-WEIGHT: normal; PADDING-TOP: 0px
+}
+.cats_list .lvl_3 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 0px; BACKGROUND: url(http://r3.emlak.net/img/catch.gif) no-repeat left 1px; FONT-SIZE: 12px; FONT-WEIGHT: normal; PADDING-TOP: 0px
+}
+#pricetable {
+	BORDER-BOTTOM: #cacaca 1px solid; BORDER-LEFT: #cacaca 1px solid; BORDER-TOP: #cacaca 1px solid; BORDER-RIGHT: medium none
+}
+#pricetable TD {
+	BORDER-RIGHT: #cacaca 1px solid
+}
+.prices_feature_grey {
+	BACKGROUND-COLOR: #f0f0f0
+}
+.prices_feature_colored {
+	BORDER-BOTTOM: #cacaca 1px solid; PADDING-BOTTOM: 3px; BACKGROUND-COLOR: #70b11f; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #fff; BORDER-TOP: #cacaca 1px solid; FONT-WEIGHT: bold; PADDING-TOP: 3px
+}
+.impress_scrollbox {
+	BORDER-BOTTOM: #cacaca 1px solid; BORDER-LEFT: #cacaca 1px solid; PADDING-BOTTOM: 10px; OVERFLOW-Y: scroll; BACKGROUND-COLOR: #f6f6f6; MARGIN-TOP: 5px; PADDING-LEFT: 10px; WIDTH: 600px; PADDING-RIGHT: 10px; HEIGHT: 180px; BORDER-TOP: #cacaca 1px solid; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 10px
+}
+#footer {
+	PADDING-BOTTOM: 20px; MIN-HEIGHT: 200px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: url(http://r3.emlak.net/img/footer_gradient.png) repeat-x left top; BORDER-TOP: #cacaca 1px solid; PADDING-TOP: 20px
+}
+#footer .content {
+	MARGIN: 0px auto; WIDTH: 980px
+}
+#copyright {
+	LINE-HEIGHT: 18px; MARGIN: 0px 20px; FLOAT: right; HEIGHT: 55px; COLOR: black
+}
+.footer_social_facebook {
+	WIDTH: 30px; DISPLAY: block; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.footer_social_twitter {
+	WIDTH: 30px; DISPLAY: block; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.footer_social_googleplus {
+	WIDTH: 30px; DISPLAY: block; BACKGROUND: url(http://www.emlaknetturkiye.com/tema5/img/sprite_layout.png) no-repeat; FLOAT: left; HEIGHT: 30px
+}
+.footer_social_facebook {
+	BACKGROUND-POSITION: left -400px
+}
+.footer_social_twitter {
+	BACKGROUND-POSITION: -30px -400px
+}
+.footer_social_googleplus {
+	BACKGROUND-POSITION: -60px -400px
+}
+#footer_navibox {
+	BORDER-LEFT: #cacaca 1px solid; MARGIN: 10px auto 0px; WIDTH: 203px
+}
+#footer_navigation {
+	MARGIN: 0px 0px 1px
+}
+#footer_navigation LI {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: #cacaca 1px solid; MARGIN: 0px 0px 0px -1px; FLOAT: left; BORDER-TOP: #cacaca 1px solid; BORDER-RIGHT: #cacaca 1px solid
+}
+#footer_navigation SPAN {
+	TEXT-ALIGN: center; LINE-HEIGHT: 20px; WIDTH: 100px; DISPLAY: block; BACKGROUND: #f2f2f2; FLOAT: left; HEIGHT: 20px; COLOR: #222; FONT-SIZE: 12px; CURSOR: pointer
+}
+#footer_navigation SPAN:hover {
+	BACKGROUND: #fff
+}
+#footer_navigation .active {
+	BACKGROUND: #fff; FONT-WEIGHT: bold
+}
+.footerbox {
+	POSITION: static
+}
+#footerbox-keywords A {
+	LINE-HEIGHT: 22px; MARGIN: 0px 20px 0px 0px
+}
+.results_none_lvl_1 {
+	PADDING-BOTTOM: 5px; MIN-HEIGHT: 41px; PADDING-LEFT: 65px; PADDING-RIGHT: 0px; BACKGROUND: url(http://r3.emlak.net/img/results_none.png) #e0e8fb no-repeat 10px center; BORDER-TOP: #cacaca 1px solid; PADDING-TOP: 7px
+}
+.results_none_lvl_2 {
+	PADDING-BOTTOM: 5px; MIN-HEIGHT: 41px; PADDING-LEFT: 65px; PADDING-RIGHT: 0px; BACKGROUND: url(http://r3.emlak.net/img/results_none2.png) #efe8d9 no-repeat 10px center; BORDER-TOP: #cacaca 1px solid; PADDING-TOP: 7px
+}
+.p5 {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+.p_l_20 {
+	PADDING-LEFT: 20px
+}
+.p_r_20 {
+	PADDING-RIGHT: 20px
+}
+.subsite_menu2 LI {
+	POSITION: relative; MARGIN-BOTTOM: 10px; HEIGHT: 38px
+}
+.subsite_menu2 A {
+	POSITION: absolute; PADDING-BOTTOM: 0px; LINE-HEIGHT: 38px; PADDING-LEFT: 20px; WIDTH: 259px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_textsites.png) no-repeat; HEIGHT: 38px; COLOR: black; FONT-SIZE: 16px; FONT-WEIGHT: bold; PADDING-TOP: 0px; TOP: 0px; LEFT: 0px
+}
+.subsite_menu2 A {
+	BACKGROUND-POSITION: left -38px
+}
+.subsite_menu2 A:hover {
+	BACKGROUND-POSITION: left -76px
+}
+.subsite_menu2 A.active {
+	BACKGROUND-POSITION: left 0px; COLOR: white
+}
+.subsites_sidebar {
+	WIDTH: 250px; FLOAT: left; LEFT: 10px
+}
+.subsites_box_top {
+	WIDTH: 980px; BACKGROUND: url(http://r3.emlak.net/img/base_box_subsites.png) no-repeat left top; HEIGHT: 5px; FONT-SIZE: 0em
+}
+.subsites_box {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: url(http://r3.emlak.net/img/base_bg_subsites.gif) repeat-y left top; PADDING-TOP: 10px
+}
+.subsites_box_end {
+	WIDTH: 980px; BACKGROUND: url(http://r3.emlak.net/img/base_box_subsites.png) no-repeat left bottom; HEIGHT: 5px; FONT-SIZE: 0em
+}
+.subsites_speech_top {
+	WIDTH: 250px; BACKGROUND: url(http://r3.emlak.net/img/subsites_speech.gif) no-repeat left top; HEIGHT: 10px
+}
+.subsites_speech_mid {
+	BORDER-LEFT: #cacaca 2px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 12px; WIDTH: 222px; PADDING-RIGHT: 12px; BACKGROUND: white; BORDER-RIGHT: #cacaca 2px solid; PADDING-TOP: 0px
+}
+.subsites_speech_end {
+	WIDTH: 250px; BACKGROUND: url(http://r3.emlak.net/img/subsites_speech.gif) no-repeat left bottom; HEIGHT: 30px
+}
+.subsites_speech_end .text {
+	POSITION: absolute; LINE-HEIGHT: 18px; TOP: 20px; LEFT: 60px
+}
+.subsites_titlebar_impress {
+	BORDER-BOTTOM: #cacaca 1px solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; LINE-HEIGHT: 100px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; MARGIN-BOTTOM: 20px; BACKGROUND: url(http://r3.emlak.net/img/textsite_press_headline.jpg) no-repeat right center; HEIGHT: 100px; BORDER-TOP: #cacaca 1px solid; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.subsites_titlebar_press {
+	BORDER-BOTTOM: #cacaca 1px solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; LINE-HEIGHT: 100px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; MARGIN-BOTTOM: 20px; BACKGROUND: url(http://r3.emlak.net/img/textsite_press_headline.jpg) no-repeat right center; HEIGHT: 100px; BORDER-TOP: #cacaca 1px solid; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.subsites_titlebar_jobs {
+	BORDER-BOTTOM: #cacaca 1px solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; LINE-HEIGHT: 100px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; MARGIN-BOTTOM: 20px; BACKGROUND: url(http://r3.emlak.net/img/textsite_press_headline.jpg) no-repeat right center; HEIGHT: 100px; BORDER-TOP: #cacaca 1px solid; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.subsites_titlebar_rights {
+	BORDER-BOTTOM: #cacaca 1px solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; LINE-HEIGHT: 100px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; MARGIN-BOTTOM: 20px; BACKGROUND: url(http://r3.emlak.net/img/textsite_press_headline.jpg) no-repeat right center; HEIGHT: 100px; BORDER-TOP: #cacaca 1px solid; BORDER-RIGHT: #cacaca 1px solid; PADDING-TOP: 0px
+}
+.subsites_joblist TD {
+	BORDER-BOTTOM: #cacaca 1px dotted; PADDING-BOTTOM: 5px; LINE-HEIGHT: 18px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+.subsites_joblist .title {
+	BACKGROUND-COLOR: #f2f2f2; FONT-SIZE: 16px; FONT-WEIGHT: bold
+}
+.subsites_joblist .desc {
+	
+}
+.subsites_joblist .link {
+	TEXT-ALIGN: center; BACKGROUND-COLOR: #f2f2f2; WIDTH: 160px
+}
+.subsites_presslist TD {
+	BORDER-BOTTOM: #cacaca 1px dotted; PADDING-BOTTOM: 5px; LINE-HEIGHT: 18px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+.subsites_presslist .date {
+	
+}
+.subsites_presslist .title {
+	BORDER-LEFT: #cacaca 1px dotted
+}
+.subsites_presslist .link {
+	
+}
+.subsites_jobdetail TD {
+	BORDER-BOTTOM: #cacaca 1px dotted; PADDING-BOTTOM: 5px; LINE-HEIGHT: 18px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+.subsites_jobdetail .title {
+	BACKGROUND-COLOR: #f2f2f2; WIDTH: 60px
+}
+.subsites_jobdetail .desc {
+	
+}
+.base_3col_line {
+	BACKGROUND: url(http://r3.emlak.net/img/base_3col_line.gif) repeat-y center top
+}
+.detail_none_offer_runout {
+	WIDTH: 64px; BACKGROUND: url(http://r3.emlak.net/img/detail_icon_runout.png) no-repeat center center; FLOAT: left; HEIGHT: 64px
+}
+.detail_none_offer_sold {
+	WIDTH: 64px; BACKGROUND: url(http://r3.emlak.net/img/detail_icon_sold.png) no-repeat center center; FLOAT: left; HEIGHT: 64px
+}
+.detail_none_offer_search {
+	WIDTH: 64px; BACKGROUND: url(http://r3.emlak.net/img/detail_icon_search.png) no-repeat center center; FLOAT: left; HEIGHT: 64px
+}
+.detail_none_moreoffers LI {
+	BORDER-BOTTOM: #cacaca 1px solid; POSITION: relative; PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; WIDTH: 306px; PADDING-RIGHT: 10px; FLOAT: left; PADDING-TOP: 10px
+}
+.detail_none_moreoffers LI:hover {
+	BACKGROUND-COLOR: #e8f0e6
+}
+.detail_none_moreoffers A {
+	DISPLAY: block; CURSOR: pointer
+}
+.detail_none_moreoffers SPAN {
+	DISPLAY: block; CURSOR: pointer
+}
+.detail_none_slider {
+	WIDTH: 660px; HEIGHT: 160px; OVERFLOW: hidden
+}
+.detail_none_slider .wrapper {
+	MARGIN: 0px; WIDTH: 600px; HEIGHT: 160px; OVERFLOW: hidden; TOP: 0px; LEFT: 35px
+}
+.detail_none_slider UL {
+	POSITION: relative; WIDTH: 32700px
+}
+.detail_none_slider LI {
+	WIDTH: 660px; DISPLAY: block; FLOAT: left; HEIGHT: 150px
+}
+.detail_none_slider .arrow {
+	POSITION: absolute; TEXT-INDENT: -9999px; WIDTH: 20px; DISPLAY: block; BACKGROUND: url(http://r3.emlak.net/img/sprite_slider.png) no-repeat; HEIGHT: 160px; CURSOR: pointer; TOP: 0px
+}
+.detail_none_slider .forward {
+	BACKGROUND-POSITION: left -100px; RIGHT: 0px
+}
+.detail_none_slider .forward:hover {
+	BACKGROUND-POSITION: -20px -100px
+}
+.detail_none_slider .back {
+	BACKGROUND-POSITION: -40px -100px; LEFT: 0px
+}
+.detail_none_slider .back:hover {
+	BACKGROUND-POSITION: -60px -100px
+}
+.detail_none_slider_item {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: 16px; MARGIN: 0px 10px 0px 0px; PADDING-LEFT: 0px; WIDTH: 140px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 160px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.detail_none_slider_item A:hover {
+	TEXT-DECORATION: underline
+}
+.detail_none_slider_item .title {
+	MARGIN: 5px auto 0px; WIDTH: 130px; OVERFLOW: hidden
+}
+.detail_none_slider_item .price {
+	TEXT-ALIGN: center; MARGIN: 0px auto; WIDTH: 130px; OVERFLOW: hidden
+}

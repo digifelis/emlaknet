@@ -1,0 +1,64 @@
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 12.01.2016 02:20:54
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 12.01.2016 02:22:42
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 12.01.2016 02:22:46
+
+vt   : emlaknet_emlak
+sql  : update ilan_ticari set fiyat= '165000', `birim`= '1',toplam_metrekare= '6960',kullanilabilir_metrekare= '6960',tapu_durum= '1',adres= '---TÜRKÖZ EMLAKTAN ÝNECE'DE ÇOK DEÐERLÝ GÜZÝDE ARAZÝ---',posta_kodu= '39100',il_ilce= '',aciklama= 'ARAZÝMÝZ KIRKLARELÝ MERKEZ ÝNECE BELDESÝNDE 6.960 M2 ÇÝFTLÝKLER BÖLGESÝNDE,YAKIN ZAMANDA ASFALTLANACAK OLAN KADASTRO YOLUNA CEPHE,BELDENÝN HEMEN DÝBÝNDE,EVLERE 50 METRE MESAFEDEDÝR.ELEKTRÝK,SUYU,TELEFON HATTI MEVCUTTUR.YAKIN ZAMAN ÝÇERÝSÝNDE ÖZEL ÝMAR GELECEK NÝTELÝKTE,TOPRAÐI OLDUKÇA VERÝMLÝ KARA KEPÝR KOFLAK TOPRAK YAPISINA SAHÝP,ÜRÜN VERÝMÝ ÇOK YÜKSEK OLAN BÝR ARAZÝDÝR. ÝSTER VÝLLA YAPIN,ÝSTER ÇÝFTLÝK ÝSTERSENÝZ DE GÜNDEN GÜNE PRÝM YAPAN BU YERÝ YATIRIM ÝÇÝN DEÐERLENDÝRÝN HERTÜRLÜ KAZANÇLI SÝZ ÇIKACAKSINIZ.. ÝRT:0544 341 15 99 ',ilan_suresi= '365',satis_tarihi= 'hemen teslim' , kredi='1' , dosya_no='5' ,gx='', gy='' ,onay='2' where id= '6231'
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DE ÇOK DEÐERLÝ GÜZÝDE ARAZÝ---',posta_kodu= '39100',il_ilce= '',aciklama= ' at line 1
+fonk : VT::sor
+satir: 139
+dosya: /backup/home3/emlaknet/public_html/bayi/edit_form3.php
+zaman: 12.01.2016 10:12:30
+
+vt   : emlaknet_emlak
+sql  : update ilan_ticari set fiyat= '165000', `birim`= '1',toplam_metrekare= '6960',kullanilabilir_metrekare= '6960',tapu_durum= '1',adres= '---TÜRKÖZ EMLAKTAN ÝNECE'DE ÇOK DEÐERLÝ GÜZÝDE ARAZÝ---',posta_kodu= '39100',il_ilce= '',aciklama= 'ARAZÝMÝZ KIRKLARELÝ MERKEZ ÝNECE BELDESÝNDE 6.960 M2 ÇÝFTLÝKLER BÖLGESÝNDE,YAKIN ZAMANDA ASFALTLANACAK OLAN KADASTRO YOLUNA CEPHE,BELDENÝN HEMEN DÝBÝNDE,EVLERE 50 METRE MESAFEDEDÝR.ELEKTRÝK,SUYU,TELEFON HATTI MEVCUTTUR.YAKIN ZAMAN ÝÇERÝSÝNDE ÖZEL ÝMAR GELECEK NÝTELÝKTE,TOPRAÐI OLDUKÇA VERÝMLÝ KARA KEPÝR KOFLAK TOPRAK YAPISINA SAHÝP,ÜRÜN VERÝMÝ ÇOK YÜKSEK OLAN BÝR ARAZÝDÝR. ÝSTER VÝLLA YAPIN,ÝSTER ÇÝFTLÝK ÝSTERSENÝZ DE GÜNDEN GÜNE PRÝM YAPAN BU YERÝ YATIRIM ÝÇÝN DEÐERLENDÝRÝN HERTÜRLÜ KAZANÇLI SÝZ ÇIKACAKSINIZ.. ÝRT:0544 341 15 99 ',ilan_suresi= '365',satis_tarihi= 'hemen teslim' , kredi='1' , dosya_no='5' ,gx='', gy='' ,onay='2' where id= '6231'
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DE ÇOK DEÐERLÝ GÜZÝDE ARAZÝ---',posta_kodu= '39100',il_ilce= '',aciklama= ' at line 1
+fonk : VT::sor
+satir: 139
+dosya: /backup/home3/emlaknet/public_html/bayi/edit_form3.php
+zaman: 12.01.2016 10:13:04
+
+vt   : emlaknet_emlak
+sql  : update ilan_ticari set fiyat= '165000', `birim`= '1',toplam_metrekare= '6960',kullanilabilir_metrekare= '6960',tapu_durum= '1',adres= '---TÜRKÖZ EMLAKTAN ÝNECE'DE ÇOK DEÐERLÝ GÜZÝDE ARAZÝ---',posta_kodu= '39100',il_ilce= '',aciklama= 'ARAZÝMÝZ KIRKLARELÝ MERKEZ ÝNECE BELDESÝNDE 6.960 M2 ÇÝFTLÝKLER BÖLGESÝNDE,YAKIN ZAMANDA ASFALTLANACAK OLAN KADASTRO YOLUNA CEPHE,BELDENÝN HEMEN DÝBÝNDE,EVLERE 50 METRE MESAFEDEDÝR.ELEKTRÝK,SUYU,TELEFON HATTI MEVCUTTUR.YAKIN ZAMAN ÝÇERÝSÝNDE ÖZEL ÝMAR GELECEK NÝTELÝKTE,TOPRAÐI OLDUKÇA VERÝMLÝ KARA KEPÝR KOFLAK TOPRAK YAPISINA SAHÝP,ÜRÜN VERÝMÝ ÇOK YÜKSEK OLAN BÝR ARAZÝDÝR. ÝSTER VÝLLA YAPIN,ÝSTER ÇÝFTLÝK ÝSTERSENÝZ DE GÜNDEN GÜNE PRÝM YAPAN BU YERÝ YATIRIM ÝÇÝN DEÐERLENDÝRÝN HERTÜRLÜ KAZANÇLI SÝZ ÇIKACAKSINIZ.. ÝRT:0544 341 15 99 ',ilan_suresi= '180',satis_tarihi= 'hemen teslim' , kredi='1' , dosya_no='5' ,gx='', gy='' ,onay='2' where id= '6231'
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DE ÇOK DEÐERLÝ GÜZÝDE ARAZÝ---',posta_kodu= '39100',il_ilce= '',aciklama= ' at line 1
+fonk : VT::sor
+satir: 139
+dosya: /backup/home3/emlaknet/public_html/bayi/edit_form3.php
+zaman: 12.01.2016 10:13:34
+
+vt   : emlaknet_emlak
+sql  : update ilan_ticari set fiyat= '165000', `birim`= '1',toplam_metrekare= '6960',kullanilabilir_metrekare= '6960',tapu_durum= '1',adres= '---TÜRKÖZ EMLAKTAN ÝNECE'DE ÇOK DEÐERLÝ GÜZÝDE ARAZÝ---',posta_kodu= '39100',il_ilce= '',aciklama= 'ARAZÝMÝZ KIRKLARELÝ MERKEZ ÝNECE BELDESÝNDE 6.960 M2 ÇÝFTLÝKLER BÖLGESÝNDE,YAKIN ZAMANDA ASFALTLANACAK OLAN KADASTRO YOLUNA CEPHE,BELDENÝN HEMEN DÝBÝNDE,EVLERE 50 METRE MESAFEDEDÝR.ELEKTRÝK,SUYU,TELEFON HATTI MEVCUTTUR.YAKIN ZAMAN ÝÇERÝSÝNDE ÖZEL ÝMAR GELECEK NÝTELÝKTE,TOPRAÐI OLDUKÇA VERÝMLÝ KARA KEPÝR KOFLAK TOPRAK YAPISINA SAHÝP,ÜRÜN VERÝMÝ ÇOK YÜKSEK OLAN BÝR ARAZÝDÝR. ÝSTER VÝLLA YAPIN,ÝSTER ÇÝFTLÝK ÝSTERSENÝZ DE GÜNDEN GÜNE PRÝM YAPAN BU YERÝ YATIRIM ÝÇÝN DEÐERLENDÝRÝN HERTÜRLÜ KAZANÇLI SÝZ ÇIKACAKSINIZ.. ÝRT:0544 341 15 99 ',ilan_suresi= '365',satis_tarihi= 'hemen teslim' , kredi='1' , dosya_no='4' ,gx='', gy='' ,onay='2' where id= '6231'
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DE ÇOK DEÐERLÝ GÜZÝDE ARAZÝ---',posta_kodu= '39100',il_ilce= '',aciklama= ' at line 1
+fonk : VT::sor
+satir: 139
+dosya: /backup/home3/emlaknet/public_html/bayi/edit_form3.php
+zaman: 12.01.2016 10:14:19
+
+vt   : emlaknet_emlak
+sql  : update ilan_ticari set fiyat= '165000', `birim`= '1',toplam_metrekare= '6960',kullanilabilir_metrekare= '6960',tapu_durum= '1',adres= '---TÜRKÖZ EMLAKTAN ÝNECE'DE ÇOK DEÐERLÝ GÜZÝDE ARAZÝ---',posta_kodu= '39100',il_ilce= '',aciklama= 'ARAZÝMÝZ KIRKLARELÝ MERKEZ ÝNECE BELDESÝNDE 6.960 M2 ÇÝFTLÝKLER BÖLGESÝNDE,YAKIN ZAMANDA ASFALTLANACAK OLAN KADASTRO YOLUNA CEPHE,BELDENÝN HEMEN DÝBÝNDE,EVLERE 50 METRE MESAFEDEDÝR.ELEKTRÝK,SUYU,TELEFON HATTI MEVCUTTUR.YAKIN ZAMAN ÝÇERÝSÝNDE ÖZEL ÝMAR GELECEK NÝTELÝKTE,TOPRAÐI OLDUKÇA VERÝMLÝ KARA KEPÝR KOFLAK TOPRAK YAPISINA SAHÝP,ÜRÜN VERÝMÝ ÇOK YÜKSEK OLAN BÝR ARAZÝDÝR. ÝSTER VÝLLA YAPIN,ÝSTER ÇÝFTLÝK ÝSTERSENÝZ DE GÜNDEN GÜNE PRÝM YAPAN BU YERÝ YATIRIM ÝÇÝN DEÐERLENDÝRÝN HERTÜRLÜ KAZANÇLI SÝZ ÇIKACAKSINIZ.. ÝRT:0544 341 15 99 ',ilan_suresi= '180',satis_tarihi= 'hemen teslim' , kredi='1' , dosya_no='4' ,gx='', gy='' ,onay='2' where id= '6231'
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DE ÇOK DEÐERLÝ GÜZÝDE ARAZÝ---',posta_kodu= '39100',il_ilce= '',aciklama= ' at line 1
+fonk : VT::sor
+satir: 139
+dosya: /backup/home3/emlaknet/public_html/bayi/edit_form3.php
+zaman: 12.01.2016 10:15:00
+

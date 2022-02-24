@@ -1,0 +1,65 @@
+body{font:0.7em Tahoma, Arial, sans-serif;color:#000;text-align:center;text-decoration:none;list-style-type:none;margin:0;padding:0;}
+td{font-family:Tahoma, Verdana;font-size:8pt;color:#000;text-align:left;}
+.input{border:solid 1px #45616D;background-color:#FFF;font-family:Verdana;font-size:8pt;color:#000;}
+a:visited{color:#000;text-decoration:none;}
+a:hover{color:red;text-decoration:none;}
+a:active{color:#000;text-decoration:none;text-align:center;}
+-->
+#qaz:hover{background-color:#EAEAEA;}
+#tamami{width:900px;margin-right:auto;margin-left:auto;text-decoration:none;text-align:left;display:block;z-index:1;}
+#logo{margin-right:auto;margin-left:auto;position:relative;z-index:1;}
+#logo1{display:block;float:left;height:150px;width:100px;position:relative;}
+#banner{display:block;float:none;height:150px;width:900px;position:relative;}
+#menu{height:39px;width:960px;position:relative;}
+#ana{display:block;width:950px;margin-right:auto;margin-left:auto;position:relative;border:1px solid #6C6C6C;z-index:2;}
+#sol{float:left;width:950px;margin-right:auto;margin-left:auto;position:relative;display:block;z-index:2;}
+#ana_ikili{display:block;float:left;width:940px;position:relative;}
+#sag{display:inline-block;float:right;width:150px;margin-right:auto;margin-left:auto;position:absolute;border:1px solid #0F0;height:250px;}
+#detayli_anasayfa{display:inline;float:left;width:730px;position:relative;margin:5px 10px 5px auto;}
+#hizli_ara_anasayfa{display:inline;float:left;width:730px;position:relative;margin:0 10px 5px auto;}
+#vitirin_anasayfa{display:block;float:left;width:730px;position:static;margin:0 10px 5px auto;}
+#emlakcilar li{list-style-image:url(tema/img/f3.gif);}
+#turler_anasayfa{display:inline;float:left;width:940px;position:relative;margin:auto;}
+#turler_anasayfa li{list-style-type:none;font-size:10px;text-decoration:none;}
+.f2 a{width:15px;padding:2px 1px 1px 12px;}
+-->
+<![if !IE 6]>
+/*Credits: Dynamic Drive CSS Library */
+/*URL: http://www.dynamicdrive.com/style/ */<!-- Hide entire CSS code from IE6 -->
+.shiftcontainer{position:relative;left:5px;top:5px;}
+.shadowcontainer{width:%100;background-color:#d1cfd0;}
+.shadowcontainer .innerdiv{background-color:#FFF;border:1px solid gray;position:relative;left:-5px;top:-5px;padding:0 6px 6px;}
+.ienlarger a{display:block;text-decoration:none;}
+.ienlarger a:hover{position:relative;}
+.ienlarger span img{border:1px solid #FFF;margin-bottom:8px;}
+.ienlarger a span{position:absolute;display:none;color:#FC0;text-decoration:none;font-family:Arial, Helvetica, sans-serif;font-size:13px;background-color:#000;font-weight:700;padding:10px 10px 13px;}
+.ienlarger img{border-width:0;}
+.ienlarger a:hover span{display:block;top:50px;left:90px;z-index:100;}
+.resize_thumb{width:150px;height:auto;}
+.commentbox{background-color:#ececec;width:450px;text-align:center;font-weight:700;padding:10px;}
+.commentfooter{background:url(../img/arrow.gif) 20px 0 no-repeat;padding-left:58px;padding-top:1px;margin-bottom:2em;font-size:90%;color:#4A4A4A;}
+<!--
+li{list-style-type:none;text-align:left;}
+.baslik_sag{background-image:url(../img/menub_hover_right.gif);background-repeat:no-repeat;display:inline;height:46px;width:250px;float:left;}
+.xfreex{background-color:#EAEAEA;font-size:12px;text-decoration:none;color:#030303;}
+.uyelik a{display:block;text-align:center;}
+.ana_ilan{margin-top:5px;}
+.xfreex a:hover{color:#0F0;}
+.baslik_sol{background-repeat:no-repeat;background-image:url(../img/menub_hover_left.gif);height:46px;width:19px;display:inline;float:left;}
+.baslik{height:46px;text-align:left;color:#000;display:block;width:100%;background-image:url(../img/menub_bg.gif);background-repeat:repeat;font-size:12px;font-weight:700;}
+#preview{position:absolute;border:1px solid #ccc;background:#333;display:none;color:#fff;padding:5px;}
+a:link{text-decoration:none;}
+.baslikr_sol{background-repeat:no-repeat;background-image:url(../img/menur_hover_left.gif);height:46px;width:19px;display:inline;float:left;}
+.baslikr{height:46px;text-align:left;color:#000;display:block;width:100%;background-image:url(../img/menur_bg.gif);background-repeat:repeat;font-size:16px;font-weight:700;}
+.baslikr_sag{background-image:url(../img/menur_hover_right.gif);background-repeat:no-repeat;display:inline;height:46px;width:250px;float:left;}
+.baslikpu_sol{background-repeat:no-repeat;background-image:url(../img/menupu_hover_left.gif);height:46px;width:19px;display:inline;float:left;}
+.baslikpu{height:46px;text-align:left;color:#000;display:block;width:100%;background-image:url(../img/menupu_bg.gif);background-repeat:repeat;font-size:16px;font-weight:700;}
+.baslikpu_sag{background-image:url(../img/menupu_hover_right.gif);background-repeat:no-repeat;display:inline;height:46px;width:250px;float:left;}
+.basliko_sol{background-repeat:no-repeat;background-image:url(../img/menuo_hover_left.gif);height:46px;width:19px;display:inline;float:left;}
+.basliko{height:46px;text-align:left;color:#000;display:block;width:100%;background-image:url(../img/menuo_bg.gif);background-repeat:repeat;font-size:16px;font-weight:700;}
+.basliko_sag{background-image:url(../img/menuo_hover_right.gif);background-repeat:no-repeat;display:inline;height:46px;width:250px;float:left;}
+<!--
+a:link,li a{text-decoration:none;color:#000;}
+#yeniler,#emlakcilar{display:block;float:left;width:940px;position:static;margin:0 10px 5px auto;}
+#emlakcilar a,#turler_anasayfa a{font-size:10px;font-style:normal;color:#000;font-weight:700;}
+.xfreex a,.xfreex a:visited{color:#030303;}

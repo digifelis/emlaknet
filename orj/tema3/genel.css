@@ -1,0 +1,171 @@
+body {
+	background-color: #EEE;
+	margin:0px;
+	padding:0px;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+img {
+	border:0px;
+}
+table {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+a:link, a:visited{
+	COLOR:inherit;
+	text-decoration:inherit;
+}
+.tumu {
+	width:1000px;
+	margin: 0px auto 0px 0px;
+	border: 2px solid #999;
+	background-color:#FFF;
+
+}
+.banner {
+	background-image: url(images/banner1.jpg);
+	background-repeat: repeat-x;
+	height: 120px;
+}
+.logo {
+	height: 50px;
+}
+
+.uyegirisi {
+	background-image: url(images/uye.jpg);
+	background-repeat: no-repeat;
+	height: 49px;
+	
+}
+.istatistik {
+	height: 56px;
+	margin-top: 5px;
+font-size: 12px;
+}
+.giris {
+	padding-top: 40px;
+	height: 30px;
+}
+
+.x1 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	color: #000;
+	text-decoration: none;
+	height: 56px;
+}
+.m1 {
+	background-image: url(images/menu1.jpg);
+	background-repeat: no-repeat;
+	height: 55px;
+	
+	
+}
+.m2 {
+	background-image: url(images/menu2.jpg);
+	background-repeat: repeat-x;
+	height: 52px;
+}
+
+
+.m3 {
+	background-image: url(images/menu3.jpg);
+	background-repeat: no-repeat;
+	height: 55px;
+	
+}
+.son_eklenen {
+	float: left;
+}
+.baslik {
+	background-color: #F69;
+	border: 2px solid #960;
+	padding: 2px;
+	font-size: 18px;
+	text-decoration: none;
+	font-weight: bold;
+	width:99%;
+}
+
+.baslik1 {
+	background-color: #06F;
+	border: 2px solid #960;
+	padding: 2px;
+	font-size: 18px;
+	text-decoration: none;
+	font-weight: bold;
+
+	
+	width: 99%;
+}
+
+.yatirimci {
+	float: left;
+	margin-left: 10px;
+}
+.vitrin {
+	margin-left: 10px;
+}
+.sag_sutun {
+	margin-left: 10px;
+}
+.slider2 {
+	margin-left: 10px;
+}
+
+
+
+
+
+.menu {
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: none;
+	list-style-type: none;
+font-size: 16px;
+}
+.menu a {
+	text-decoration:none;
+	color:#FFF;
+	font-size: 16px;
+}
+.menu li {
+	float:left;
+	padding-right:10px;
+	
+}
+.footer {
+	background-image: url(images/footer.jpg);
+	background-repeat: repeat-x;
+	height: 105px;
+}
+.logo {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 24px;
+	font-weight: bolder;
+	color: #FFF;
+	text-decoration: none;
+	padding-left: 15px;
+        padding-top:5px;
+	
+}
+.hizli_arama2 a
+{
+text-decoration:none;
+	
+	font-size: 12px;
+}

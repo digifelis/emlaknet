@@ -1,0 +1,24 @@
+vt   : emlaknet_emlak
+sql  : select * from ilan_ticari where id= '1471'' and onay in (2,4,0)
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1471'' and onay in (2,4,0)' at line 1
+fonk : VT::sor
+satir: 48
+dosya: /home/emlaknet/public_html/sabit/detail.php
+zaman: 23.07.2013 10:41:40
+
+vt   : emlaknet_emlak
+sql  : select * from ilan_ticari where id= '1471'' and onay in (2,4,0)
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1471'' and onay in (2,4,0)' at line 1
+fonk : VT::sor
+satir: 48
+dosya: /home/emlaknet/public_html/sabit/detail.php
+zaman: 23.07.2013 10:41:40
+
+vt   : emlaknet_emlak
+sql  : select * from ilan_ticari where id="1471""
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"1471""' at line 1
+fonk : VT::sor
+satir: 59
+dosya: /home/emlaknet/public_html/config.php
+zaman: 23.07.2013 10:41:41
+

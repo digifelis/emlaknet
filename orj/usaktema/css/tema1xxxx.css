@@ -1,0 +1,508 @@
+
+<!--
+
+
+body {
+	PADDING-BOTTOM: 0px;
+	MARGIN: 0px;
+	PADDING-LEFT: 0px;
+	PADDING-RIGHT: 0px;
+	FONT: 0.7em Tahoma, Arial, sans-serif;
+	COLOR: #000000;
+	PADDING-TOP: 0px;
+	text-align:center;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+td {
+	font-family: Tahoma, Verdana;
+	font-size: 8pt;
+	color : #000000;
+	text-align:left;
+}
+.input {	border : thin solid 1;	border: solid 1px #45616D;	background-color : white;   font-family: Verdana;   font-size: 8pt;   color: #000000;}
+
+
+
+<!--
+a:link {
+	text-decoration: none;
+	color: #000;
+}
+a:visited {
+	text-decoration: none;
+	color: #000;
+}
+a:hover {
+	text-decoration: none;
+	color: #F00;	
+}
+a:active {
+	text-decoration: none;
+	color: #000;
+}
+-->
+
+#qaz:hover {
+	background-color:#EAEAEA;
+}
+#tamami {
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+	text-decoration: none;
+	text-align:left;
+	display: block;
+	z-index: 1;
+}
+#logo {
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	z-index: 1;
+}
+#logo1 {
+	display: block;
+	float: left;
+	height: 150px;
+	width: 100px;
+	position: relative;
+}
+#banner {
+	display: block;
+	float: none;
+	height: 150px;
+	width: 900px;
+	position: relative;
+}
+#menu {
+	height: 39px;
+	width: 950px;
+	position: relative;
+}
+#ana {
+	display: block;
+	width: 950px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	border: 1px solid #6C6C6C;
+	z-index: 2;
+}
+#sol {
+	float: left;
+	width: 950px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	display: block;
+	z-index: 2;
+}
+#ana_ikili {
+	display: block;
+	float: left;
+	width: 940px;
+	position: relative;
+}
+#sag {
+	display: inline-block;
+	float: right;
+	width: 150px;
+	margin-right: auto;
+	margin-left: auto;
+	position: absolute;
+	border: 1px solid #0F0;
+	height: 250px;
+}
+#detayli_anasayfa {
+	display: inline;
+	float: left;
+	width: 730px;
+	margin-top: 5px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+	margin-left: auto;
+	position: relative;
+}
+#hizli_ara_anasayfa {
+	display: inline;
+	float: left;
+	width: 730px;
+	margin-top: 0px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+	margin-left: auto;
+	position: relative;
+}
+#vitirin_anasayfa {
+	display: block;
+	float: left;
+	width: 730px;
+	margin-top: 0px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+	margin-left: auto;
+	position: static;
+}
+#yeniler {
+	display: block;
+	float: left;
+	width: 940px;
+	margin-top: 0px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+	margin-left: auto;
+	position: static;
+}
+#emlakcilar {
+	display: block;
+	float: left;
+	width: 940px;
+	margin-top: 0px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+	margin-left: auto;
+	position: static;
+}
+#emlakcilar li {
+	list-style-image:url(tema/img/f3.gif);
+}
+
+#emlakcilar a {
+	font-size:10px;
+	font-style: normal;
+	color: #000;
+	font-weight: bold;
+}
+
+#turler_anasayfa {
+	display: inline;
+	margin: auto;
+	float: left;
+	width: 940px;
+	position: relative;
+}
+#turler_anasayfa a {
+	font-size:10px;
+	font-style: normal;
+	color: #000;
+	font-weight: bold;
+}
+#turler_anasayfa li {
+	list-style-type: none;
+	font-size: 10px;
+	text-decoration: none;
+}
+.f2 a {
+PADDING-BOTTOM: 1px; PADDING-LEFT: 12px; WIDTH: 15px; PADDING-RIGHT: 1px;  PADDING-TOP: 2px;
+}
+-->
+
+<![if !IE 6]>
+
+
+/*Credits: Dynamic Drive CSS Library */
+/*URL: http://www.dynamicdrive.com/style/ */<!-- Hide entire CSS code from IE6 -->
+
+
+
+.shiftcontainer{
+position: relative;
+left: 5px; /*Number should match -left shadow depth below*/
+top: 5px; /*Number should match -top shadow depth below*/
+}
+
+.shadowcontainer{
+width: %100; /* container width*/
+background-color: #d1cfd0;
+}
+
+.shadowcontainer .innerdiv{
+	/* Add container height here if desired */
+background-color: white;
+	border: 1px solid gray;
+	position: relative;
+	left: -5px; /*shadow depth*/
+	top: -5px; /*shadow depth*/
+	padding-top: 0px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	padding-left: 6px;
+}
+
+
+<![endif]>
+
+
+/*Credits: Dynamic Drive CSS Library */
+/*URL: http://www.dynamicdrive.com/style/ */
+
+/* smart image enlarger starts here */
+/* If your images are not linking to other pages leave the links as <a href="#nogo"> Otherwise enlarger won't work in IE6 */
+
+.ienlarger {
+	float: left;
+	clear: none; /* set to left or right if needed */
+	padding-bottom: 5px; /* space between thumbs. Don't change this to margin */
+	padding-right: 5px; /* space between thumbs and wrapping text when there is any text around it */
+}
+
+.ienlarger a { 
+	display:block;
+	text-decoration: none;
+/* add cursor:default; to this rule to disable the hand cursor */
+}
+
+.ienlarger a:hover{ /* don't move this positioning to normal state */
+ 	position:relative;
+}
+
+.ienlarger span img {
+	border: 1px solid #FFFFFF; /* adds a border around the image */
+	margin-bottom: 8px; /* pushes the text down from the image */
+}
+
+.ienlarger a span {  /* this is for the large image and the caption */
+	position: absolute;
+	display:none;
+	color: #FFCC00; /* caption text colour */
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px; /* caption text size */
+	background-color: #000000;
+	font-weight: bold;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 13px;
+	padding-left: 10px;
+}
+
+.ienlarger img { /* leave or IE puts a border around links */
+border-width: 0;
+}
+
+.ienlarger a:hover span { 
+	display:block;
+	top: 50px; /* means the pop-up's top is 50px away from thumb's top */
+	left: 90px; /* means the pop-up's left is 90px far from the thumb's left */
+	z-index: 100;
+	
+/* If you want the pop-up open to the left of thumb, remove the left: 90px; and add  
+right: 90px; This would mean the right side of the pop-up is 90px far from the right side of thumb */	
+
+/* If you want the pop-up open above the thumb, remove the top: 50px; and add  
+bottom: 50px; This would mean the bottom of the pop-up is 50px far from the bottom of thumb */	
+
+/* add cursor:default; to this rule to disable the hand cursor only for the large image */
+}
+
+.resize_thumb {
+	width: 150px; /* enter desired thumb width here */
+	height : auto;
+}
+
+/* smart image enlarger ends here */
+
+
+
+
+
+/*Credits: Dynamic Drive CSS Library */
+/*URL: http://www.dynamicdrive.com/style/ */
+
+.commentbox{
+	background-color: #ececec;
+	width: 450px;
+	padding: 10px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.commentfooter{
+background: url(../img/arrow.gif) 20px 0 no-repeat; /*20px 0 equals horizontal and vertical position of arrow. Adjust as desired (ie: 20px -5px).*/
+padding-left: 58px;
+padding-top: 1px;
+margin-bottom: 2em;
+font-size: 90%;
+color: #4A4A4A;
+}
+
+
+
+
+<!--
+li {
+	list-style-type: none;
+	text-align: left;
+}
+li a {
+	text-decoration: none;
+	color: #000;
+}
+.baslik_sag {
+	background-image: url(../img/menub_hover_right.gif);
+	background-repeat: no-repeat;
+	display: inline;
+	height: 46px;
+	width: 250px;
+	float: left;
+}
+.xfreex{
+	background-color: #EAEAEA;
+	font-size: 12px;
+	text-decoration: none;
+	color: #030303;
+}
+.uyelik a {
+	
+
+	display: block;
+	text-align: center;
+	
+}
+.ana_ilan {
+	margin-top: 5px;
+}
+
+.xfreex a {
+	color:#030303;
+}
+.xfreex a:visited {
+	color:#030303;
+}
+.xfreex a:hover {
+	color:#0F0;
+}
+.baslik_sol {
+	background-repeat: no-repeat;
+	background-image: url(../img/menub_hover_left.gif);
+	height: 46px;
+	width: 19px;
+	display: inline;
+	float: left;
+}
+.baslik {
+	height: 46px;
+	text-align: left;
+	color: #000;
+	display: block;
+	width: 100%;
+	background-image: url(../img/menub_bg.gif);
+	background-repeat: repeat;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+#preview{
+	position:absolute;
+	border:1px solid #ccc;
+	background:#333;
+	padding:5px;
+	display:none;
+	color:#fff;
+	}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+	text-align: center;
+}
+
+
+
+.baslikr_sol {
+	background-repeat: no-repeat;
+	background-image: url(../img/menur_hover_left.gif);
+	height: 46px;
+	width: 19px;
+	display: inline;
+	float: left;
+}
+.baslikr {
+	height: 46px;
+	text-align: left;
+	color: #000;
+	display: block;
+	width: 100%;
+	background-image: url(../img/menur_bg.gif);
+	background-repeat: repeat;
+	font-size: 16px;
+	font-weight: bold;
+}
+.baslikr_sag {
+	background-image: url(../img/menur_hover_right.gif);
+	background-repeat: no-repeat;
+	display: inline;
+	height: 46px;
+	width: 250px;
+	float: left;
+}
+
+
+.baslikpu_sol {
+	background-repeat: no-repeat;
+	background-image: url(../img/menupu_hover_left.gif);
+	height: 46px;
+	width: 19px;
+	display: inline;
+	float: left;
+}
+.baslikpu {
+	height: 46px;
+	text-align: left;
+	color: #000;
+	display: block;
+	width: 100%;
+	background-image: url(../img/menupu_bg.gif);
+	background-repeat: repeat;
+	font-size: 16px;
+	font-weight: bold;
+}
+.baslikpu_sag {
+	background-image: url(../img/menupu_hover_right.gif);
+	background-repeat: no-repeat;
+	display: inline;
+	height: 46px;
+	width: 250px;
+	float: left;
+}
+
+
+.basliko_sol {
+	background-repeat: no-repeat;
+	background-image: url(../img/menuo_hover_left.gif);
+	height: 46px;
+	width: 19px;
+	display: inline;
+	float: left;
+}
+.basliko {
+	height: 46px;
+	text-align: left;
+	color: #000;
+	display: block;
+	width: 100%;
+	background-image: url(../img/menuo_bg.gif);
+	background-repeat: repeat;
+	font-size: 16px;
+	font-weight: bold;
+}
+.basliko_sag {
+	background-image: url(../img/menuo_hover_right.gif);
+	background-repeat: no-repeat;
+	display: inline;
+	height: 46px;
+	width: 250px;
+	float: left;
+}
+
+
+-->

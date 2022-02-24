@@ -1,0 +1,40 @@
+vt   : emlaknet_emlak
+sql  : update ilan_ticari set fiyat= '9500000', `birim`= '2',toplam_metrekare= '37000',kullanilabilir_metrekare= '37000',tapu_durum= '',adres= 'antalya manavgat ilçesi hatipler köyün'de manavgat merkezine 1 km. uzaklýkta alanya antalya yolu manavgat tabelasý giriþinde 37.000 m2. tamamý ticari olan avm için satýlýk arsa',posta_kodu= '',il_ilce= '',aciklama= 'antalya manavgat ilçesi hatipler köyün'de manavgat merkezine 1 km. uzaklýkta alanya antalya yolu manavgat tabelasý giriþinde 37.000 m2. tamamý ticari olan avm için satýlýk arsa',ilan_suresi= '365',satis_tarihi= 'hemen' , kredi='0' , dosya_no='' ,gx='', gy='' ,onay='0' where id= '3773'
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'de manavgat merkezine 1 km. uzaklýkta alanya antalya yolu manavgat tabelasý giri' at line 1
+fonk : VT::sor
+satir: 139
+dosya: /home/emlaknet/public_html/bayi/edit_form3.php
+zaman: 18.07.2013 08:33:21
+
+vt   : emlaknet_emlak
+sql  : insert into ilan_cevreozellikleri (id,ilan_id,ilan_grup, a1	,a2,	a3,	a4,	a5,	a6,	a7,	a8,	a9,	a10,a11,a12,a13,a14,a15,a16,a17,a18,a19,a20,a21,a22,a23,a24,a25,a26,a27) values (NULL,5097,3,''	,2,	'',	'',	5,	'',	7,	'',	9,	10, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '')
+hata : Unknown column 'a12' in 'field list'
+fonk : VT::sor
+satir: 154
+dosya: /home/emlaknet/public_html/uye/form3.php
+zaman: 18.07.2013 11:08:44
+
+vt   : emlaknet_emlak
+sql  : update ilan_ticari set `fiyat` = '100000', `birim` = '1', `yapi_tipi` = '3', `yapi_durum` = '2', `kullanim_durumu` = '2', `metrekare` = '115', `bulundugu_kat` = '3', `bina_kat_sayisi` = '4', `yapim_yili` = '1985', `oda_sayi` = '3', `salon_sayisi` = '1', `yatak_odasi_sayisi` = '3', `banyo_sayisi` = '1', `isinma_tipi` = '7', `yakit_tipi` = '2', `balkon` = '3', `bahce` = '4', `adres` = '345 sk No.28 (H.Rýfat Paþa Cad.95 kahve yakýný) Karataþ-Bayramyeri yakýný', `posta_kodu` = '', `il_ilce` = '', `aciklama` = 'Dairemiz;H.Rýfat Paþa 95'in Kahve yakýný 345 Sk.'ta olup,giriþe göre 4 katlý binanýn 3.Katý'dýr. 3 oda 1 salon,1 Banyo,1 WC,Çift cepheli,güneþ görür,full deniz manzaralý,Zeki Müren Parký cepheli,klasik ancak mükemmel konumlu bir daire'dir. Çelik kapý,alüminyum doðrama vardýr.Tüm pencereler ve balkonda PVC pancur mevcuttur...Doðalgaz kapýsýndadýr...Abonelik yapýlmasýna hazýrdýr...Nezih komþularý mevcut olup...Konak-H.Rýfat Paþa Cad.-Ýnönü Cad.-M.Paþa Cad.-Bayramyeri Pazarý yürüyüþ mesafesindedir....Yatýrým için düþünülecek olursa;eþyalý þekilde 500-600 TL kira getirisi garanti'dir...', `ilan_suresi` = '180', `satis_tarihi` = '' , kredi='1', dosya_no='' ,gx='', gy='' ,onay='0' where id= '4597'
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Kahve yakýný 345 Sk.'ta olup,giriþe göre 4 katlý binanýn 3.Katý'dýr. 3 oda 1 sal' at line 1
+fonk : VT::sor
+satir: 147
+dosya: /home/emlaknet/public_html/bayi/edit_form1.php
+zaman: 18.07.2013 17:12:35
+
+vt   : emlaknet_emlak
+sql  : update ilan_ticari set `fiyat` = '100000', `birim` = '1', `yapi_tipi` = '3', `yapi_durum` = '2', `kullanim_durumu` = '2', `metrekare` = '115', `bulundugu_kat` = '3', `bina_kat_sayisi` = '4', `yapim_yili` = '1985', `oda_sayi` = '3', `salon_sayisi` = '1', `yatak_odasi_sayisi` = '3', `banyo_sayisi` = '1', `isinma_tipi` = '3', `yakit_tipi` = '2', `balkon` = '3', `bahce` = '4', `adres` = '345 sk No.28 (H.Rýfat Paþa Cad.95 kahve yakýný) Karataþ-Bayramyeri yakýný', `posta_kodu` = '', `il_ilce` = '', `aciklama` = 'Dairemiz;H.Rýfat Paþa 95'in Kahve yakýný 345 Sk.'ta olup,giriþe göre 4 katlý binanýn 3.Katý'dýr. 3 oda 1 salon,1 Banyo,1 WC,Çift cepheli,güneþ görür,full deniz manzaralý,Zeki Müren Parký cepheli,klasik ancak mükemmel konumlu bir daire'dir. Çelik kapý,alüminyum doðrama vardýr.Tüm pencereler ve balkonda PVC pancur mevcuttur...Doðalgaz kapýsýndadýr...Abonelik yapýlmasýna hazýrdýr...Nezih komþularý mevcut olup...Konak-H.Rýfat Paþa Cad.-Ýnönü Cad.-M.Paþa Cad.-Bayramyeri Pazarý yürüyüþ mesafesindedir....Yatýrým için düþünülecek olursa;eþyalý þekilde 650-750 TL kira getirisi garanti'dir...', `ilan_suresi` = '90', `satis_tarihi` = '' , kredi='1', dosya_no='' ,gx='', gy='' ,onay='0' where id= '4597'
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Kahve yakýný 345 Sk.'ta olup,giriþe göre 4 katlý binanýn 3.Katý'dýr. 3 oda 1 sal' at line 1
+fonk : VT::sor
+satir: 147
+dosya: /home/emlaknet/public_html/bayi/edit_form1.php
+zaman: 18.07.2013 17:14:33
+
+vt   : emlaknet_emlak
+sql  : update ilan_ticari set `fiyat` = '100000', `birim` = '1', `yapi_tipi` = '3', `yapi_durum` = '2', `kullanim_durumu` = '2', `metrekare` = '115', `bulundugu_kat` = '3', `bina_kat_sayisi` = '4', `yapim_yili` = '1985', `oda_sayi` = '3', `salon_sayisi` = '1', `yatak_odasi_sayisi` = '3', `banyo_sayisi` = '1', `isinma_tipi` = '7', `yakit_tipi` = '2', `balkon` = '3', `bahce` = '4', `adres` = '345 sk No.28 (H.Rýfat Paþa Cad.95 kahve yakýný) Karataþ-Bayramyeri yakýný', `posta_kodu` = '35400', `il_ilce` = '', `aciklama` = 'Dairemiz;H.Rýfat Paþa 95'in Kahve yakýný 345 Sk.'ta olup,giriþe göre 4 katlý binanýn 3.Katý'dýr. 3 oda 1 salon,1 Banyo,1 WC,Çift cepheli,güneþ görür,full deniz manzaralý,Zeki Müren Parký cepheli,klasik ancak mükemmel konumlu bir daire'dir. Çelik kapý,alüminyum doðrama vardýr.Tüm pencereler ve balkonda PVC pancur mevcuttur..Doðalgaz kapýsýndadýr..Abonelik yapýlmasýna hazýrdýr...Nezih komþularý mevcut olup...Konak-H.Rýfat Paþa Cad.-Ýnönü Cad.-M.Paþa Cad.-Bayramyeri Pazarý yürüyüþ mesafesindedir.Yatýrým için düþünülecek olursa;eþyalý þekilde 650-750 TL kira getirisi garanti'dir...', `ilan_suresi` = '30', `satis_tarihi` = '' , kredi='1', dosya_no='' ,gx='', gy='' ,onay='0' where id= '4597'
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Kahve yakýný 345 Sk.'ta olup,giriþe göre 4 katlý binanýn 3.Katý'dýr. 3 oda 1 sal' at line 1
+fonk : VT::sor
+satir: 147
+dosya: /home/emlaknet/public_html/bayi/edit_form1.php
+zaman: 18.07.2013 17:17:16
+

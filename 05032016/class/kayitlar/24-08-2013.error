@@ -1,0 +1,24 @@
+vt   : emlaknet_emlak
+sql  : update ilan_ticari set `fiyat` = '400', `birim` = '1', `yapi_tipi` = '3', `yapi_durum` = '2', `kullanim_durumu` = '2', `metrekare` = '109', `bulundugu_kat` = '6', `bina_kat_sayisi` = '7', `yapim_yili` = '2010', `oda_sayi` = '2', `salon_sayisi` = '0', `yatak_odasi_sayisi` = '1', `banyo_sayisi` = '1', `isinma_tipi` = '6', `yakit_tipi` = '2', `balkon` = '3', `bahce` = '4', `adres` = ' KIRKLARELÝ - LÜLEBURGAZ - 8 KASIM MAHALLESÝ', `posta_kodu` = '39750', `il_ilce` = '', `aciklama` = 'Lüleburgaz'ýn modern,düzenli ve güvenli yaþam alaný Burgazkent'te kiralýk 2 1 daire.(toki)', `ilan_suresi` = '60', `satis_tarihi` = 'Hemen' , kredi='0', dosya_no='' ,gx='', gy='' ,onay='0' where id= '5134'
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ýn modern,düzenli ve güvenli yaþam alaný Burgazkent'te kiralýk 2 1 daire.(toki)'' at line 1
+fonk : VT::sor
+satir: 147
+dosya: /home/emlaknet/public_html/bayi/edit_form1.php
+zaman: 24.08.2013 13:23:07
+
+vt   : emlaknet_emlak
+sql  : update ilan_ticari set `fiyat` = '400', `birim` = '1', `yapi_tipi` = '3', `yapi_durum` = '2', `kullanim_durumu` = '2', `metrekare` = '109', `bulundugu_kat` = '6', `bina_kat_sayisi` = '7', `yapim_yili` = '2010', `oda_sayi` = '2', `salon_sayisi` = '0', `yatak_odasi_sayisi` = '1', `banyo_sayisi` = '1', `isinma_tipi` = '6', `yakit_tipi` = '2', `balkon` = '3', `bahce` = '4', `adres` = ' KIRKLARELÝ - LÜLEBURGAZ - 8 KASIM MAHALLESÝ', `posta_kodu` = '39750', `il_ilce` = '', `aciklama` = 'Lüleburgaz'ýn modern,düzenli ve güvenli yaþam alaný Burgazkent'te kiralýk 2 1 daire.(toki)', `ilan_suresi` = '60', `satis_tarihi` = 'Hemen' , kredi='0', dosya_no='' ,gx='', gy='' ,onay='0' where id= '5134'
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ýn modern,düzenli ve güvenli yaþam alaný Burgazkent'te kiralýk 2 1 daire.(toki)'' at line 1
+fonk : VT::sor
+satir: 147
+dosya: /home/emlaknet/public_html/bayi/edit_form1.php
+zaman: 24.08.2013 13:23:35
+
+vt   : emlaknet_emlak
+sql  : update ilan_ticari set `fiyat` = '400', `birim` = '1', `yapi_tipi` = '3', `yapi_durum` = '2', `kullanim_durumu` = '2', `metrekare` = '109', `bulundugu_kat` = '6', `bina_kat_sayisi` = '7', `yapim_yili` = '2010', `oda_sayi` = '2', `salon_sayisi` = '0', `yatak_odasi_sayisi` = '1', `banyo_sayisi` = '1', `isinma_tipi` = '6', `yakit_tipi` = '2', `balkon` = '3', `bahce` = '4', `adres` = ' KIRKLARELÝ - LÜLEBURGAZ - 8 KASIM MAHALLESÝ', `posta_kodu` = '39750', `il_ilce` = '', `aciklama` = 'Lüleburgaz'ýn modern,düzenli ve güvenli yaþam alaný Burgazkent'te kiralýk 2 1 daire.(toki)', `ilan_suresi` = '60', `satis_tarihi` = 'Hemen' , kredi='0', dosya_no='' ,gx='', gy='' ,onay='0' where id= '5134'
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ýn modern,düzenli ve güvenli yaþam alaný Burgazkent'te kiralýk 2 1 daire.(toki)'' at line 1
+fonk : VT::sor
+satir: 147
+dosya: /home/emlaknet/public_html/bayi/edit_form1.php
+zaman: 24.08.2013 13:23:55
+

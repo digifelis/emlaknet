@@ -1,0 +1,8 @@
+vt   : emlaknet_emlak
+sql  : select * from ilan_ticari where id= '437'' and onay in (2,4,0)
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''437'' and onay in (2,4,0)' at line 1
+fonk : VT::sor
+satir: 48
+dosya: /home/emlaknet/public_html/sabit/detail.php
+zaman: 18.08.2013 04:20:19
+

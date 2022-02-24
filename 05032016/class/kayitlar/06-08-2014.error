@@ -1,0 +1,16 @@
+vt   : emlaknet_emlak
+sql  : SELECT ilan_ticari.id,
+uyeler.id as uye_id,
+uyeler.uye_tipi as uye_tipi,
+uyeler.sirket as sirket,
+uyeler.temiz_ad as temiz_ad,
+count(ilan_foto.ilan_id) as fotosay,
+ilan_tipi.tip as tip,
+ilan_tipi.grup_id
+FROM ilan_ticari, uyeler , ilan_foto,ilan_tipi where ilan_ticari.uye_id = uyeler.id and ilan_ticari.ilan_tipi_id=ilan_tipi.id and ilan_ticari.onay not in (1,3) group by ilan_ticari.id order by ilan_ticari.onay DESC , ilan_ticari.bas_tarihi DESC ,ilan_ticari.id DESC limit -20, 20
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-20, 20' at line 9
+fonk : VT::sor
+satir: 345
+dosya: /home/emlaknet/public_html/sabit/sonuc.php
+zaman: 06.08.2014 06:25:46
+

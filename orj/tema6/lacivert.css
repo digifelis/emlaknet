@@ -1,0 +1,1022 @@
+BODY {
+
+	BACKGROUND-IMAGE: url(images/bg.png); MARGIN: 0px; BACKGROUND-REPEAT: repeat;
+
+	text-align: center;
+
+}
+
+BODY {
+
+	FONT-FAMILY: Tahoma; COLOR: #171717; FONT-SIZE: 12px
+
+}
+
+
+
+
+
+.tumu {
+
+
+
+ margin: 0 auto; 
+
+	
+
+	
+
+
+
+}
+
+.isaret {
+
+	border: 1px solid #F00;
+
+}
+
+
+
+TD {
+
+	FONT-FAMILY: Tahoma; COLOR: #171717; FONT-SIZE: 12px
+
+}
+
+TH {
+
+	FONT-FAMILY: Tahoma; COLOR: #171717; FONT-SIZE: 12px
+
+}
+
+A:link {
+
+	TEXT-DECORATION: none
+
+}
+
+A:visited {
+
+	TEXT-DECORATION: none
+
+}
+
+A:active {
+
+	TEXT-DECORATION: none
+
+}
+
+A:hover {
+
+	TEXT-DECORATION: none
+
+}
+
+.black10 {
+
+	FONT-FAMILY: tahoma; COLOR: #000; FONT-SIZE: 10px
+
+}
+
+.black10bold {
+
+	FONT-FAMILY: tahoma; COLOR: #000; FONT-SIZE: 10px; FONT-WEIGHT: bold
+
+}
+
+.black11 {
+
+	FONT-FAMILY: tahoma; COLOR: #000; FONT-SIZE: 11px
+
+}
+
+.black11bold {
+
+	TEXT-ALIGN: left; FONT-FAMILY: tahoma; COLOR: #000; FONT-SIZE: 11px; FONT-WEIGHT: bold
+
+}
+
+.black12 {
+
+	FONT-FAMILY: tahoma; COLOR: #000; FONT-SIZE: 12px
+
+}
+
+.black12bold {
+
+	FONT-FAMILY: tahoma; COLOR: #000; FONT-SIZE: 12px; FONT-WEIGHT: bold
+
+}
+
+.mor11 {
+
+	FONT-FAMILY: tahoma; COLOR: #05139b; FONT-SIZE: 11px
+
+}
+
+.mor11bold {
+
+	FONT-FAMILY: Tahoma; COLOR: #05139b; FONT-SIZE: 11px; FONT-WEIGHT: bold
+
+}
+
+.mor12 {
+
+	FONT-FAMILY: tahoma; COLOR: #05139b; FONT-SIZE: 12px
+
+}
+
+.mor12bold {
+
+	FONT-FAMILY: tahoma; COLOR: #05139b; FONT-SIZE: 12px; FONT-WEIGHT: bold
+
+}
+
+.mor15bold {
+
+	FONT-FAMILY: tahoma; COLOR: #05139b; FONT-SIZE: 15px; FONT-WEIGHT: bold
+
+}
+
+.ccc10 {
+
+	FONT-FAMILY: tahoma; COLOR: #ccc; FONT-SIZE: 10px
+
+}
+
+.ccc10_link {
+
+	FONT-FAMILY: tahoma; COLOR: #ccc; FONT-SIZE: 10px
+
+}
+
+.ccc10_link:hover {
+
+	FONT-FAMILY: tahoma; COLOR: #05139b; s: 10px
+
+}
+
+.beyaz10_link {
+
+	FONT-FAMILY: tahoma; COLOR: #fff; FONT-SIZE: 10px
+
+}
+
+.beyaz10_link:hover {
+
+	FONT-FAMILY: tahoma; COLOR: #05139b; s: 10px
+
+}
+
+.mor_a6_link {
+
+	FONT-FAMILY: tahoma; COLOR: #05139b; FONT-SIZE: 10px
+
+}
+
+.mor_koyugri_link {
+
+	FONT-FAMILY: tahoma; COLOR: #05139b; FONT-SIZE: 10px
+
+}
+
+.mor_koyugri_link:hover {
+
+	FONT-FAMILY: tahoma; COLOR: #3d3d3d; FONT-SIZE: 10px
+
+}
+
+.menu_bg {
+
+	MARGIN-BOTTOM: 5px; BACKGROUND: url(images/menu_bg.png); HEIGHT: 52px
+
+}
+
+.menu {
+
+	BACKGROUND-IMAGE: url(images/menu.png); TEXT-ALIGN: center; WIDTH: 100px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: 50% bottom; HEIGHT: 52px
+
+}
+
+.menu_active {
+
+	BACKGROUND-IMAGE: url(images/menu_hover.png); WIDTH: 100px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: 50% bottom; HEIGHT: 52px ; COLOR: #fff;
+
+
+
+}
+
+.menu_active a:visited {
+
+	COLOR: #fff;
+
+}
+
+
+
+.menu_active a:hover {
+
+	COLOR: #fff;
+
+}
+
+
+
+.menu_link {
+
+	POSITION: relative; TEXT-ALIGN: center; FONT-FAMILY: Tahoma; COLOR: #5a5a5a; FONT-SIZE: 11px; TOP: 15px; text-shadow: 1px 1px 1px #fff
+
+}
+
+.menu_link:hover {
+
+	POSITION: relative; TEXT-ALIGN: center; FONT-FAMILY: Tahoma; COLOR: #05139b; FONT-SIZE: 11px; TOP: 15px; text-shadow: 1px 1px 1px #fff
+
+}
+
+.menu_link_active {
+
+	POSITION: relative; TEXT-ALIGN: center; COLOR: #fff; FONT-SIZE: 11px; TOP: 17px; text-shadow: 1px 1px 1px #000
+
+}
+
+.link_beyaz_11 {
+
+	FONT-FAMILY: Tahoma; COLOR: #fff; FONT-SIZE: 11px
+
+}
+
+.link_beyaz_11:hover {
+
+	FONT-FAMILY: Tahoma; COLOR: #fff; FONT-SIZE: 11px
+
+}
+
+.link_siyah_11 {
+
+	FONT-FAMILY: Tahoma; COLOR: #000; FONT-SIZE: 11px
+
+}
+
+.link_siyah_11:hover {
+
+	FONT-FAMILY: Tahoma; COLOR: #fff; FONT-SIZE: 11px
+
+}
+
+.link_siyah_mor {
+
+	FONT-FAMILY: Tahoma; COLOR: #000; FONT-SIZE: 11px
+
+}
+
+.link_siyah_mor:hover {
+
+	FONT-FAMILY: Tahoma; COLOR: #05139b; FONT-SIZE: 11px
+
+}
+
+.link_siyah_mor10 {
+
+	FONT-FAMILY: Tahoma; COLOR: #000; FONT-SIZE: 10px
+
+}
+
+.link_siyah_mor10:hover {
+
+	FONT-FAMILY: Tahoma; COLOR: #05139b; FONT-SIZE: 10px
+
+}
+
+.link_siyah_mor10U {
+
+	FONT-FAMILY: Tahoma; COLOR: #000; FONT-SIZE: 10px
+
+}
+
+.link_siyah_mor10U:hover {
+
+	FONT-FAMILY: Tahoma; COLOR: #05139b; FONT-SIZE: 10px; TEXT-DECORATION: underline
+
+}
+
+.link_mor_siyah {
+
+	FONT-FAMILY: Tahoma; COLOR: #05139b; FONT-SIZE: 10px
+
+}
+
+.link_mor_siyah:hover {
+
+	FONT-FAMILY: Tahoma; COLOR: #000; FONT-SIZE: 10px; TEXT-DECORATION: underline
+
+}
+
+.tab_right_text {
+
+	TEXT-ALIGN: right; FONT-FAMILY: Tahoma; COLOR: #171717; FONT-SIZE: 10px; FONT-WEIGHT: bold
+
+}
+
+.left_text {
+
+	TEXT-ALIGN: right; FONT-FAMILY: Tahoma; COLOR: #171717; FONT-SIZE: 10px
+
+}
+
+.center_text {
+
+	TEXT-ALIGN: center; FONT-FAMILY: Tahoma; COLOR: #171717; FONT-SIZE: 10px
+
+}
+
+.doviz_tablo {
+
+	BORDER-BOTTOM: #909090 1px solid; BORDER-LEFT: #909090 1px; LINE-HEIGHT: 14px; LETTER-SPACING: 0.1em; FONT-FAMILY: Tahoma; COLOR: #171717; FONT-SIZE: 11px; BORDER-TOP: #909090 1px; BORDER-RIGHT: #909090 1px
+
+}
+
+.ilanlar_list_tablo {
+
+	BACKGROUND-IMAGE: url(images/cizgi_golge.png); PADDING-BOTTOM: 2px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Tahoma; BACKGROUND-POSITION: 50% bottom; HEIGHT: 20px; COLOR: #171717; FONT-SIZE: 9px; FONT-WEIGHT: bold; PADDING-TOP: 10px
+
+}
+
+.ilanlar_list {
+
+	LINE-HEIGHT: 15px; FONT-FAMILY: "Tahoma"; COLOR: #525252; FONT-SIZE: 12px
+
+}
+
+.tab {
+
+	BACKGROUND-IMAGE: url(images/tab_bg.png); TEXT-ALIGN: center; WIDTH: 225px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Tahoma; HEIGHT: 30px; COLOR: #ffffff; FONT-SIZE: 11px; FONT-WEIGHT: bold; PADDING-TOP: 10px
+
+}
+
+.tab_top {
+
+	BACKGROUND-IMAGE: url(images/tab_top.png); TEXT-ALIGN: center; WIDTH: 250px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Tahoma; HEIGHT: 50px; COLOR: #05139b; FONT-SIZE: 11px; FONT-WEIGHT: bold
+
+}
+
+.tab_top1 {
+
+	BACKGROUND-IMAGE: url(images/tab_top1.png); TEXT-ALIGN: center; WIDTH: 300px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Tahoma; HEIGHT: 50px; COLOR: #05139b; FONT-SIZE: 11px; FONT-WEIGHT: bold
+
+}
+
+.tab_middle_text {
+
+	PADDING-LEFT: 15px; WIDTH: 250px; FONT-FAMILY: Tahoma; COLOR: #171717; FONT-SIZE: 11px
+
+}
+
+.tab_middle {
+
+	BACKGROUND-IMAGE: url(images/tab_middle.png); WIDTH: 225px; BACKGROUND-REPEAT: repeat-y
+
+}
+
+.tab_middle1 {
+
+	BACKGROUND-IMAGE: url(images/tab_middle1.png); WIDTH: 300px; BACKGROUND-REPEAT: repeat-y
+
+}
+
+.tab_bottom {
+
+	BACKGROUND-IMAGE: url(images/tab_bottom.png); PADDING-BOTTOM: 0px; WIDTH: 225px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 35px
+
+}
+
+.tab_bottom1 {
+
+	BACKGROUND-IMAGE: url(images/tab_bottom1.png); PADDING-BOTTOM: 0px; WIDTH: 300px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 35px
+
+}
+
+.vitrin_tab_baslik {
+
+	TEXT-ALIGN: left; PADDING-LEFT: 15px; FONT-FAMILY: Tahoma; COLOR: #ffffff; FONT-SIZE: 11px; PADDING-TOP: 10px
+
+}
+
+.map {
+
+	MARGIN-TOP: 11px; WIDTH: 740px; HEIGHT: 305px; MARGIN-LEFT: 10px
+
+}
+
+.map_bg {
+
+	BACKGROUND-IMAGE: url(images/map_bg.png); WIDTH: 1000px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 350px
+
+}
+
+.detayliarama_select_bg {
+
+	BACKGROUND-IMAGE: url(images/detayli_arama_bg.png); PADDING-BOTTOM: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 35px
+
+}
+
+.detayliarama_select {
+
+	BORDER-BOTTOM: 0px; TEXT-ALIGN: left; BORDER-LEFT: 0px; MARGIN-TOP: 8px; WIDTH: 169px; FONT-FAMILY: tahoma; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #05139b; MARGIN-LEFT: 0px; FONT-SIZE: 14px; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+
+}
+
+.bosluk {
+
+	MARGIN-TOP: 10px
+
+}
+
+.bosluk3 {
+
+	MARGIN-TOP: 3px
+
+}
+
+.submit_buton {
+
+	BACKGROUND-IMAGE: url(images/submit_buton.png); TEXT-ALIGN: center; WIDTH: 90px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 30px; PADDING-TOP: 6px
+
+}
+
+.ilan_top {
+
+	BACKGROUND-IMAGE: url(images/ilan_vitrin_top.png); TEXT-ALIGN: center; WIDTH: 175px; PADDING-RIGHT: 10px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Tahoma; HEIGHT: 60px; COLOR: #ffffff; FONT-SIZE: 12px; FONT-WEIGHT: bold; PADDING-TOP: 5px
+
+}
+
+.textalani1_bg {
+
+	BACKGROUND-IMAGE: url(images/detayli_arama_bg.png); WIDTH: 185px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 35px
+
+}
+
+.textalani1 {
+
+	BORDER-BOTTOM: 0px; TEXT-ALIGN: left; BORDER-LEFT: 0px; MARGIN-TOP: 8px; WIDTH: 169px; FONT-FAMILY: tahoma; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #05139b; MARGIN-LEFT: 8px; FONT-SIZE: 14px; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+
+}
+
+.textalani2_bg {
+
+	BACKGROUND-IMAGE: url(images/text_alani2_bg.png); PADDING-BOTTOM: 5px; WIDTH: 80px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 35px
+
+}
+
+.textalani2 {
+
+	BORDER-BOTTOM: 0px; TEXT-ALIGN: left; BORDER-LEFT: 0px; MARGIN-TOP: 8px; WIDTH: 70px; FONT-FAMILY: tahoma; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #05139b; MARGIN-LEFT: 0px; FONT-SIZE: 14px; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+
+}
+
+.vitrin_bg {
+
+	BACKGROUND-IMAGE: url(images/vitrin_bg.png); WIDTH: 170px; PADDING-RIGHT: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 225px
+
+}
+
+.vitrin_bg:hover {
+
+	BACKGROUND-IMAGE: url(images/vitrin_bg_hover.png); WIDTH: 170px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 225px
+
+}
+
+.vitrin_baslik {
+
+	POSITION: relative; TEXT-ALIGN: left; WIDTH: 90px; FONT-FAMILY: Tahoma; COLOR: #000; FONT-SIZE: 11px; FONT-WEIGHT: bold; TOP: 8px; LEFT: 5px
+
+}
+
+.vitrin_konum {
+
+	POSITION: relative; TEXT-ALIGN: left; WIDTH: 160px; FONT-FAMILY: Tahoma; HEIGHT: 25px; COLOR: #000; FONT-SIZE: 11px; TOP: -2px; LEFT: 5px
+
+}
+
+.vitrin_fiyat {
+
+	POSITION: relative; TEXT-ALIGN: right; WIDTH: 160px; FONT-FAMILY: Tahoma; COLOR: #05139b; FONT-SIZE: 14px; FONT-WEIGHT: bold; TOP: 28px; LEFT: 0px
+
+}
+
+.vitrin_m2 {
+
+	POSITION: relative; TEXT-ALIGN: right; WIDTH: 60px; FONT-FAMILY: Tahoma; COLOR: #171717; FONT-SIZE: 11px; TOP: -5px; LEFT: 100px
+
+}
+
+.vitrin_buton {
+
+	POSITION: relative; TEXT-ALIGN: center; WIDTH: 90px; TOP: 36px; LEFT: 70px; text-shadow: 1px 1px 1px #fff
+
+}
+
+.vitrin_resim {
+
+	POSITION: relative; WIDTH: 160px; HEIGHT: 85px; TOP: 4px; LEFT: 5px
+
+}
+
+.detayli_ara_tablo_bg {
+
+	BACKGROUND-IMAGE: url(images/detayli_ara_tablo_bg.png); PADDING-BOTTOM: 5px; WIDTH: 225px; BACKGROUND-REPEAT: no-repeat; MARGIN-BOTTOM: 5px; HEIGHT: 325px
+
+}
+
+.pager {
+
+	BACKGROUND-IMAGE: url(images/pager_bg.png); TEXT-ALIGN: center; WIDTH: 20px; PADDING-RIGHT: 1px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Tahoma; BACKGROUND-POSITION: 50% bottom; HEIGHT: 25px; COLOR: #fff; FONT-SIZE: 11px; PADDING-TOP: 10px
+
+}
+
+.son_ilanlar {
+
+	BACKGROUND-IMAGE: url(images/son_ilanlar_bg.png); TEXT-ALIGN: center; WIDTH: 200px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Tahoma; HEIGHT: 80px; COLOR: #05139b; FONT-SIZE: 13px; PADDING-TOP: 5px
+
+}
+
+.son_eklenen_baslik {
+
+	POSITION: relative; TEXT-ALIGN: left; FONT-FAMILY: Tahoma; COLOR: #000; FONT-SIZE: 11px; FONT-WEIGHT: bold; TOP: 2px; LEFT: 95px
+
+}
+
+.son_eklenen_konum {
+
+	POSITION: relative; TEXT-ALIGN: left; FONT-FAMILY: Tahoma; COLOR: #05139b; FONT-SIZE: 11px; TOP: 2px; LEFT: 95px
+
+}
+
+.son_eklenen_fiyat {
+
+	POSITION: relative; TEXT-ALIGN: left; FONT-FAMILY: Tahoma; COLOR: #05139b; FONT-SIZE: 13px; TOP: 2px; LEFT: 95px
+
+}
+
+.son_eklenen_buton {
+
+	POSITION: relative; TEXT-ALIGN: left; FONT-FAMILY: Tahoma; COLOR: #000; FONT-SIZE: 11px; TOP: 8px; LEFT: 125px
+
+}
+
+.son_eklenen_resim {
+
+	POSITION: relative; WIDTH: 80px; HEIGHT: 60px; TOP: -53px; LEFT: 7px
+
+}
+
+.haber_bg_anasayfa {
+
+	WIDTH: 210px; MARGIN-BOTTOM: 1px; BACKGROUND: url(images/haber_bg_anasayfa.png) no-repeat; HEIGHT: 75px
+
+}
+
+.haber_bg_anasayfa:hover {
+
+	WIDTH: 210px; MARGIN-BOTTOM: 1px; BACKGROUND: url(images/haber_bg_anasayfa_hover.png) no-repeat; HEIGHT: 75px
+
+}
+
+.haber_baslik_anasayfa {
+
+	POSITION: relative; TEXT-ALIGN: left; PADDING-BOTTOM: 8px; WIDTH: 200px; FONT-FAMILY: Tahoma; COLOR: #05139b; FONT-SIZE: 10px; FONT-WEIGHT: bold; TOP: 3px; LEFT: 2px
+
+}
+
+.haber_ozet_anasayfa {
+
+	POSITION: relative; TEXT-ALIGN: left; PADDING-BOTTOM: 5px; TEXT-TRANSFORM: lowercase; WIDTH: 120px; FONT-FAMILY: Tahoma; HEIGHT: 35px; COLOR: #000; FONT-SIZE: 10px; TOP: -48px; LEFT: 40px
+
+}
+
+.haberler_anasayfa_resim {
+
+	POSITION: relative; WIDTH: 60px; HEIGHT: 45px; LEFT: -70px
+
+}
+
+.haberler_anasayfa_buton {
+
+	POSITION: relative; TEXT-ALIGN: left; WIDTH: 90px; FONT-FAMILY: Tahoma; MARGIN-BOTTOM: -40px; COLOR: #05139b; FONT-SIZE: 8px; FONT-WEIGHT: bold; TOP: -50px; LEFT: 55px
+
+}
+
+.haber_bg {
+
+	WIDTH: 261px; MARGIN-BOTTOM: 1px; BACKGROUND: url(images/haber_detay.png) no-repeat; HEIGHT: 90px
+
+}
+
+.haber_bg:hover {
+
+	WIDTH: 261px; MARGIN-BOTTOM: 1px; BACKGROUND: url(images/haber_detay_hover.png) no-repeat; HEIGHT: 90px
+
+}
+
+.haber_baslik {
+
+	POSITION: relative; TEXT-ALIGN: left; PADDING-BOTTOM: 13px; WIDTH: 250px; FONT-FAMILY: Tahoma; COLOR: #05139b; FONT-SIZE: 11px; TOP: 5px; LEFT: 2px
+
+}
+
+.haber_ozet {
+
+	POSITION: relative; TEXT-ALIGN: left; PADDING-BOTTOM: 5px; WIDTH: 170px; FONT-FAMILY: Tahoma; COLOR: #000; FONT-SIZE: 10px; TOP: -48px; LEFT: 40px
+
+}
+
+.haber_resim {
+
+	POSITION: relative; WIDTH: 60px; HEIGHT: 45px; LEFT: -90px
+
+}
+
+.haber_buton {
+
+	POSITION: relative; TEXT-ALIGN: left; WIDTH: 90px; FONT-FAMILY: Tahoma; MARGIN-BOTTOM: -40px; COLOR: #05139b; FONT-SIZE: 9px; FONT-WEIGHT: bold; TOP: -30px; LEFT: 85px
+
+}
+
+.haber_detay_resim {
+
+	WIDTH: 300px; HEIGHT: 200px
+
+}
+
+.haber_detay_tarih {
+
+	WIDTH: 210px; FONT-FAMILY: tahoma; MARGIN-BOTTOM: 5px; HEIGHT: 20px; MARGIN-LEFT: 7px; FONT-SIZE: 11px; FONT-WEIGHT: bold
+
+}
+
+.haber_detay_ozet {
+
+	LINE-HEIGHT: 16px; WIDTH: 210px; FONT-FAMILY: tahoma; COLOR: #a6a6a6; MARGIN-LEFT: 7px; FONT-SIZE: 12px; WORD-SPACING: 0.2em
+
+}
+
+.haber_detay_haber {
+
+	LINE-HEIGHT: 18px; MARGIN-TOP: 5px; WIDTH: 520px; FONT-FAMILY: tahoma; FONT-SIZE: 12px; WORD-SPACING: 0.2em
+
+}
+
+.hizmetlerimiz_poz {
+
+	POSITION: relative; TEXT-ALIGN: left; LINE-HEIGHT: 15px; LEFT: 5px
+
+}
+
+.main_body {
+
+	BORDER-BOTTOM: thin; BORDER-LEFT: thin dashed; MARGIN-TOP: 10px; WIDTH: 1000px; COLOR: #8b8b8b; BORDER-TOP: thin; BORDER-RIGHT: thin dashed; PADDING-TOP: 10px
+
+}
+
+.ilan_detay_top_bg {
+
+	BACKGROUND-IMAGE: url(images/main_tab.png); WIDTH: 528px; BACKGROUND-REPEAT: no-repeat; MARGIN-BOTTOM: 5px; HEIGHT: 40px
+
+}
+
+.main_tab {
+
+	BACKGROUND-IMAGE: url(images/main_tab.png); TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: 15px; WIDTH: 528px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: tahoma; MARGIN-BOTTOM: 5px; HEIGHT: 40px; COLOR: #05139b; FONT-SIZE: 11px; FONT-WEIGHT: bold
+
+}
+
+.ilan_detay_baslik_tip {
+
+	POSITION: relative; TEXT-ALIGN: left; WIDTH: 150px; FONT-FAMILY: Tahoma; COLOR: #05139b; FONT-SIZE: 13px; TOP: 3px; LEFT: 10px
+
+}
+
+.ilan_detay_baslik_konum {
+
+	POSITION: relative; TEXT-ALIGN: left; WIDTH: 350px; FONT-FAMILY: Tahoma; COLOR: #2a2a2a; FONT-SIZE: 10px; TOP: 5px; LEFT: 10px
+
+}
+
+.ilan_detay_m2 {
+
+	POSITION: relative; TEXT-ALIGN: left; WIDTH: 80px; FONT-FAMILY: Tahoma; COLOR: #05139b; FONT-SIZE: 11px; TOP: -41px; LEFT: 120px
+
+}
+
+.ilan_detay_fiyat {
+
+	POSITION: relative; TEXT-ALIGN: right; WIDTH: 120px; FONT-FAMILY: Tahoma; COLOR: #05139b; FONT-SIZE: 15px; TOP: -18px; LEFT: 400px
+
+}
+
+.ilan_detaylari_yazisi {
+
+	TEXT-ALIGN: left; FONT-FAMILY: Tahoma; COLOR: #000; FONT-SIZE: 12px; FONT-WEIGHT: bold
+
+}
+
+.list_mor {
+
+	TEXT-ALIGN: left; LINE-HEIGHT: 17px; COLOR: #000; FONT-SIZE: 11px; LIST-STYLE-IMAGE: url(images/list_mor.png); WORD-SPACING: 0.1em
+
+}
+
+.ilan_detay_tab {
+
+	BACKGROUND-IMAGE: url(images/ilan_detay_tab.png); TEXT-ALIGN: left; PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; WIDTH: 330px; BACKGROUND-REPEAT: no-repeat; PADDING-TOP: 10px
+
+}
+
+.ilan_detay_tab_bottom {
+
+	BACKGROUND-IMAGE: url(images/ilan_detay_tab_bottom.png); TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; WIDTH: 330px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 10px
+
+}
+
+.ilan_detay_tab_baslik {
+
+	FONT-FAMILY: Tahoma; COLOR: #ffffff; FONT-SIZE: 11px; FONT-WEIGHT: bold
+
+}
+
+.ilan_detay_foto {
+
+	POSITION: relative; MARGIN-TOP: 15px; WIDTH: 320px; HEIGHT: 215px; LEFT: -7px
+
+}
+
+.ilan_detay_map_pozisyon {
+
+	POSITION: relative; PADDING-BOTTOM: 10px; WIDTH: 320px; TOP: 18px; LEFT: -5px
+
+}
+
+.ilan_detay_map_link {
+
+	POSITION: relative; TEXT-ALIGN: left; MARGIN-TOP: 10px; WIDTH: 80px; FONT-FAMILY: Tahoma; COLOR: #000; MARGIN-LEFT: 10px; FONT-SIZE: 10px; FONT-WEIGHT: bold; TOP: 6px; LEFT: 225px
+
+}
+
+.ilan_aciklamasi {
+
+	TEXT-ALIGN: left; LINE-HEIGHT: 18px; MARGIN-TOP: 15px; WIDTH: 310px; FONT-FAMILY: Tahoma; COLOR: #171717; MARGIN-LEFT: 0px; FONT-SIZE: 11px; WORD-SPACING: 0.2em
+
+}
+
+.ilan_detay_share_tab {
+
+	BACKGROUND-IMAGE: url(images/ilan_detay_share_tab.png); MARGIN-TOP: 5px; WIDTH: 330px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 55px; PADDING-TOP: 8px
+
+}
+
+.ilan_detay_emlak_danismani_tab {
+
+	BACKGROUND-IMAGE: url(images/ilan_detay_emlak_danismani_tab.png); WIDTH: 340px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 145px
+
+}
+
+.ilan_detay_emlak_danismani_pozisyon {
+
+	MARGIN-TOP: 20px; WIDTH: 300px; HEIGHT: 90px
+
+}
+
+.gri_mor_line_tab {
+
+	BACKGROUND-IMAGE: url(images/gri_mor_line_bg.png); TEXT-ALIGN: left; MARGIN-TOP: 10px; WIDTH: 180px; BACKGROUND-REPEAT: repeat-x; MARGIN-BOTTOM: 10px; HEIGHT: 25px
+
+}
+
+.gri_mor_line_tab_baslik {
+
+	POSITION: relative; TEXT-ALIGN: left; WIDTH: 140px; FONT-FAMILY: Tahoma; COLOR: #05139b; FONT-SIZE: 11px; WORD-SPACING: 0.1em; PADDING-TOP: 7px; LEFT: 5px
+
+}
+
+.ilan_ozellikleri {
+
+	BORDER-BOTTOM: #dedede 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #dedede 1px; LINE-HEIGHT: 20px; MARGIN-TOP: 0px; FONT-FAMILY: Tahoma; COLOR: #171717; FONT-SIZE: 11px; BORDER-TOP: #dedede 1px; BORDER-RIGHT: #dedede 1px; WORD-SPACING: 0.1em
+
+}
+
+.tum_ilanlar_anasayfa {
+
+	BORDER-BOTTOM: #05139b thin dotted; TEXT-ALIGN: left; BORDER-LEFT: #05139b thin; PADDING-BOTTOM: 2px; WIDTH: 150px; FONT-FAMILY: Tahoma; COLOR: #171717; FONT-SIZE: 11px; BORDER-TOP: #05139b thin; BORDER-RIGHT: #05139b thin
+
+}
+
+.tum_ilanlar_anasayfa:hover {
+
+	BORDER-BOTTOM: #05139b thin dotted; TEXT-ALIGN: left; BORDER-LEFT: #05139b thin; PADDING-BOTTOM: 2px; WIDTH: 150px; FONT-FAMILY: Tahoma; COLOR: #05139b; FONT-SIZE: 11px; BORDER-TOP: #05139b thin; BORDER-RIGHT: #05139b thin
+
+}
+
+.danismanlarimiz_bg {
+
+	BACKGROUND-IMAGE: url(images/danismanlarimiz_bg.png); PADDING-BOTTOM: 5px; WIDTH: 528px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 135px
+
+}
+
+.danismanlarimiz_foto_poz {
+
+	POSITION: relative; WIDTH: 75px; HEIGHT: 90px; TOP: 21px; LEFT: 21px
+
+}
+
+.danismanlarimiz_isim {
+
+	PADDING-BOTTOM: 3px; FONT-FAMILY: tahoma; COLOR: #05139b; FONT-SIZE: 15px; FONT-WEIGHT: bold
+
+}
+
+.danismanlarimiz_tel {
+
+	PADDING-BOTTOM: 1px; FONT-FAMILY: tahoma; COLOR: #000; FONT-SIZE: 14px; FONT-WEIGHT: normal
+
+}
+
+.danismanlarimiz_tablo {
+
+	POSITION: relative; WIDTH: 350px; TOP: -70px; LEFT: 120px
+
+}
+
+.danismanlarimiz_buton {
+
+	POSITION: relative; PADDING-BOTTOM: 1px; WIDTH: 150px; FONT-FAMILY: tahoma; HEIGHT: 20px; COLOR: #fff; FONT-SIZE: 11px; FONT-WEIGHT: normal; TOP: -64px; LEFT: 145px
+
+}
+
+.danismanlarimiz_eposta {
+
+	PADDING-BOTTOM: 1px; WIDTH: 150px; FONT-FAMILY: tahoma; HEIGHT: 20px; COLOR: #05139b; FONT-SIZE: 10px; FONT-WEIGHT: normal
+
+}
+
+.bottom_menu {
+
+	BORDER-BOTTOM: thin; TEXT-ALIGN: center; BORDER-LEFT: thin; MARGIN-TOP: 10px; WIDTH: 1000px; FONT-FAMILY: Tahoma; HEIGHT: 12px; COLOR: #555555; FONT-SIZE: 11px; BORDER-TOP: thin solid; BORDER-RIGHT: thin; PADDING-TOP: 10px
+
+}
+
+.bottom {
+
+	TEXT-ALIGN: center; MARGIN-TOP: 10px; WIDTH: 1000px; FONT-FAMILY: Tahoma; BACKGROUND: url(images/bottom_bg.png) no-repeat; HEIGHT: 110px; COLOR: #555555; FONT-SIZE: 11px
+
+}
+
+.ilanlar_list_baslik {
+
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 40px; FONT-FAMILY: tahoma; FONT-SIZE: 11px; FONT-WEIGHT: bold
+
+}
+
+.bottom_doted_black_10bold {
+
+	BORDER-BOTTOM: #000 1px dotted; BORDER-LEFT: #000 1px; FONT-FAMILY: tahoma; COLOR: #000; FONT-SIZE: 10px; BORDER-TOP: #000 1px; FONT-WEIGHT: bold; BORDER-RIGHT: #000 1px
+
+}
+
+.bottom_doted_black_10 {
+
+	BORDER-BOTTOM: #000 1px dotted; BORDER-LEFT: #000 1px; FONT-FAMILY: tahoma; COLOR: #000; FONT-SIZE: 10px; BORDER-TOP: #000 1px; BORDER-RIGHT: #000 1px
+
+}
+
+.bottom_doted_black_11 {
+
+	BORDER-BOTTOM: #000 1px dotted; BORDER-LEFT: #000 1px; FONT-FAMILY: tahoma; COLOR: #000; FONT-SIZE: 11px; BORDER-TOP: #000 1px; BORDER-RIGHT: #000 1px
+
+}
+
+.bottom_solid_black_10bold {
+
+	BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px; LINE-HEIGHT: 25px; FONT-FAMILY: tahoma; COLOR: #000; FONT-SIZE: 10px; BORDER-TOP: #000 1px; FONT-WEIGHT: bold; BORDER-RIGHT: #000 1px
+
+}
+
+.bottom_solid_black_10 {
+
+	BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px; LINE-HEIGHT: 25px; FONT-FAMILY: tahoma; COLOR: #000; FONT-SIZE: 10px; BORDER-TOP: #000 1px; BORDER-RIGHT: #000 1px
+
+}
+
+.bottom_solid_black_11 {
+
+	BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px; LINE-HEIGHT: 25px; FONT-FAMILY: tahoma; COLOR: #000; FONT-SIZE: 11px; BORDER-TOP: #000 1px; BORDER-RIGHT: #000 1px
+
+}
+
+.table_bg_grey_effect {
+
+	BORDER-BOTTOM: #f2f2f2 1px solid; BORDER-LEFT: #f2f2f2 1px solid; BACKGROUND-COLOR: #fcfcfc; MARGIN-BOTTOM: 10px; BORDER-TOP: #f2f2f2 1px solid; BORDER-RIGHT: #f2f2f2 1px solid
+
+}
+
+.map_div {
+
+	WIDTH: 210px; HEIGHT: 70px
+
+}
+
+.map_div_foto {
+
+	POSITION: relative; WIDTH: 75px; HEIGHT: 55px; TOP: 5px; LEFT: 5px
+
+}
+
+.map_div_durum {
+
+	POSITION: relative; TEXT-ALIGN: left; WIDTH: 75px; FONT-FAMILY: tahoma; COLOR: #05139b; FONT-SIZE: 11px; FONT-WEIGHT: bold; TOP: -48px; LEFT: 85px
+
+}
+
+.map_div_m2 {
+
+	POSITION: relative; TEXT-ALIGN: right; WIDTH: 60px; FONT-FAMILY: tahoma; COLOR: #05139b; FONT-SIZE: 11px; TOP: -61px; LEFT: 155px
+
+}
+
+.map_div_konum {
+
+	POSITION: relative; TEXT-ALIGN: left; WIDTH: 120px; FONT-FAMILY: tahoma; COLOR: #171717; FONT-SIZE: 11px; TOP: -58px; LEFT: 85px
+
+}
+
+.map_div_fiyat {
+
+	POSITION: relative; TEXT-ALIGN: left; WIDTH: 120px; FONT-FAMILY: tahoma; COLOR: #05139b; FONT-SIZE: 12px; TOP: -56px; LEFT: 85px
+
+}
+
+.mortgage_hesaplama_alani_bg {
+
+	WIDTH: 200px; BACKGROUND: url(images/mortgage_hesaplama_alani.png) no-repeat; HEIGHT: 65px
+
+}
+
+.ilan_detay_tablo {
+
+	BORDER-BOTTOM: #f2f2f2 1px solid; POSITION: relative; BORDER-LEFT: #f2f2f2 1px solid; PADDING-BOTTOM: 5px; BACKGROUND-COLOR: #fcfcfc; PADDING-LEFT: 6px; WIDTH: 322px; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 5px; BORDER-TOP: #f2f2f2 1px solid; BORDER-RIGHT: #f2f2f2 1px solid; PADDING-TOP: 5px; TOP: -7px
+
+}
+
+.focus {
+
+	POSITION: absolute; MARGIN-TOP: 1075px; MARGIN-LEFT: -5px; TOP: 1px; LEFT: 0px; 999: 
+
+}
+
+.focus_class {
+
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; WIDTH: 1px; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 1px; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#tabs { padding: 0; }
+
+#tabs li { display: inline; }
+
+#tabs li a {  padding: 10px; float:left; border-right: 1px solid #ccf; border-bottom: none; text-decoration: none; color: #000; font-weight: bold;}
+
+#tabs li.active a { background: #eef; }
+
+
+
+
+
+
+
+.styled-select {
+
+   width: 150px;
+
+   height: 34px;
+
+   overflow: hidden;
+
+   
+
+}
+.orta_stil {
+	margin-left:10px;
+	margin-right:0px;
+}
+

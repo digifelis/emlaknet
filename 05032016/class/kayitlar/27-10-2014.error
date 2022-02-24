@@ -1,0 +1,16 @@
+vt   : emlaknet_emlak
+sql  : select * from ilan_ticari where onay=3 order limit 100
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 100' at line 1
+fonk : VT::sor
+satir: 10
+dosya: /home/emlaknet/public_html/admin/toplu_sil.php
+zaman: 27.10.2014 13:51:03
+
+vt   : emlaknet_emlak
+sql  : 
+hata : 
+fonk : VT::baglan
+satir: 9
+dosya: /home/emlaknet/public_html/config.php
+zaman: 27.10.2014 14:11:08
+

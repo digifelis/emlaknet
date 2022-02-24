@@ -1,0 +1,8 @@
+vt   : emlaknet_emlak
+sql  : insert into ilan_cevreozellikleri (id,ilan_id,ilan_grup, a1	,a2,	a3,	a4,	a5,	a6,	a7,	a8,	a9,	a10,a11,a12,a13,a14,a15,a16,a17,a18,a19,a20,a21,a22,a23,a24,a25,a26,a27) values (NULL,5087,3,''	,'',	'',	'',	'',	'',	'',	'',	'',	'', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '')
+hata : Unknown column 'a12' in 'field list'
+fonk : VT::sor
+satir: 154
+dosya: /home/emlaknet/public_html/uye/form3.php
+zaman: 09.07.2013 11:00:26
+

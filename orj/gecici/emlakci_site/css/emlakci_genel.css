@@ -1,0 +1,51 @@
+body {
+	text-align:center;
+}
+.logo1 {
+	z-index: 3;
+	display: inline;
+	border: 1px solid #F00;
+	position: absolute;
+	left: 19px;
+	top: 18px;
+}
+
+.tamami {
+	width: 950px;
+	
+	margin-right: auto;
+	margin-left: auto;
+	text-align: left;
+}
+
+.logo {
+	width: 950px;
+	height:258px;
+	display:block;
+	background-image:url(../img/logo.jpg);
+	background-repeat:no-repeat;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.sol_blok {
+	width: 200px;
+	display: inline;
+	float: left;
+}
+.ana {
+	width: 950px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.sag_blok {
+	display: inline;
+	float: left;
+	width: 950px;
+}
+.alt {
+	width: 955px;
+}
+.menu {
+	width: 100%;
+}

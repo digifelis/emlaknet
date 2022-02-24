@@ -1,0 +1,8 @@
+vt   : emlaknet_emlak
+sql  : select * from ilan_ticari where id="79" or (1,2)=(select*from(select name_const(CHAR(111,108,111,108,111,115,104,101,114),1),name_const(CHAR(111,108,111,108,111,115,104,101,114),1))a) -- "x"="x"
+hata : Incorrect arguments to NAME_CONST
+fonk : VT::sor
+satir: 61
+dosya: /backup/home3/emlaknet/public_html/config.php
+zaman: 19.09.2015 08:19:30
+

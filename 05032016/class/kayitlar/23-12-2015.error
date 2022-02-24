@@ -1,0 +1,48 @@
+vt   : emlaknet_emlak
+sql  : SELECT ilan_ticari.id FROM ilan_ticari, uyeler , ilan_foto,ilan_tipi where ilan_ticari.uye_id = uyeler.id and ilan_ticari.ilan_tipi_id=ilan_tipi.id and uyeler.id="802" and ilan_ticari.fiyat between "0" and "100000000" and grup_id='3'A=0' and ilan_ticari.onay not in (1,3) group by ilan_ticari.id
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'A=0' and ilan_ticari.onay not in (1,3) group by ilan_ticari.id' at line 1
+fonk : VT::sor
+satir: 95
+dosya: /backup/home3/emlaknet/public_html/emlakci_site/arama.php
+zaman: 23.12.2015 16:37:44
+
+vt   : emlaknet_emlak
+sql  : select * from ilan_ticari where id= '1536'A=0'
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'A=0'' at line 1
+fonk : VT::sor
+satir: 56
+dosya: /backup/home3/emlaknet/public_html/emlakci_site/detail.php
+zaman: 23.12.2015 17:12:11
+
+vt   : emlaknet_emlak
+sql  : select * from ilan_ticari where id= '6145'A=0'
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'A=0'' at line 1
+fonk : VT::sor
+satir: 56
+dosya: /backup/home3/emlaknet/public_html/emlakci_site/detail.php
+zaman: 23.12.2015 18:14:40
+
+vt   : emlaknet_emlak
+sql  : SELECT ilan_ticari.id FROM ilan_ticari, uyeler , ilan_foto,ilan_tipi where ilan_ticari.uye_id = uyeler.id and ilan_ticari.ilan_tipi_id=ilan_tipi.id and uyeler.id="320" and ilan_ticari.fiyat between "0" and "100000000" and grup_id='3'A=0' and ilan_ticari.onay not in (1,3) group by ilan_ticari.id
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'A=0' and ilan_ticari.onay not in (1,3) group by ilan_ticari.id' at line 1
+fonk : VT::sor
+satir: 95
+dosya: /backup/home3/emlaknet/public_html/emlakci_site/arama.php
+zaman: 23.12.2015 20:57:53
+
+vt   : emlaknet_emlak
+sql  : SELECT ilan_ticari.id FROM ilan_ticari, uyeler , ilan_foto,ilan_tipi where ilan_ticari.uye_id = uyeler.id and ilan_ticari.ilan_tipi_id=ilan_tipi.id and uyeler.id="334" and ilan_ticari.fiyat between "0" and "100000000" and grup_id='2'A=0' and ilan_ticari.onay not in (1,3) group by ilan_ticari.id
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'A=0' and ilan_ticari.onay not in (1,3) group by ilan_ticari.id' at line 1
+fonk : VT::sor
+satir: 95
+dosya: /backup/home3/emlaknet/public_html/emlakci_site/arama.php
+zaman: 23.12.2015 21:00:24
+
+vt   : emlaknet_emlak
+sql  : select * from ilan_ticari where id= '5409'A=0' and onay in (2,4,0)
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'A=0' and onay in (2,4,0)' at line 1
+fonk : VT::sor
+satir: 48
+dosya: /backup/home3/emlaknet/public_html/sabit/detail.php
+zaman: 23.12.2015 21:07:06
+

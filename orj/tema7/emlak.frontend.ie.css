@@ -1,0 +1,6 @@
+.header_quicksearch_input INPUT {
+	LINE-HEIGHT: 20px; HEIGHT: 20px
+}
+#detail_inactive {
+	BACKGROUND-IMAGE: url(http://r3.emlak.net/img/detail_inactive.png); POSITION: absolute; FILTER: alpha(opacity=80); BACKGROUND-COLOR: #fff; WIDTH: 100%; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: center 100px; HEIGHT: 100%; TOP: 0px; LEFT: 0px
+}

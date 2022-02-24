@@ -1,0 +1,9 @@
+vt   : emlaknet_emlak
+sql  : SELECT distinct ilan_tipi.*
+FROM ilan_tipi, ilan_ticari where tip=1 and grup_id=1 and ilan_tipi.id in (select distinct ilan_tipi_id from ilan_ticari )
+hata : MySQL server has gone away
+fonk : VT::sor
+satir: 271
+dosya: /home/emlaknet/public_html/tema8/orta.php
+zaman: 18.11.2014 00:16:45
+

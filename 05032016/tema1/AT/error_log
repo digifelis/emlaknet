@@ -1,0 +1,6 @@
+[23-Apr-2013 22:15:25 Europe/Helsinki] PHP Fatal error:  Call to a member function sql() on a non-object in /home/emlaknet/public_html/tema1/AT/orta111.php on line 85
+[23-Apr-2013 22:15:25 Europe/Helsinki] PHP Fatal error:  Call to undefined function temizle() in /home/emlaknet/public_html/tema1/AT/footer111.php on line 23
+[23-Apr-2013 22:15:26 Europe/Helsinki] PHP Fatal error:  Call to undefined function temizle() in /home/emlaknet/public_html/tema1/AT/header111ORJ.php on line 282
+[23-Apr-2013 22:15:39 Europe/Helsinki] PHP Fatal error:  Call to undefined function temizle() in /home/emlaknet/public_html/tema1/AT/footer111.php on line 23
+[23-Apr-2013 22:15:39 Europe/Helsinki] PHP Fatal error:  Call to undefined function temizle() in /home/emlaknet/public_html/tema1/AT/header111ORJ.php on line 282
+[23-Apr-2013 22:15:39 Europe/Helsinki] PHP Fatal error:  Call to a member function sql() on a non-object in /home/emlaknet/public_html/tema1/AT/orta111.php on line 85

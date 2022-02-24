@@ -1,0 +1,8 @@
+vt   : emlaknet_emlak
+sql  : SELECT uyeler.temiz_ad , uyeler.sirket , sehir.sehiradiUpper , count(ilan_ticari.id) as sayi FROM uyeler , sehir , ilan_ticari WHERE uyeler.il = sehir.plaka and uyeler.uye_tipi='1' group by uyeler.id ORDER BY RAND() LIMIT 0,15
+hata : MySQL server has gone away
+fonk : VT::sor
+satir: 5
+dosya: /home/emlaknet/public_html/tema8/footer.php
+zaman: 03.07.2014 06:44:28
+

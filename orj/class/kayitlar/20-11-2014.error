@@ -1,0 +1,8 @@
+vt   : emlaknet_emlak
+sql  : select count(id) from ilan_ticari where ilan_tipi_id between '1' and '9' and ilan_grup='1' and onay != '1' and onay !='3'
+hata : MySQL server has gone away
+fonk : VT::sor
+satir: 28
+dosya: /home/emlaknet/public_html/sabit/hizli_arama2.php
+zaman: 20.11.2014 02:01:44
+

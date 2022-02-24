@@ -1,0 +1,16 @@
+vt   : emlaknet_emlak
+sql  : select * from ilan_ticari where id= '167''
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''167''' at line 1
+fonk : VT::sor
+satir: 56
+dosya: /backup/home3/emlaknet/public_html/emlakci_site/detail.php
+zaman: 20.01.2015 16:35:33
+
+vt   : emlaknet_emlak
+sql  : select * from ilan_ticari where id= '1268''
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1268''' at line 1
+fonk : VT::sor
+satir: 56
+dosya: /backup/home3/emlaknet/public_html/emlakci_site/detail.php
+zaman: 20.01.2015 16:35:40
+

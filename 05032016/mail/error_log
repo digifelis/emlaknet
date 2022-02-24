@@ -1,0 +1,1 @@
+[21-Sep-2014 09:43:47 Europe/Helsinki] PHP Warning:  mail() has been disabled for security reasons in /home/emlaknet/public_html/mail/mailer.class.php on line 44

@@ -1,0 +1,5 @@
+Options +FollowSymLinks
+RewriteEngine On
+
+RewriteRule ^(.*)_(.*)_(.*).html$ /index.php?action=$1&id=$2 [L,NC]
+

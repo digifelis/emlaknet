@@ -1,0 +1,16 @@
+vt   : emlaknet_emlak
+sql  : update ilan_ticari set `fiyat` = '3500000', `birim` = '1',`kullanim_durumu` = '1', kullanim_amaci = '1',toplam_metrekare = '20500',kullanilabilir_metrekare = '2042',`yapi_tipi` = '4',`yapi_durum` = '2',`bulundugu_kat` = '0', `bina_kat_sayisi` = '0', `yapim_yili` = '0',`isinma_tipi` = '7',`yakit_tipi` = '5',`adres` = 'ELAZIÐ / MERKEZ / ELAZIÐ DÝYARBAKIR YOLU ÜZERÝ ', `posta_kodu` = '', `il_ilce` = '', `aciklama` = 'ELAZIÐ MERKEZ 20.500 M2 ARSA ÜZERÝNDE SATILIK BENZÝN ÝSTASYONU VE DÝNLENME TESÝSÝ TÜRKÝYE'DE BÜYÜKLÜK VE YATIRIM OLARAK EN BÜYÜK 10 ÝSTASYON ÝÇÝNDEDÝR. 20.500 M2. ÝSTASYON ARSASI VAR... 2.042 M2. KAPALI ALANI VAR... 5 ADET BENZÝN VE MAZOT ADASI VAR, 30 ADET TABANCALI 1 ADET LPG ADASI VAR - 2 ADET TABANCALI 5.000.-LT. GÜNLÜK SATIÞI VAR BÝNANIN YAÞI : 10 ÝNTÝFA BÝTÝÞ TARÝHÝ : 31.12.2015 KAR MARJI : % YÜZ YÜZE GÖRÜÞÜLECEK FÝRMADAN ALDIÐI PRÝM : % YÜZ YÜZE GÖRÜÞÜLECEK TANKERÝ : YOK ÞÝRKETÝ ÝLE BÝRLÝKTE SATILIKMI : HAYIR ÝPOTEK VARMI : YOK EXSPER DEÐERÝ : YAPILMAMIÞ', `ilan_suresi` = '365', `satis_tarihi` = 'hemen' , kredi='0' , dosya_no='' ,gx='', gy='' ,onay='0' where id= '5121'
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DE BÜYÜKLÜK VE YATIRIM OLARAK EN BÜYÜK 10 ÝSTASYON ÝÇÝNDEDÝR. 20.500 M2. ÝSTASYO' at line 1
+fonk : VT::sor
+satir: 139
+dosya: /home/emlaknet/public_html/bayi/edit_form2.php
+zaman: 01.08.2013 09:39:15
+
+vt   : emlaknet_emlak
+sql  : update ilan_ticari set fiyat= '9500000', `birim`= '2',toplam_metrekare= '37000',kullanilabilir_metrekare= '37000',tapu_durum= '',adres= 'antalya manavgat ilçesi',posta_kodu= '',il_ilce= '',aciklama= 'antalya manavgat ilçesi hatipler köyün'de manavgat merkezine 1 km. uzaklýkta alanya antalya yolu manavgat tabelasý giriþinde 37.000 m2. tamamý ticari olan avm için satýlýk arsa',ilan_suresi= '365',satis_tarihi= 'hemen' , kredi='0' , dosya_no='' ,gx='', gy='' ,onay='0' where id= '3773'
+hata : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'de manavgat merkezine 1 km. uzaklýkta alanya antalya yolu manavgat tabelasý giri' at line 1
+fonk : VT::sor
+satir: 139
+dosya: /home/emlaknet/public_html/bayi/edit_form3.php
+zaman: 01.08.2013 18:26:08
+
